@@ -13,6 +13,9 @@ from time import sleep
 # Module for the while loop
 from datetime import datetime, timedelta
 
+# Module for cpu monitoring
+from gpiozero import CPUTemperature
+
 # Defining the main function
 def main_function():
 
@@ -37,15 +40,11 @@ def main_function():
         # Save each lap in log
         logger.info(f"Loop number {loop+1} started")
 
-        # Variables for the dayNight function
-        timescale = load.timescale().now()  # Unused
-        # Load ephemeris (high accuracy table with position of celestial objects)
-        ephemeris = load("de421.bsp")  # Unused
-
         light = dayNight()
 
         # If the ISS is orbiting above the illuminated part of the earth run this code
         if light == True:
+            
             logger.info("day - save image")
 
             # Determine the path and name of the images
@@ -66,6 +65,10 @@ def main_function():
         # Update the current time
         now_time = datetime.now()
         print(now_time)
+        
+        # Cpu temperature monitoring
+        cpu = CPUTemperature()
+        logger.info("current cpu temperature", cpu)
 
         # Raspberry warm-up time in order to avoid thermal-throttling
         sleep(9.5)
