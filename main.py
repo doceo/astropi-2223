@@ -13,7 +13,7 @@ from time import sleep
 # Module for the while loop
 from datetime import datetime, timedelta
 
-# Module for cpu monitoring
+# Module for cpu temperature monitoring
 from gpiozero import CPUTemperature
 
 # Defining the main function
