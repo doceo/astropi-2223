@@ -34,8 +34,11 @@ def main_function():
     # Loop is the variable needed to save
     loop = 0
 
+    # The average time (in seconds) take for a loop iteration to happen, tested in worst case scenario
+    LOOP_TIME = 30
+
     # Run loop for three hours
-    while now_time < start_time + timedelta(minutes=180):
+    while now_time < start_time + timedelta(seconds=10800 - LOOP_TIME):
 
         # Save each lap in log
         logger.info(f"Loop number {loop+1} started")
