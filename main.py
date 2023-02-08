@@ -74,7 +74,7 @@ def main_function():
         logger.info("current cpu temperature", cpu)
 
         # Raspberry warm-up time in order to avoid thermal-throttling
-        sleep(9.5)
+        sleep(12)
 
         loop += 1
 
