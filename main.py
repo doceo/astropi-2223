@@ -5,7 +5,7 @@ from utils import *
 from logzero import logger, logfile
 
 # Module for path of the CSV file
-from pathlib import Path
+from os import path
 
 # Module for warm-up
 from time import sleep
@@ -20,8 +20,8 @@ from gpiozero import CPUTemperature
 def main_function():
 
     # Initialise the CSV file
-    base_folder = Path(__file__).parent.resolve()
-    data_file = base_folder / "data.csv"
+    base_folder = path.dirname(__file__)
+    data_file = path.join(base_folder, "data.csv")
     create_csv(data_file)
 
     # Inizialise the Log File
@@ -34,16 +34,32 @@ def main_function():
     # Loop is the variable needed to save
     loop = 0
 
-    # The average time (in seconds) take for a loop iteration to happen, tested in worst case scenario
+    # The time (in seconds) taken for a loop iteration to happen, tested in worst case scenario
     LOOP_TIME = 30
+
+    # The temperature limit under which the Raspberry can operate safely
+    TEMPERATURE_LIMIT = 60
 
     # Run loop for three hours
     while now_time < start_time + timedelta(seconds=10800 - LOOP_TIME):
 
         # Save each lap in log
         logger.info(f"Loop number {loop+1} started")
+        
+        # Cpu temperature monitoring
+        cpu = CPUTemperature()
+        logger.info(f"Current CPU temperature {cpu.temperature}")
 
-        light = dayNight()
+        if cpu.temperature > TEMPERATURE_LIMIT:
+            COOLDOWN_TIME = 15
+            logger.info(f"Temperature limit reached - Waiting {COOLDOWN_TIME} seconds to cool down")
+            
+            sleep(COOLDOWN_TIME)
+            loop += 1
+            
+            continue
+
+        light = day_night()
 
         # If the ISS is orbiting above the illuminated part of the earth run this code
         if light == True:
@@ -69,9 +85,6 @@ def main_function():
         now_time = datetime.now()
         print(now_time)
         
-        # Cpu temperature monitoring
-        cpu = CPUTemperature()
-        logger.info(f"current cpu temperature {cpu.temperature}")
 
         # Raspberry warm-up time in order to avoid thermal-throttling
         sleep(12)

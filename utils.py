@@ -1,4 +1,4 @@
-# Modules for daynight function
+# Modules for day_night function
 from orbit import ISS
 from skyfield.api import load
 
@@ -55,7 +55,7 @@ def capture(imName, dFile, test):
 
 
 # Define the function that determines if the ISS is orbiting above the illuminated part of the earth
-def dayNight():
+def day_night():
 
     timescale = load.timescale().now()
 
@@ -83,3 +83,4 @@ def add_csv_data(data_file, data):
     with open(data_file, "a+") as f:
         writer = csv.writer(f)
         writer.writerow(data)
+
