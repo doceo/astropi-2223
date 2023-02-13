@@ -25,7 +25,7 @@ def main_function():
     create_csv(data_file)
 
     # Inizialise the Log File
-    logfile(base_folder / "events.log")
+    logfile(path.join(base_folder, "events.log"))
 
     # Collecting current time
     start_time = datetime.now()
