@@ -73,7 +73,6 @@ def main_function():
             # Capturing the images
             try:
                 capture(path_image, data_file, 0)
-                # camera.capture(f"{save_file}")
             except Exception as e:
                 logger.error(f"{e.__class__.__name__}: {e}")
 
