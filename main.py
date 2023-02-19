@@ -38,7 +38,7 @@ def main_function():
     LOOP_TIME = 30
 
     # The temperature limit under which the Raspberry can operate safely
-    TEMPERATURE_LIMIT = 60
+    TEMPERATURE_LIMIT = 63
 
     # Run loop for three hours
     while now_time < start_time + timedelta(seconds=10800 - LOOP_TIME):
