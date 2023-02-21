@@ -45,9 +45,11 @@ def main_function():
 
     # Run loop for three hours
     while now_time < start_time + timedelta(seconds=10800 - LOOP_TIME):
+        
+        loop += 1
 
         # Save each lap in log
-        logger.info(f"Loop number {loop+1} started")
+        logger.info(f"Loop number {loop} started")
 
         # Cpu temperature monitoring
         cpu = CPUTemperature()
@@ -60,13 +62,10 @@ def main_function():
             )
 
             sleep(COOLDOWN_TIME)
-            loop += 1
 
             continue
 
         light = day_night()
-
-        loop += 1
 
         # Update the current time
         now_time = datetime.now()
