@@ -86,7 +86,7 @@ def main_function():
         
 
         # Raspberry warm-up time in order to avoid thermal-throttling
-        sleep(11)
+        sleep(9)
 
         loop += 1
 
