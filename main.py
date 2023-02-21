@@ -78,7 +78,7 @@ def main_function():
 
         else:
             logger.info("night - wait 20 seconds")
-            sleep(20)
+            sleep(11)
 
         # Update the current time
         now_time = datetime.now()
