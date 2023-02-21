@@ -68,7 +68,7 @@ def main_function():
 
             # Determine the path and name of the images
             image_name = str(datetime.now().strftime("%Y%m%d-%H%M%S"))
-            path_image = str(base_folder) + "/images/" + image_name
+            path_image = path.join(base_folder, "images", image_name)
 
             # Capturing the images
             try:
