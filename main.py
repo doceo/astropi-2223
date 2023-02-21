@@ -16,6 +16,18 @@ from datetime import datetime, timedelta
 # Module for cpu temperature monitoring
 from gpiozero import CPUTemperature
 
+# The time (in seconds) taken for a loop iteration to happen, tested in worst case scenario
+LOOP_TIME = 30
+
+# The temperature limit under which the Raspberry can operate safely
+TEMPERATURE_LIMIT = 63
+
+# The max space that the images can reach (2.9 GB)
+MAX_SPACE = 31138512892.6
+
+TEST = False
+
+
 # Defining the main function
 def main_function():
 
@@ -34,13 +46,6 @@ def main_function():
     # Loop is the variable needed to save
     loop = 0
 
-    # The time (in seconds) taken for a loop iteration to happen, tested in worst case scenario
-    LOOP_TIME = 30
-
-    # The temperature limit under which the Raspberry can operate safely
-    TEMPERATURE_LIMIT = 63
-    # The max space that the images can reach (2.9 GB that have to be converted in bytes)
-    MAX_SPACE = 2.9 * (1024**3)
     total_size = 0
 
     # Run loop for three hours
@@ -54,18 +59,12 @@ def main_function():
         logger.info(f"Current CPU temperature {cpu.temperature}")
 
         if cpu.temperature > TEMPERATURE_LIMIT:
-            COOLDOWN_TIME = 15
-            logger.info(
-                f"Temperature limit reached - Waiting {COOLDOWN_TIME} seconds to cool down"
-            )
-
-            sleep(COOLDOWN_TIME)
+            logger.info("Temperature limit reached - Waiting 15 seconds to cool down")
+            sleep(15)
             loop += 1
-
             continue
 
         light = day_night()
-
         loop += 1
 
         # Update the current time
@@ -73,7 +72,7 @@ def main_function():
         print(now_time)
 
         # If the ISS is not orbiting above the illuminated part of the earth run this code
-        if light != True:
+        if light is not True:
             logger.info("night - wait 20 seconds")
             sleep(20)
             continue
@@ -92,16 +91,20 @@ def main_function():
             base_folder, "images", str(datetime.now().strftime("%Y%m%d-%H%M%S"))
         )
 
+        if TEST is True:
+            sleep(11)
+            break
+
         # Capturing the images
         try:
-            capture(path_image, data_file, 0)
+            capture(path_image, data_file)
             # Add the size of the last picture taken to the total space occupied
             total_size += stat(path_image).st_size
         except Exception as e:
             logger.error(f"{e.__class__.__name__}: {e}")
 
         # Raspberry warm-up time in order to avoid thermal-throttling
-        sleep(9)
+        sleep(11)
 
     logger.info("Ending the loop\n\n")
 
