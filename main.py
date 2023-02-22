@@ -101,7 +101,7 @@ def main_function():
         )
 
         if TEST is True:
-            sleep(11)
+            sleep(15)
             break
 
         # Capturing the images
@@ -115,7 +115,7 @@ def main_function():
         day_cycle += 1
 
         # Raspberry warm-up time in order to avoid thermal-throttling
-        sleep(13)
+        sleep(15)
 
     logger.info("Ending the loop\n\n")
 
