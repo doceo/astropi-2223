@@ -115,7 +115,7 @@ def main_function():
         day_cycle += 1
 
         # Raspberry warm-up time in order to avoid thermal-throttling
-        sleep(11)
+        sleep(13)
 
     logger.info("Ending the loop\n\n")
 
