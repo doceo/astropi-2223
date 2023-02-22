@@ -26,6 +26,7 @@ TEMPERATURE_LIMIT = 63
 MAX_SPACE = 31138512892.6
 
 TEST = False
+ADVANCE_LOG = True
 
 
 # Defining the main function
@@ -48,6 +49,11 @@ def main_function():
 
     total_size = 0
 
+    day_cycle = 0
+    night_cycle = 0
+    cooldown_cycle = 0
+    temperatures = []
+
     # Run loop for three hours
     while now_time < start_time + timedelta(seconds=10800 - LOOP_TIME):
 
@@ -59,9 +65,11 @@ def main_function():
         # Cpu temperature monitoring
         cpu = CPUTemperature()
         logger.info(f"Current CPU temperature {cpu.temperature}")
+        temperatures.append(float(cpu.temperature))
 
         if cpu.temperature > TEMPERATURE_LIMIT:
             logger.info("Temperature limit reached - Waiting 15 seconds to cool down")
+            cooldown_cycle += 1
             sleep(15)
             continue
 
@@ -72,8 +80,9 @@ def main_function():
         print(now_time)
 
         # If the ISS is not orbiting above the illuminated part of the earth run this code
-        if light is not True:
+        if light is False:
             logger.info("night - wait 20 seconds")
+            night_cycle += 1
             sleep(20)
             continue
 
@@ -103,10 +112,39 @@ def main_function():
         except Exception as e:
             logger.error(f"{e.__class__.__name__}: {e}")
 
+        day_cycle += 1
+
         # Raspberry warm-up time in order to avoid thermal-throttling
         sleep(11)
 
     logger.info("Ending the loop\n\n")
+
+    if ADVANCE_LOG is False:
+        return
+
+    average_temperature = sum(temperatures) / len(temperatures)
+    then, now = start_time.strftime("%Y%m%d-%H%M%S"), datetime.now().strftime(
+        "%Y%m%d-%H%M%S"
+    )
+    total_duration = (datetime.now() - start_time).seconds
+
+    to_GB = lambda x: x * (1024**3)
+
+    free_space = MAX_SPACE - total_size
+
+    logger.info(
+        f"Executed: {day_cycle} day cycles, {night_cycle} night cycles, during the day, {cooldown_cycle} cooldown cycles"
+    )
+
+    logger.info(
+        f"The code started at {then} and ended at {now} - total duration: {total_duration}s"
+    )
+
+    logger.info(f"Average temperature: {average_temperature}")
+
+    logger.info(
+        f"{to_GB(total_size)}GB was occupied of the {to_GB(MAX_SPACE)}GB available - {to_GB(free_space)}GB are still available"
+    )
 
 
 # Main code
