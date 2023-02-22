@@ -128,7 +128,7 @@ def main_function():
     )
     total_duration = (datetime.now() - start_time).seconds
 
-    to_GB = lambda x: x * (1024**3)
+    to_GB = lambda x: x / (1024**3)
 
     free_space = MAX_SPACE - total_size
 
