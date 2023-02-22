@@ -17,15 +17,14 @@ from datetime import datetime, timedelta
 from gpiozero import CPUTemperature
 
 # The time (in seconds) taken for a loop iteration to happen, tested in worst case scenario
-LOOP_TIME = 30
+LOOP_TIME = 25
 
 # The temperature limit under which the Raspberry can operate safely
 TEMPERATURE_LIMIT = 63
 
 # The max space that the images can reach (2.9 GB)
-MAX_SPACE = 31138512892.6
+MAX_SPACE = 3113851289.6
 
-TEST = False
 ADVANCE_LOG = True
 
 
@@ -55,7 +54,7 @@ def main_function():
     temperatures = []
 
     # Run loop for three hours
-    while now_time < start_time + timedelta(seconds=10800 - LOOP_TIME):
+    while now_time <= start_time + timedelta(seconds=10800 - LOOP_TIME):
 
         loop += 1
 
@@ -100,10 +99,6 @@ def main_function():
             base_folder, "images", str(datetime.now().strftime("%Y%m%d-%H%M%S"))
         )
 
-        if TEST is True:
-            sleep(15)
-            break
-
         # Capturing the images
         try:
             save_file = capture(path_image, data_file)
@@ -115,7 +110,7 @@ def main_function():
         day_cycle += 1
 
         # Raspberry warm-up time in order to avoid thermal-throttling
-        sleep(15)
+        sleep(14)
 
     logger.info("Ending the loop\n\n")
 
