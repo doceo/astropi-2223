@@ -106,9 +106,9 @@ def main_function():
 
         # Capturing the images
         try:
-            capture(path_image, data_file)
+            save_file = capture(path_image, data_file)
             # Add the size of the last picture taken to the total space occupied
-            total_size += stat(path_image).st_size
+            total_size += stat(save_file).st_size
         except Exception as e:
             logger.error(f"{e.__class__.__name__}: {e}")
 

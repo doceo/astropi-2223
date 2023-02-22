@@ -73,7 +73,7 @@ def capture(imName, dFile):
     # Closing camera
     camera.close()
 
-    return True
+    return save_file
 
 
 # Define the function that determines if the ISS is orbiting above the illuminated part of the earth
