@@ -7,10 +7,17 @@ import csv
 
 # Modules for camera
 from picamera import PiCamera
-from time import sleep
+from os import exists as os_exists
 
 # Load ephemeris (high accuracy table with position of celestial objects)
 EPHEMERIS = sky_load("de421.bsp")
+
+
+def create_log(log_file):
+    # Check if the log file exists, otherwise it's created
+    if os_exists(log_file) is False:
+        with open(log_file, "w"):
+            pass
 
 
 def convert(angle):
