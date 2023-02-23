@@ -27,7 +27,7 @@ As described above, the software performs a continuous cycle lasting 180 minutes
 Experiments included extensive log analysis to pinpoint problems, such as a loop iteration taking too long or exceeding the photo limit.
 In order to make the comparison between the photos taken during the experiment and the old photos, the Department of Electrical Engineering and Information Technologies (DIETI) of the University of Naples Federico II has been contacted, to better understand the management and the evaluation of the NDVI value. This comparison will be made on earth after the experiment in order to avoid slowing down the execution of the software in space.
 
-##Safety technical choices
+## Safety technical choices
 To avoid a possible overheating of the raspberry, knowing that the maximum temperature at which it can operate is 70 ºC, if the temperature should reach 65 ºC, the shooting of the photos is interrupted for all the period of time necessary for the raspberry to cool down at the temperature of 60°C. 
 Moreover, it was also implemented a conditional check which verifies that the amount of space occupied by the photos does not get over 2,9 Gb.
 
