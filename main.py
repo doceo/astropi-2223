@@ -20,7 +20,7 @@ from gpiozero import CPUTemperature
 LOOP_TIME = 25
 
 # The sleep between each cycle
-SLEEP_TIME = 16
+SLEEP_TIME = 15
 
 # The temperature limit under which the Raspberry can operate safely
 TEMPERATURE_LIMIT = 65
