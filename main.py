@@ -22,8 +22,8 @@ LOOP_TIME = 25
 # The temperature limit under which the Raspberry can operate safely
 TEMPERATURE_LIMIT = 63
 
-# The max space that the images can reach (2.9 GB)
-MAX_SPACE = 3113851289.6
+# The max space that the images can reach (2.9 GB) minus the maximum weight of an image (6.9 MB)
+MAX_SPACE = 3106616115.2
 
 ADVANCE_LOG = True
 
