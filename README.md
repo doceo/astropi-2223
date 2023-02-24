@@ -71,7 +71,7 @@ Each of them shows for each cycle the number, the CPU temperature, the result of
 
 
 ### main.py structure
-The main file initializes the csv file, if it is not present. Then it sets the time variables to manage the 180 minute cycle that starts immediately after. The light condition is checked within the cycle, through the dayNight() function, the logic summarized by macro blocks is as follows:
+The main file initializes the csv file, if it is not present. Then it sets the time variables to manage the 180 minute cycle that starts immediately after. The light condition is checked within the cycle, through the day_night() function, the logic summarized by macro blocks is as follows:
 ![diagramma flusso 2](https://user-images.githubusercontent.com/74982114/221209695-e56156e5-83c5-4838-b9f7-5713b52bf735.jpg)
 
 
