@@ -13,27 +13,6 @@ from os import path
 EPHEMERIS = sky_load("de421.bsp")
 
 
-def create_log(log_file):
-    # Check if the log file exists, otherwise it's created
-    if path.exists(log_file) is False:
-        with open(log_file, "w"):
-            pass
-
-
-def convert(angle):
-    """
-    Convert a `skyfield` Angle to an EXIF-appropriate
-    representation (positive rationals)
-    e.g. 98° 34' 58.7 to "98/1,34/1,587/10"
-
-    Return a tuple containing a boolean and the converted angle,
-    with the boolean indicating if the angle is negative.
-    """
-    sign, degrees, minutes, seconds = angle.signed_dms()
-    exif_angle = f"{degrees:.0f}/1,{minutes:.0f}/1,{seconds*10:.0f}/10"
-    return sign < 0, exif_angle
-
-
 # Define the function for capturing the images
 def capture(imName, dFile):
     """
@@ -64,16 +43,6 @@ def capture(imName, dFile):
     add_csv_data(dFile, row)
     print(row)
 
-    # Convert the latitude and longitude to EXIF-appropriate representations
-    south, exif_latitude = convert(location.latitude)
-    west, exif_longitude = convert(location.longitude)
-
-    # Set the EXIF tags specifying the current location
-    camera.exif_tags["GPS.GPSLatitude"] = exif_latitude
-    camera.exif_tags["GPS.GPSLatitudeRef"] = "S" if south else "N"
-    camera.exif_tags["GPS.GPSLongitude"] = exif_longitude
-    camera.exif_tags["GPS.GPSLongitudeRef"] = "W" if west else "E"
-
     # Capturing the image
     camera.capture(f"{save_file}")
 
@@ -92,11 +61,17 @@ def day_night():
 
 # Define the function that creates the CSV file and write the first row
 def create_csv(data_file):
-
     with open(data_file, "w") as f:
         writer = csv.writer(f)
         header = ("Date/time", "Latitude", "Longitude", "Elevation")
         writer.writerow(header)
+
+
+def create_log(log_file):
+    # Check if the log file exists, otherwise it's created
+    if path.exists(log_file) is False:
+        with open(log_file, "w"):
+            pass
 
 
 # Define the function that writes other rows and the data

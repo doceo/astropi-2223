@@ -20,7 +20,7 @@ from gpiozero import CPUTemperature
 LOOP_TIME = 25
 
 # The sleep between each cycle
-SLEEP_TIME = 15
+SLEEP_TIME = 14
 
 # The temperature limit under which the Raspberry can operate safely
 TEMPERATURE_LIMIT = 65
@@ -71,14 +71,13 @@ def main_function():
     # Run loop for three hours
     while now_time <= start_time + timedelta(seconds=10800 - LOOP_TIME):
 
+        # Update the current time
+        now_time = datetime.now()
+
         loop += 1
 
         # Save each lap in log
         logger.info(f"Loop number {loop} started")
-
-        # Update the current time
-        now_time = datetime.now()
-        print(now_time)
 
         # Cpu temperature monitoring
         cpu = CPUTemperature()
@@ -96,8 +95,8 @@ def main_function():
         # If the ISS is not orbiting above the illuminated part of the earth run this code
         if light is False:
             logger.info("night - wait 20 seconds")
-            night_time += 20
             sleep(20)
+            night_time += (datetime.now() - now_time).seconds
             continue
 
         # If the total size of the images is bigger than the free space available to use end the loop
