@@ -49,7 +49,6 @@ images / main_function.jpg
 The functions present in utils.py are:
 
 * `create_log(log_file)` checks if the log file exists, and it creates the file if it doesn’t.
-* `convert(angle)` converts a “skyfield” angle to an EXIF-appropriate representation (positive rationals) and returns a tuple containing a boolean and the converted angle, with the boolean indicating if the angle is negative.
 * ` day_night() `allows you to distinguish day and night, it is based on the orbit and skyfield.api library and utilizes the de421.bsp file to define the position of the ISS in orbit.
 * ` capture(imName, dFile, test) ` allows the acquisition of the image, saving it in jpg format with the name consisting of the date and time of the acquisition. It includes the addition of data regarding the acquired image to the csv file which collects all the data of the shots, it is based on the picamera and time library. It takes as input, in order: the name of the image to be saved, the name of the CSV file on which to save the information and a Boolean variable that allows you to test the software even in the absence of a piCamera.
 
