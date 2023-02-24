@@ -50,6 +50,7 @@ def main_function():
 
     # Inizialise the Log file
     log_file = path.join(base_folder, "events.log")
+
     create_log(log_file)
     logfile(log_file)
 

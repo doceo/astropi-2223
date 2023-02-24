@@ -10,7 +10,7 @@ from picamera import PiCamera
 from os import path
 
 # Load ephemeris (high accuracy table with position of celestial objects)
-EPHEMERIS = sky_load("de421.bsp")
+EPHEMERIS = sky_load(path.join(path.dirname(__file__), "de421.bsp"))
 
 
 # Define the function for capturing the images
