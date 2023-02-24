@@ -1,0 +1,34 @@
+[I 230223 10:28:01 main:62] Loop number 1 started
+[I 230223 10:28:01 main:66] Current CPU temperature 41.868
+[I 230223 10:28:01 main:95] day - save image
+[I 230223 10:28:17 main:62] Loop number 2 started
+[I 230223 10:28:17 main:66] Current CPU temperature 40.894
+[I 230223 10:28:17 main:95] day - save image
+[I 230223 10:28:33 main:62] Loop number 3 started
+[I 230223 10:28:33 main:66] Current CPU temperature 39.433
+[I 230223 10:28:33 main:95] day - save image
+[I 230223 10:28:49 main:62] Loop number 4 started
+[I 230223 10:28:49 main:66] Current CPU temperature 39.433
+[I 230223 10:28:49 main:95] day - save image
+[I 230223 10:29:05 main:62] Loop number 5 started
+[I 230223 10:29:05 main:66] Current CPU temperature 40.894
+[I 230223 10:29:05 main:95] day - save image
+[I 230223 10:29:21 main:62] Loop number 6 started
+[I 230223 10:29:21 main:66] Current CPU temperature 39.92
+[I 230223 10:29:21 main:95] day - save image
+[I 230223 10:29:37 main:62] Loop number 7 started
+[I 230223 10:29:37 main:66] Current CPU temperature 40.407
+[I 230223 10:29:37 main:95] day - save image
+[I 230223 10:29:53 main:62] Loop number 8 started
+[I 230223 10:29:53 main:66] Current CPU temperature 39.92
+[I 230223 10:29:53 main:95] day - save image
+[I 230223 10:30:09 main:62] Loop number 9 started
+[I 230223 10:30:09 main:66] Current CPU temperature 40.407
+[I 230223 10:30:09 main:90] No empty space remained
+[I 230223 10:30:09 main:115] Ending the loop
+    
+    
+[I 230223 10:30:09 main:130] Executed: 8 day cycles, 0 night cycles, during the day, 0 cooldown cycles
+[I 230223 10:30:09 main:134] The code started at 20230223-102801 and ended at 20230223-103009 - total duration: 127s
+[I 230223 10:30:09 main:138] Average temperature: 40.352888888888884
+[I 230223 10:30:09 main:140] 0.04126526787877083GB was occupied of the 0.0390625GB available - -0.0022027678787708282GB are still available

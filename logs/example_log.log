@@ -1,0 +1,2062 @@
+[I 230224 11:35:02 main:80] Loop number 1 started
+[I 230224 11:35:02 main:84] Current CPU temperature 46.738
+[I 230224 11:35:02 main:97] night - wait 20 seconds
+[I 230224 11:35:22 main:80] Loop number 2 started
+[I 230224 11:35:22 main:84] Current CPU temperature 45.764
+[I 230224 11:35:22 main:97] night - wait 20 seconds
+[I 230224 11:35:42 main:80] Loop number 3 started
+[I 230224 11:35:42 main:84] Current CPU temperature 44.303
+[I 230224 11:35:42 main:97] night - wait 20 seconds
+[I 230224 11:36:02 main:80] Loop number 4 started
+[I 230224 11:36:02 main:84] Current CPU temperature 46.738
+[I 230224 11:36:02 main:97] night - wait 20 seconds
+[I 230224 11:36:22 main:80] Loop number 5 started
+[I 230224 11:36:22 main:84] Current CPU temperature 46.251
+[I 230224 11:36:22 main:97] night - wait 20 seconds
+[I 230224 11:36:42 main:80] Loop number 6 started
+[I 230224 11:36:42 main:84] Current CPU temperature 46.251
+[I 230224 11:36:42 main:97] night - wait 20 seconds
+[I 230224 11:37:02 main:80] Loop number 7 started
+[I 230224 11:37:02 main:84] Current CPU temperature 45.764
+[I 230224 11:37:02 main:97] night - wait 20 seconds
+[I 230224 11:37:22 main:80] Loop number 8 started
+[I 230224 11:37:22 main:84] Current CPU temperature 45.764
+[I 230224 11:37:22 main:97] night - wait 20 seconds
+[I 230224 11:37:42 main:80] Loop number 9 started
+[I 230224 11:37:42 main:84] Current CPU temperature 45.764
+[I 230224 11:37:42 main:97] night - wait 20 seconds
+[I 230224 11:38:02 main:80] Loop number 10 started
+[I 230224 11:38:02 main:84] Current CPU temperature 44.79
+[I 230224 11:38:02 main:97] night - wait 20 seconds
+[I 230224 11:38:22 main:80] Loop number 11 started
+[I 230224 11:38:22 main:84] Current CPU temperature 45.764
+[I 230224 11:38:22 main:97] night - wait 20 seconds
+[I 230224 11:38:42 main:80] Loop number 12 started
+[I 230224 11:38:42 main:84] Current CPU temperature 46.251
+[I 230224 11:38:42 main:97] night - wait 20 seconds
+[I 230224 11:39:02 main:80] Loop number 13 started
+[I 230224 11:39:02 main:84] Current CPU temperature 46.251
+[I 230224 11:39:03 main:97] night - wait 20 seconds
+[I 230224 11:39:23 main:80] Loop number 14 started
+[I 230224 11:39:23 main:84] Current CPU temperature 45.277
+[I 230224 11:39:23 main:97] night - wait 20 seconds
+[I 230224 11:39:43 main:80] Loop number 15 started
+[I 230224 11:39:43 main:84] Current CPU temperature 46.251
+[I 230224 11:39:43 main:97] night - wait 20 seconds
+[I 230224 11:40:03 main:80] Loop number 16 started
+[I 230224 11:40:03 main:84] Current CPU temperature 45.764
+[I 230224 11:40:03 main:97] night - wait 20 seconds
+[I 230224 11:40:23 main:80] Loop number 17 started
+[I 230224 11:40:23 main:84] Current CPU temperature 46.738
+[I 230224 11:40:23 main:97] night - wait 20 seconds
+[I 230224 11:40:43 main:80] Loop number 18 started
+[I 230224 11:40:43 main:84] Current CPU temperature 47.225
+[I 230224 11:40:43 main:97] night - wait 20 seconds
+[I 230224 11:41:03 main:80] Loop number 19 started
+[I 230224 11:41:03 main:84] Current CPU temperature 45.764
+[I 230224 11:41:03 main:97] night - wait 20 seconds
+[I 230224 11:41:23 main:80] Loop number 20 started
+[I 230224 11:41:23 main:84] Current CPU temperature 46.251
+[I 230224 11:41:23 main:97] night - wait 20 seconds
+[I 230224 11:41:43 main:80] Loop number 21 started
+[I 230224 11:41:43 main:84] Current CPU temperature 46.738
+[I 230224 11:41:43 main:97] night - wait 20 seconds
+[I 230224 11:42:03 main:80] Loop number 22 started
+[I 230224 11:42:03 main:84] Current CPU temperature 46.738
+[I 230224 11:42:03 main:97] night - wait 20 seconds
+[I 230224 11:42:23 main:80] Loop number 23 started
+[I 230224 11:42:23 main:84] Current CPU temperature 46.251
+[I 230224 11:42:23 main:97] night - wait 20 seconds
+[I 230224 11:42:43 main:80] Loop number 24 started
+[I 230224 11:42:43 main:84] Current CPU temperature 46.251
+[I 230224 11:42:43 main:97] night - wait 20 seconds
+[I 230224 11:43:03 main:80] Loop number 25 started
+[I 230224 11:43:03 main:84] Current CPU temperature 46.251
+[I 230224 11:43:03 main:97] night - wait 20 seconds
+[I 230224 11:43:23 main:80] Loop number 26 started
+[I 230224 11:43:23 main:84] Current CPU temperature 46.738
+[I 230224 11:43:23 main:97] night - wait 20 seconds
+[I 230224 11:43:43 main:80] Loop number 27 started
+[I 230224 11:43:43 main:84] Current CPU temperature 46.251
+[I 230224 11:43:43 main:97] night - wait 20 seconds
+[I 230224 11:44:03 main:80] Loop number 28 started
+[I 230224 11:44:03 main:84] Current CPU temperature 45.277
+[I 230224 11:44:03 main:97] night - wait 20 seconds
+[I 230224 11:44:23 main:80] Loop number 29 started
+[I 230224 11:44:23 main:84] Current CPU temperature 46.738
+[I 230224 11:44:23 main:97] night - wait 20 seconds
+[I 230224 11:44:43 main:80] Loop number 30 started
+[I 230224 11:44:43 main:84] Current CPU temperature 45.764
+[I 230224 11:44:43 main:97] night - wait 20 seconds
+[I 230224 11:45:03 main:80] Loop number 31 started
+[I 230224 11:45:03 main:84] Current CPU temperature 46.251
+[I 230224 11:45:03 main:97] night - wait 20 seconds
+[I 230224 11:45:24 main:80] Loop number 32 started
+[I 230224 11:45:24 main:84] Current CPU temperature 45.764
+[I 230224 11:45:24 main:97] night - wait 20 seconds
+[I 230224 11:45:44 main:80] Loop number 33 started
+[I 230224 11:45:44 main:84] Current CPU temperature 46.738
+[I 230224 11:45:44 main:97] night - wait 20 seconds
+[I 230224 11:46:04 main:80] Loop number 34 started
+[I 230224 11:46:04 main:84] Current CPU temperature 46.251
+[I 230224 11:46:04 main:97] night - wait 20 seconds
+[I 230224 11:46:24 main:80] Loop number 35 started
+[I 230224 11:46:24 main:84] Current CPU temperature 46.251
+[I 230224 11:46:24 main:97] night - wait 20 seconds
+[I 230224 11:46:44 main:80] Loop number 36 started
+[I 230224 11:46:44 main:84] Current CPU temperature 45.764
+[I 230224 11:46:44 main:97] night - wait 20 seconds
+[I 230224 11:47:04 main:80] Loop number 37 started
+[I 230224 11:47:04 main:84] Current CPU temperature 45.277
+[I 230224 11:47:04 main:97] night - wait 20 seconds
+[I 230224 11:47:24 main:80] Loop number 38 started
+[I 230224 11:47:24 main:84] Current CPU temperature 46.738
+[I 230224 11:47:24 main:97] night - wait 20 seconds
+[I 230224 11:47:44 main:80] Loop number 39 started
+[I 230224 11:47:44 main:84] Current CPU temperature 46.251
+[I 230224 11:47:44 main:97] night - wait 20 seconds
+[I 230224 11:48:04 main:80] Loop number 40 started
+[I 230224 11:48:04 main:84] Current CPU temperature 46.738
+[I 230224 11:48:04 main:97] night - wait 20 seconds
+[I 230224 11:48:24 main:80] Loop number 41 started
+[I 230224 11:48:24 main:84] Current CPU temperature 45.764
+[I 230224 11:48:24 main:97] night - wait 20 seconds
+[I 230224 11:48:44 main:80] Loop number 42 started
+[I 230224 11:48:44 main:84] Current CPU temperature 44.79
+[I 230224 11:48:44 main:97] night - wait 20 seconds
+[I 230224 11:49:04 main:80] Loop number 43 started
+[I 230224 11:49:04 main:84] Current CPU temperature 46.251
+[I 230224 11:49:04 main:97] night - wait 20 seconds
+[I 230224 11:49:24 main:80] Loop number 44 started
+[I 230224 11:49:24 main:84] Current CPU temperature 46.251
+[I 230224 11:49:24 main:97] night - wait 20 seconds
+[I 230224 11:49:44 main:80] Loop number 45 started
+[I 230224 11:49:44 main:84] Current CPU temperature 46.251
+[I 230224 11:49:44 main:97] night - wait 20 seconds
+[I 230224 11:50:04 main:80] Loop number 46 started
+[I 230224 11:50:04 main:84] Current CPU temperature 45.764
+[I 230224 11:50:04 main:97] night - wait 20 seconds
+[I 230224 11:50:24 main:80] Loop number 47 started
+[I 230224 11:50:24 main:84] Current CPU temperature 46.251
+[I 230224 11:50:24 main:97] night - wait 20 seconds
+[I 230224 11:50:44 main:80] Loop number 48 started
+[I 230224 11:50:44 main:84] Current CPU temperature 46.251
+[I 230224 11:50:44 main:97] night - wait 20 seconds
+[I 230224 11:51:05 main:80] Loop number 49 started
+[I 230224 11:51:05 main:84] Current CPU temperature 46.251
+[I 230224 11:51:05 main:97] night - wait 20 seconds
+[I 230224 11:51:25 main:80] Loop number 50 started
+[I 230224 11:51:25 main:84] Current CPU temperature 46.251
+[I 230224 11:51:25 main:97] night - wait 20 seconds
+[I 230224 11:51:45 main:80] Loop number 51 started
+[I 230224 11:51:45 main:84] Current CPU temperature 46.251
+[I 230224 11:51:45 main:97] night - wait 20 seconds
+[I 230224 11:52:05 main:80] Loop number 52 started
+[I 230224 11:52:05 main:84] Current CPU temperature 46.251
+[I 230224 11:52:05 main:97] night - wait 20 seconds
+[I 230224 11:52:25 main:80] Loop number 53 started
+[I 230224 11:52:25 main:84] Current CPU temperature 45.277
+[I 230224 11:52:25 main:97] night - wait 20 seconds
+[I 230224 11:52:45 main:80] Loop number 54 started
+[I 230224 11:52:45 main:84] Current CPU temperature 45.277
+[I 230224 11:52:45 main:97] night - wait 20 seconds
+[I 230224 11:53:05 main:80] Loop number 55 started
+[I 230224 11:53:05 main:84] Current CPU temperature 46.251
+[I 230224 11:53:05 main:97] night - wait 20 seconds
+[I 230224 11:53:25 main:80] Loop number 56 started
+[I 230224 11:53:25 main:84] Current CPU temperature 45.277
+[I 230224 11:53:25 main:97] night - wait 20 seconds
+[I 230224 11:53:45 main:80] Loop number 57 started
+[I 230224 11:53:45 main:84] Current CPU temperature 45.764
+[I 230224 11:53:45 main:97] night - wait 20 seconds
+[I 230224 11:54:05 main:80] Loop number 58 started
+[I 230224 11:54:05 main:84] Current CPU temperature 46.738
+[I 230224 11:54:05 main:97] night - wait 20 seconds
+[I 230224 11:54:25 main:80] Loop number 59 started
+[I 230224 11:54:25 main:84] Current CPU temperature 46.251
+[I 230224 11:54:25 main:97] night - wait 20 seconds
+[I 230224 11:54:45 main:80] Loop number 60 started
+[I 230224 11:54:45 main:84] Current CPU temperature 45.764
+[I 230224 11:54:45 main:97] night - wait 20 seconds
+[I 230224 11:55:05 main:80] Loop number 61 started
+[I 230224 11:55:05 main:84] Current CPU temperature 45.764
+[I 230224 11:55:05 main:97] night - wait 20 seconds
+[I 230224 11:55:25 main:80] Loop number 62 started
+[I 230224 11:55:25 main:84] Current CPU temperature 46.251
+[I 230224 11:55:25 main:97] night - wait 20 seconds
+[I 230224 11:55:45 main:80] Loop number 63 started
+[I 230224 11:55:45 main:84] Current CPU temperature 46.251
+[I 230224 11:55:45 main:97] night - wait 20 seconds
+[I 230224 11:56:05 main:80] Loop number 64 started
+[I 230224 11:56:05 main:84] Current CPU temperature 46.738
+[I 230224 11:56:05 main:97] night - wait 20 seconds
+[I 230224 11:56:25 main:80] Loop number 65 started
+[I 230224 11:56:25 main:84] Current CPU temperature 45.277
+[I 230224 11:56:26 main:97] night - wait 20 seconds
+[I 230224 11:56:46 main:80] Loop number 66 started
+[I 230224 11:56:46 main:84] Current CPU temperature 45.764
+[I 230224 11:56:46 main:97] night - wait 20 seconds
+[I 230224 11:57:06 main:80] Loop number 67 started
+[I 230224 11:57:06 main:84] Current CPU temperature 47.225
+[I 230224 11:57:06 main:97] night - wait 20 seconds
+[I 230224 11:57:26 main:80] Loop number 68 started
+[I 230224 11:57:26 main:84] Current CPU temperature 46.251
+[I 230224 11:57:26 main:97] night - wait 20 seconds
+[I 230224 11:57:46 main:80] Loop number 69 started
+[I 230224 11:57:46 main:84] Current CPU temperature 46.738
+[I 230224 11:57:46 main:97] night - wait 20 seconds
+[I 230224 11:58:06 main:80] Loop number 70 started
+[I 230224 11:58:06 main:84] Current CPU temperature 46.738
+[I 230224 11:58:06 main:97] night - wait 20 seconds
+[I 230224 11:58:26 main:80] Loop number 71 started
+[I 230224 11:58:26 main:84] Current CPU temperature 45.764
+[I 230224 11:58:26 main:97] night - wait 20 seconds
+[I 230224 11:58:46 main:80] Loop number 72 started
+[I 230224 11:58:46 main:84] Current CPU temperature 47.225
+[I 230224 11:58:46 main:109] day - save image
+[I 230224 11:59:00 main:80] Loop number 73 started
+[I 230224 11:59:00 main:84] Current CPU temperature 45.764
+[I 230224 11:59:00 main:109] day - save image
+[I 230224 11:59:14 main:80] Loop number 74 started
+[I 230224 11:59:14 main:84] Current CPU temperature 46.251
+[I 230224 11:59:14 main:109] day - save image
+[I 230224 11:59:28 main:80] Loop number 75 started
+[I 230224 11:59:28 main:84] Current CPU temperature 46.251
+[I 230224 11:59:28 main:109] day - save image
+[I 230224 11:59:42 main:80] Loop number 76 started
+[I 230224 11:59:42 main:84] Current CPU temperature 46.738
+[I 230224 11:59:42 main:109] day - save image
+[I 230224 11:59:56 main:80] Loop number 77 started
+[I 230224 11:59:56 main:84] Current CPU temperature 46.738
+[I 230224 11:59:56 main:109] day - save image
+[I 230224 12:00:10 main:80] Loop number 78 started
+[I 230224 12:00:10 main:84] Current CPU temperature 47.225
+[I 230224 12:00:10 main:109] day - save image
+[I 230224 12:00:24 main:80] Loop number 79 started
+[I 230224 12:00:24 main:84] Current CPU temperature 46.738
+[I 230224 12:00:24 main:109] day - save image
+[I 230224 12:00:38 main:80] Loop number 80 started
+[I 230224 12:00:38 main:84] Current CPU temperature 47.712
+[I 230224 12:00:38 main:109] day - save image
+[I 230224 12:00:52 main:80] Loop number 81 started
+[I 230224 12:00:52 main:84] Current CPU temperature 46.738
+[I 230224 12:00:52 main:109] day - save image
+[I 230224 12:01:06 main:80] Loop number 82 started
+[I 230224 12:01:06 main:84] Current CPU temperature 47.712
+[I 230224 12:01:06 main:109] day - save image
+[I 230224 12:01:20 main:80] Loop number 83 started
+[I 230224 12:01:20 main:84] Current CPU temperature 45.277
+[I 230224 12:01:20 main:109] day - save image
+[I 230224 12:01:34 main:80] Loop number 84 started
+[I 230224 12:01:34 main:84] Current CPU temperature 46.738
+[I 230224 12:01:34 main:109] day - save image
+[I 230224 12:01:49 main:80] Loop number 85 started
+[I 230224 12:01:49 main:84] Current CPU temperature 47.225
+[I 230224 12:01:49 main:109] day - save image
+[I 230224 12:02:03 main:80] Loop number 86 started
+[I 230224 12:02:03 main:84] Current CPU temperature 47.225
+[I 230224 12:02:03 main:109] day - save image
+[I 230224 12:02:17 main:80] Loop number 87 started
+[I 230224 12:02:17 main:84] Current CPU temperature 46.738
+[I 230224 12:02:17 main:109] day - save image
+[I 230224 12:02:31 main:80] Loop number 88 started
+[I 230224 12:02:31 main:84] Current CPU temperature 47.225
+[I 230224 12:02:31 main:109] day - save image
+[I 230224 12:02:45 main:80] Loop number 89 started
+[I 230224 12:02:45 main:84] Current CPU temperature 46.251
+[I 230224 12:02:45 main:109] day - save image
+[I 230224 12:02:59 main:80] Loop number 90 started
+[I 230224 12:02:59 main:84] Current CPU temperature 46.251
+[I 230224 12:02:59 main:109] day - save image
+[I 230224 12:03:13 main:80] Loop number 91 started
+[I 230224 12:03:13 main:84] Current CPU temperature 47.225
+[I 230224 12:03:13 main:109] day - save image
+[I 230224 12:03:26 main:80] Loop number 92 started
+[I 230224 12:03:26 main:84] Current CPU temperature 47.225
+[I 230224 12:03:26 main:109] day - save image
+[I 230224 12:03:40 main:80] Loop number 93 started
+[I 230224 12:03:40 main:84] Current CPU temperature 47.225
+[I 230224 12:03:40 main:109] day - save image
+[I 230224 12:03:54 main:80] Loop number 94 started
+[I 230224 12:03:54 main:84] Current CPU temperature 47.225
+[I 230224 12:03:54 main:109] day - save image
+[I 230224 12:04:08 main:80] Loop number 95 started
+[I 230224 12:04:08 main:84] Current CPU temperature 47.712
+[I 230224 12:04:08 main:109] day - save image
+[I 230224 12:04:22 main:80] Loop number 96 started
+[I 230224 12:04:22 main:84] Current CPU temperature 46.738
+[I 230224 12:04:22 main:109] day - save image
+[I 230224 12:04:36 main:80] Loop number 97 started
+[I 230224 12:04:36 main:84] Current CPU temperature 47.712
+[I 230224 12:04:36 main:109] day - save image
+[I 230224 12:04:50 main:80] Loop number 98 started
+[I 230224 12:04:50 main:84] Current CPU temperature 48.686
+[I 230224 12:04:50 main:109] day - save image
+[I 230224 12:05:04 main:80] Loop number 99 started
+[I 230224 12:05:04 main:84] Current CPU temperature 47.225
+[I 230224 12:05:04 main:109] day - save image
+[I 230224 12:05:18 main:80] Loop number 100 started
+[I 230224 12:05:18 main:84] Current CPU temperature 46.251
+[I 230224 12:05:18 main:109] day - save image
+[I 230224 12:05:32 main:80] Loop number 101 started
+[I 230224 12:05:32 main:84] Current CPU temperature 45.764
+[I 230224 12:05:32 main:109] day - save image
+[I 230224 12:05:46 main:80] Loop number 102 started
+[I 230224 12:05:46 main:84] Current CPU temperature 47.712
+[I 230224 12:05:46 main:109] day - save image
+[I 230224 12:06:00 main:80] Loop number 103 started
+[I 230224 12:06:00 main:84] Current CPU temperature 47.225
+[I 230224 12:06:00 main:109] day - save image
+[I 230224 12:06:13 main:80] Loop number 104 started
+[I 230224 12:06:13 main:84] Current CPU temperature 46.738
+[I 230224 12:06:14 main:109] day - save image
+[I 230224 12:06:27 main:80] Loop number 105 started
+[I 230224 12:06:27 main:84] Current CPU temperature 46.251
+[I 230224 12:06:27 main:109] day - save image
+[I 230224 12:06:41 main:80] Loop number 106 started
+[I 230224 12:06:41 main:84] Current CPU temperature 46.251
+[I 230224 12:06:41 main:109] day - save image
+[I 230224 12:06:55 main:80] Loop number 107 started
+[I 230224 12:06:55 main:84] Current CPU temperature 47.225
+[I 230224 12:06:55 main:109] day - save image
+[I 230224 12:07:09 main:80] Loop number 108 started
+[I 230224 12:07:09 main:84] Current CPU temperature 47.712
+[I 230224 12:07:09 main:109] day - save image
+[I 230224 12:07:23 main:80] Loop number 109 started
+[I 230224 12:07:23 main:84] Current CPU temperature 46.738
+[I 230224 12:07:23 main:109] day - save image
+[I 230224 12:07:37 main:80] Loop number 110 started
+[I 230224 12:07:37 main:84] Current CPU temperature 46.738
+[I 230224 12:07:37 main:109] day - save image
+[I 230224 12:07:51 main:80] Loop number 111 started
+[I 230224 12:07:51 main:84] Current CPU temperature 47.225
+[I 230224 12:07:51 main:109] day - save image
+[I 230224 12:08:05 main:80] Loop number 112 started
+[I 230224 12:08:05 main:84] Current CPU temperature 47.225
+[I 230224 12:08:05 main:109] day - save image
+[I 230224 12:08:19 main:80] Loop number 113 started
+[I 230224 12:08:19 main:84] Current CPU temperature 45.764
+[I 230224 12:08:19 main:109] day - save image
+[I 230224 12:08:33 main:80] Loop number 114 started
+[I 230224 12:08:33 main:84] Current CPU temperature 46.738
+[I 230224 12:08:33 main:109] day - save image
+[I 230224 12:08:47 main:80] Loop number 115 started
+[I 230224 12:08:47 main:84] Current CPU temperature 47.712
+[I 230224 12:08:47 main:109] day - save image
+[I 230224 12:09:01 main:80] Loop number 116 started
+[I 230224 12:09:01 main:84] Current CPU temperature 47.712
+[I 230224 12:09:01 main:109] day - save image
+[I 230224 12:09:15 main:80] Loop number 117 started
+[I 230224 12:09:15 main:84] Current CPU temperature 46.738
+[I 230224 12:09:16 main:109] day - save image
+[I 230224 12:09:29 main:80] Loop number 118 started
+[I 230224 12:09:29 main:84] Current CPU temperature 47.225
+[I 230224 12:09:29 main:109] day - save image
+[I 230224 12:09:43 main:80] Loop number 119 started
+[I 230224 12:09:43 main:84] Current CPU temperature 45.764
+[I 230224 12:09:43 main:109] day - save image
+[I 230224 12:09:57 main:80] Loop number 120 started
+[I 230224 12:09:57 main:84] Current CPU temperature 46.738
+[I 230224 12:09:57 main:109] day - save image
+[I 230224 12:10:11 main:80] Loop number 121 started
+[I 230224 12:10:11 main:84] Current CPU temperature 46.738
+[I 230224 12:10:11 main:109] day - save image
+[I 230224 12:10:25 main:80] Loop number 122 started
+[I 230224 12:10:25 main:84] Current CPU temperature 47.225
+[I 230224 12:10:25 main:109] day - save image
+[I 230224 12:10:39 main:80] Loop number 123 started
+[I 230224 12:10:39 main:84] Current CPU temperature 46.738
+[I 230224 12:10:39 main:109] day - save image
+[I 230224 12:10:53 main:80] Loop number 124 started
+[I 230224 12:10:53 main:84] Current CPU temperature 46.738
+[I 230224 12:10:53 main:109] day - save image
+[I 230224 12:11:07 main:80] Loop number 125 started
+[I 230224 12:11:07 main:84] Current CPU temperature 46.738
+[I 230224 12:11:07 main:109] day - save image
+[I 230224 12:11:21 main:80] Loop number 126 started
+[I 230224 12:11:21 main:84] Current CPU temperature 47.225
+[I 230224 12:11:21 main:109] day - save image
+[I 230224 12:11:35 main:80] Loop number 127 started
+[I 230224 12:11:35 main:84] Current CPU temperature 45.764
+[I 230224 12:11:35 main:109] day - save image
+[I 230224 12:11:49 main:80] Loop number 128 started
+[I 230224 12:11:49 main:84] Current CPU temperature 46.738
+[I 230224 12:11:49 main:109] day - save image
+[I 230224 12:12:02 main:80] Loop number 129 started
+[I 230224 12:12:02 main:84] Current CPU temperature 46.738
+[I 230224 12:12:03 main:109] day - save image
+[I 230224 12:12:16 main:80] Loop number 130 started
+[I 230224 12:12:16 main:84] Current CPU temperature 46.738
+[I 230224 12:12:16 main:109] day - save image
+[I 230224 12:12:30 main:80] Loop number 131 started
+[I 230224 12:12:30 main:84] Current CPU temperature 46.738
+[I 230224 12:12:30 main:109] day - save image
+[I 230224 12:12:44 main:80] Loop number 132 started
+[I 230224 12:12:44 main:84] Current CPU temperature 46.738
+[I 230224 12:12:44 main:109] day - save image
+[I 230224 12:12:58 main:80] Loop number 133 started
+[I 230224 12:12:58 main:84] Current CPU temperature 46.738
+[I 230224 12:12:58 main:109] day - save image
+[I 230224 12:13:12 main:80] Loop number 134 started
+[I 230224 12:13:12 main:84] Current CPU temperature 46.738
+[I 230224 12:13:12 main:109] day - save image
+[I 230224 12:13:26 main:80] Loop number 135 started
+[I 230224 12:13:26 main:84] Current CPU temperature 47.712
+[I 230224 12:13:26 main:109] day - save image
+[I 230224 12:13:40 main:80] Loop number 136 started
+[I 230224 12:13:40 main:84] Current CPU temperature 46.738
+[I 230224 12:13:40 main:109] day - save image
+[I 230224 12:13:54 main:80] Loop number 137 started
+[I 230224 12:13:54 main:84] Current CPU temperature 45.277
+[I 230224 12:13:54 main:109] day - save image
+[I 230224 12:14:08 main:80] Loop number 138 started
+[I 230224 12:14:08 main:84] Current CPU temperature 46.251
+[I 230224 12:14:08 main:109] day - save image
+[I 230224 12:14:22 main:80] Loop number 139 started
+[I 230224 12:14:22 main:84] Current CPU temperature 46.251
+[I 230224 12:14:22 main:109] day - save image
+[I 230224 12:14:36 main:80] Loop number 140 started
+[I 230224 12:14:36 main:84] Current CPU temperature 46.738
+[I 230224 12:14:36 main:109] day - save image
+[I 230224 12:14:50 main:80] Loop number 141 started
+[I 230224 12:14:50 main:84] Current CPU temperature 47.225
+[I 230224 12:14:50 main:109] day - save image
+[I 230224 12:15:03 main:80] Loop number 142 started
+[I 230224 12:15:03 main:84] Current CPU temperature 46.738
+[I 230224 12:15:03 main:109] day - save image
+[I 230224 12:15:17 main:80] Loop number 143 started
+[I 230224 12:15:17 main:84] Current CPU temperature 47.712
+[I 230224 12:15:17 main:109] day - save image
+[I 230224 12:15:31 main:80] Loop number 144 started
+[I 230224 12:15:31 main:84] Current CPU temperature 47.225
+[I 230224 12:15:31 main:109] day - save image
+[I 230224 12:15:45 main:80] Loop number 145 started
+[I 230224 12:15:45 main:84] Current CPU temperature 46.738
+[I 230224 12:15:45 main:109] day - save image
+[I 230224 12:15:59 main:80] Loop number 146 started
+[I 230224 12:15:59 main:84] Current CPU temperature 48.686
+[I 230224 12:15:59 main:109] day - save image
+[I 230224 12:16:13 main:80] Loop number 147 started
+[I 230224 12:16:13 main:84] Current CPU temperature 46.738
+[I 230224 12:16:13 main:109] day - save image
+[I 230224 12:16:27 main:80] Loop number 148 started
+[I 230224 12:16:27 main:84] Current CPU temperature 47.225
+[I 230224 12:16:27 main:109] day - save image
+[I 230224 12:16:42 main:80] Loop number 149 started
+[I 230224 12:16:42 main:84] Current CPU temperature 47.225
+[I 230224 12:16:42 main:109] day - save image
+[I 230224 12:16:56 main:80] Loop number 150 started
+[I 230224 12:16:56 main:84] Current CPU temperature 45.764
+[I 230224 12:16:56 main:109] day - save image
+[I 230224 12:17:09 main:80] Loop number 151 started
+[I 230224 12:17:09 main:84] Current CPU temperature 46.738
+[I 230224 12:17:09 main:109] day - save image
+[I 230224 12:17:23 main:80] Loop number 152 started
+[I 230224 12:17:23 main:84] Current CPU temperature 47.225
+[I 230224 12:17:23 main:109] day - save image
+[I 230224 12:17:38 main:80] Loop number 153 started
+[I 230224 12:17:38 main:84] Current CPU temperature 47.225
+[I 230224 12:17:38 main:109] day - save image
+[I 230224 12:17:52 main:80] Loop number 154 started
+[I 230224 12:17:52 main:84] Current CPU temperature 47.225
+[I 230224 12:17:52 main:109] day - save image
+[I 230224 12:18:05 main:80] Loop number 155 started
+[I 230224 12:18:05 main:84] Current CPU temperature 47.225
+[I 230224 12:18:05 main:109] day - save image
+[I 230224 12:18:19 main:80] Loop number 156 started
+[I 230224 12:18:19 main:84] Current CPU temperature 46.251
+[I 230224 12:18:19 main:109] day - save image
+[I 230224 12:18:34 main:80] Loop number 157 started
+[I 230224 12:18:34 main:84] Current CPU temperature 47.712
+[I 230224 12:18:34 main:109] day - save image
+[I 230224 12:18:48 main:80] Loop number 158 started
+[I 230224 12:18:48 main:84] Current CPU temperature 46.738
+[I 230224 12:18:48 main:109] day - save image
+[I 230224 12:19:02 main:80] Loop number 159 started
+[I 230224 12:19:02 main:84] Current CPU temperature 47.225
+[I 230224 12:19:02 main:109] day - save image
+[I 230224 12:19:16 main:80] Loop number 160 started
+[I 230224 12:19:16 main:84] Current CPU temperature 46.738
+[I 230224 12:19:16 main:109] day - save image
+[I 230224 12:19:30 main:80] Loop number 161 started
+[I 230224 12:19:30 main:84] Current CPU temperature 46.738
+[I 230224 12:19:30 main:109] day - save image
+[I 230224 12:19:44 main:80] Loop number 162 started
+[I 230224 12:19:44 main:84] Current CPU temperature 46.738
+[I 230224 12:19:44 main:109] day - save image
+[I 230224 12:19:58 main:80] Loop number 163 started
+[I 230224 12:19:58 main:84] Current CPU temperature 46.738
+[I 230224 12:19:58 main:109] day - save image
+[I 230224 12:20:12 main:80] Loop number 164 started
+[I 230224 12:20:12 main:84] Current CPU temperature 47.225
+[I 230224 12:20:12 main:109] day - save image
+[I 230224 12:20:27 main:80] Loop number 165 started
+[I 230224 12:20:27 main:84] Current CPU temperature 46.738
+[I 230224 12:20:27 main:109] day - save image
+[I 230224 12:20:40 main:80] Loop number 166 started
+[I 230224 12:20:40 main:84] Current CPU temperature 46.251
+[I 230224 12:20:40 main:109] day - save image
+[I 230224 12:20:54 main:80] Loop number 167 started
+[I 230224 12:20:54 main:84] Current CPU temperature 47.712
+[I 230224 12:20:54 main:109] day - save image
+[I 230224 12:21:08 main:80] Loop number 168 started
+[I 230224 12:21:08 main:84] Current CPU temperature 46.251
+[I 230224 12:21:08 main:109] day - save image
+[I 230224 12:21:22 main:80] Loop number 169 started
+[I 230224 12:21:22 main:84] Current CPU temperature 47.225
+[I 230224 12:21:22 main:109] day - save image
+[I 230224 12:21:36 main:80] Loop number 170 started
+[I 230224 12:21:36 main:84] Current CPU temperature 46.738
+[I 230224 12:21:36 main:109] day - save image
+[I 230224 12:21:50 main:80] Loop number 171 started
+[I 230224 12:21:50 main:84] Current CPU temperature 47.225
+[I 230224 12:21:50 main:109] day - save image
+[I 230224 12:22:05 main:80] Loop number 172 started
+[I 230224 12:22:05 main:84] Current CPU temperature 47.712
+[I 230224 12:22:05 main:109] day - save image
+[I 230224 12:22:19 main:80] Loop number 173 started
+[I 230224 12:22:19 main:84] Current CPU temperature 47.225
+[I 230224 12:22:19 main:109] day - save image
+[I 230224 12:22:32 main:80] Loop number 174 started
+[I 230224 12:22:32 main:84] Current CPU temperature 46.738
+[I 230224 12:22:32 main:109] day - save image
+[I 230224 12:22:46 main:80] Loop number 175 started
+[I 230224 12:22:46 main:84] Current CPU temperature 47.712
+[I 230224 12:22:46 main:109] day - save image
+[I 230224 12:23:00 main:80] Loop number 176 started
+[I 230224 12:23:00 main:84] Current CPU temperature 46.251
+[I 230224 12:23:00 main:109] day - save image
+[I 230224 12:23:14 main:80] Loop number 177 started
+[I 230224 12:23:14 main:84] Current CPU temperature 46.738
+[I 230224 12:23:14 main:109] day - save image
+[I 230224 12:23:28 main:80] Loop number 178 started
+[I 230224 12:23:28 main:84] Current CPU temperature 47.225
+[I 230224 12:23:28 main:109] day - save image
+[I 230224 12:23:42 main:80] Loop number 179 started
+[I 230224 12:23:42 main:84] Current CPU temperature 46.738
+[I 230224 12:23:42 main:109] day - save image
+[I 230224 12:23:56 main:80] Loop number 180 started
+[I 230224 12:23:56 main:84] Current CPU temperature 47.712
+[I 230224 12:23:56 main:109] day - save image
+[I 230224 12:24:10 main:80] Loop number 181 started
+[I 230224 12:24:10 main:84] Current CPU temperature 47.225
+[I 230224 12:24:11 main:109] day - save image
+[I 230224 12:24:24 main:80] Loop number 182 started
+[I 230224 12:24:24 main:84] Current CPU temperature 47.225
+[I 230224 12:24:24 main:109] day - save image
+[I 230224 12:24:38 main:80] Loop number 183 started
+[I 230224 12:24:38 main:84] Current CPU temperature 46.251
+[I 230224 12:24:38 main:109] day - save image
+[I 230224 12:24:53 main:80] Loop number 184 started
+[I 230224 12:24:53 main:84] Current CPU temperature 46.251
+[I 230224 12:24:53 main:109] day - save image
+[I 230224 12:25:07 main:80] Loop number 185 started
+[I 230224 12:25:07 main:84] Current CPU temperature 47.712
+[I 230224 12:25:07 main:109] day - save image
+[I 230224 12:25:21 main:80] Loop number 186 started
+[I 230224 12:25:21 main:84] Current CPU temperature 47.225
+[I 230224 12:25:21 main:109] day - save image
+[I 230224 12:25:34 main:80] Loop number 187 started
+[I 230224 12:25:34 main:84] Current CPU temperature 46.738
+[I 230224 12:25:35 main:109] day - save image
+[I 230224 12:25:49 main:80] Loop number 188 started
+[I 230224 12:25:49 main:84] Current CPU temperature 47.712
+[I 230224 12:25:49 main:109] day - save image
+[I 230224 12:26:03 main:80] Loop number 189 started
+[I 230224 12:26:03 main:84] Current CPU temperature 47.712
+[I 230224 12:26:03 main:109] day - save image
+[I 230224 12:26:17 main:80] Loop number 190 started
+[I 230224 12:26:17 main:84] Current CPU temperature 46.738
+[I 230224 12:26:17 main:109] day - save image
+[I 230224 12:26:31 main:80] Loop number 191 started
+[I 230224 12:26:31 main:84] Current CPU temperature 47.225
+[I 230224 12:26:31 main:109] day - save image
+[I 230224 12:26:45 main:80] Loop number 192 started
+[I 230224 12:26:45 main:84] Current CPU temperature 47.225
+[I 230224 12:26:45 main:109] day - save image
+[I 230224 12:26:59 main:80] Loop number 193 started
+[I 230224 12:26:59 main:84] Current CPU temperature 46.738
+[I 230224 12:26:59 main:109] day - save image
+[I 230224 12:27:13 main:80] Loop number 194 started
+[I 230224 12:27:13 main:84] Current CPU temperature 46.738
+[I 230224 12:27:13 main:109] day - save image
+[I 230224 12:27:27 main:80] Loop number 195 started
+[I 230224 12:27:27 main:84] Current CPU temperature 48.686
+[I 230224 12:27:27 main:109] day - save image
+[I 230224 12:27:41 main:80] Loop number 196 started
+[I 230224 12:27:41 main:84] Current CPU temperature 46.738
+[I 230224 12:27:41 main:109] day - save image
+[I 230224 12:27:55 main:80] Loop number 197 started
+[I 230224 12:27:55 main:84] Current CPU temperature 47.225
+[I 230224 12:27:55 main:109] day - save image
+[I 230224 12:28:09 main:80] Loop number 198 started
+[I 230224 12:28:09 main:84] Current CPU temperature 46.738
+[I 230224 12:28:09 main:109] day - save image
+[I 230224 12:28:23 main:80] Loop number 199 started
+[I 230224 12:28:23 main:84] Current CPU temperature 46.251
+[I 230224 12:28:23 main:109] day - save image
+[I 230224 12:28:37 main:80] Loop number 200 started
+[I 230224 12:28:37 main:84] Current CPU temperature 46.738
+[I 230224 12:28:37 main:109] day - save image
+[I 230224 12:28:51 main:80] Loop number 201 started
+[I 230224 12:28:51 main:84] Current CPU temperature 48.199
+[I 230224 12:28:51 main:109] day - save image
+[I 230224 12:29:05 main:80] Loop number 202 started
+[I 230224 12:29:05 main:84] Current CPU temperature 47.225
+[I 230224 12:29:05 main:109] day - save image
+[I 230224 12:29:19 main:80] Loop number 203 started
+[I 230224 12:29:19 main:84] Current CPU temperature 47.712
+[I 230224 12:29:19 main:109] day - save image
+[I 230224 12:29:32 main:80] Loop number 204 started
+[I 230224 12:29:32 main:84] Current CPU temperature 46.738
+[I 230224 12:29:33 main:109] day - save image
+[I 230224 12:29:46 main:80] Loop number 205 started
+[I 230224 12:29:46 main:84] Current CPU temperature 46.738
+[I 230224 12:29:46 main:109] day - save image
+[I 230224 12:30:00 main:80] Loop number 206 started
+[I 230224 12:30:00 main:84] Current CPU temperature 46.738
+[I 230224 12:30:00 main:109] day - save image
+[I 230224 12:30:14 main:80] Loop number 207 started
+[I 230224 12:30:14 main:84] Current CPU temperature 47.225
+[I 230224 12:30:14 main:109] day - save image
+[I 230224 12:30:28 main:80] Loop number 208 started
+[I 230224 12:30:28 main:84] Current CPU temperature 46.738
+[I 230224 12:30:28 main:109] day - save image
+[I 230224 12:30:42 main:80] Loop number 209 started
+[I 230224 12:30:42 main:84] Current CPU temperature 46.738
+[I 230224 12:30:42 main:109] day - save image
+[I 230224 12:30:56 main:80] Loop number 210 started
+[I 230224 12:30:56 main:84] Current CPU temperature 47.225
+[I 230224 12:30:56 main:109] day - save image
+[I 230224 12:31:10 main:80] Loop number 211 started
+[I 230224 12:31:10 main:84] Current CPU temperature 46.738
+[I 230224 12:31:10 main:109] day - save image
+[I 230224 12:31:24 main:80] Loop number 212 started
+[I 230224 12:31:24 main:84] Current CPU temperature 46.251
+[I 230224 12:31:24 main:109] day - save image
+[I 230224 12:31:38 main:80] Loop number 213 started
+[I 230224 12:31:38 main:84] Current CPU temperature 47.225
+[I 230224 12:31:38 main:109] day - save image
+[I 230224 12:31:52 main:80] Loop number 214 started
+[I 230224 12:31:52 main:84] Current CPU temperature 46.251
+[I 230224 12:31:52 main:109] day - save image
+[I 230224 12:32:06 main:80] Loop number 215 started
+[I 230224 12:32:06 main:84] Current CPU temperature 46.251
+[I 230224 12:32:06 main:109] day - save image
+[I 230224 12:32:20 main:80] Loop number 216 started
+[I 230224 12:32:20 main:84] Current CPU temperature 47.225
+[I 230224 12:32:20 main:109] day - save image
+[I 230224 12:32:34 main:80] Loop number 217 started
+[I 230224 12:32:34 main:84] Current CPU temperature 47.225
+[I 230224 12:32:34 main:109] day - save image
+[I 230224 12:32:48 main:80] Loop number 218 started
+[I 230224 12:32:48 main:84] Current CPU temperature 45.277
+[I 230224 12:32:48 main:109] day - save image
+[I 230224 12:33:02 main:80] Loop number 219 started
+[I 230224 12:33:02 main:84] Current CPU temperature 46.738
+[I 230224 12:33:02 main:109] day - save image
+[I 230224 12:33:16 main:80] Loop number 220 started
+[I 230224 12:33:16 main:84] Current CPU temperature 46.738
+[I 230224 12:33:16 main:109] day - save image
+[I 230224 12:33:30 main:80] Loop number 221 started
+[I 230224 12:33:30 main:84] Current CPU temperature 46.738
+[I 230224 12:33:30 main:109] day - save image
+[I 230224 12:33:44 main:80] Loop number 222 started
+[I 230224 12:33:44 main:84] Current CPU temperature 47.225
+[I 230224 12:33:44 main:109] day - save image
+[I 230224 12:33:58 main:80] Loop number 223 started
+[I 230224 12:33:58 main:84] Current CPU temperature 48.199
+[I 230224 12:33:58 main:109] day - save image
+[I 230224 12:34:12 main:80] Loop number 224 started
+[I 230224 12:34:12 main:84] Current CPU temperature 47.225
+[I 230224 12:34:12 main:109] day - save image
+[I 230224 12:34:26 main:80] Loop number 225 started
+[I 230224 12:34:26 main:84] Current CPU temperature 46.738
+[I 230224 12:34:26 main:109] day - save image
+[I 230224 12:34:40 main:80] Loop number 226 started
+[I 230224 12:34:40 main:84] Current CPU temperature 46.251
+[I 230224 12:34:40 main:109] day - save image
+[I 230224 12:34:54 main:80] Loop number 227 started
+[I 230224 12:34:54 main:84] Current CPU temperature 46.738
+[I 230224 12:34:54 main:109] day - save image
+[I 230224 12:35:07 main:80] Loop number 228 started
+[I 230224 12:35:07 main:84] Current CPU temperature 47.225
+[I 230224 12:35:07 main:109] day - save image
+[I 230224 12:35:21 main:80] Loop number 229 started
+[I 230224 12:35:21 main:84] Current CPU temperature 47.225
+[I 230224 12:35:21 main:109] day - save image
+[I 230224 12:35:35 main:80] Loop number 230 started
+[I 230224 12:35:35 main:84] Current CPU temperature 46.251
+[I 230224 12:35:35 main:109] day - save image
+[I 230224 12:35:49 main:80] Loop number 231 started
+[I 230224 12:35:49 main:84] Current CPU temperature 46.251
+[I 230224 12:35:49 main:109] day - save image
+[I 230224 12:36:04 main:80] Loop number 232 started
+[I 230224 12:36:04 main:84] Current CPU temperature 46.738
+[I 230224 12:36:04 main:109] day - save image
+[I 230224 12:36:18 main:80] Loop number 233 started
+[I 230224 12:36:18 main:84] Current CPU temperature 47.712
+[I 230224 12:36:18 main:109] day - save image
+[I 230224 12:36:31 main:80] Loop number 234 started
+[I 230224 12:36:31 main:84] Current CPU temperature 46.738
+[I 230224 12:36:32 main:109] day - save image
+[I 230224 12:36:45 main:80] Loop number 235 started
+[I 230224 12:36:45 main:84] Current CPU temperature 45.764
+[I 230224 12:36:45 main:109] day - save image
+[I 230224 12:37:00 main:80] Loop number 236 started
+[I 230224 12:37:00 main:84] Current CPU temperature 46.738
+[I 230224 12:37:00 main:109] day - save image
+[I 230224 12:37:14 main:80] Loop number 237 started
+[I 230224 12:37:14 main:84] Current CPU temperature 47.225
+[I 230224 12:37:14 main:109] day - save image
+[I 230224 12:37:27 main:80] Loop number 238 started
+[I 230224 12:37:27 main:84] Current CPU temperature 47.225
+[I 230224 12:37:27 main:109] day - save image
+[I 230224 12:37:41 main:80] Loop number 239 started
+[I 230224 12:37:41 main:84] Current CPU temperature 47.225
+[I 230224 12:37:41 main:109] day - save image
+[I 230224 12:37:55 main:80] Loop number 240 started
+[I 230224 12:37:55 main:84] Current CPU temperature 47.225
+[I 230224 12:37:55 main:109] day - save image
+[I 230224 12:38:09 main:80] Loop number 241 started
+[I 230224 12:38:09 main:84] Current CPU temperature 47.225
+[I 230224 12:38:09 main:109] day - save image
+[I 230224 12:38:23 main:80] Loop number 242 started
+[I 230224 12:38:23 main:84] Current CPU temperature 46.738
+[I 230224 12:38:23 main:109] day - save image
+[I 230224 12:38:37 main:80] Loop number 243 started
+[I 230224 12:38:37 main:84] Current CPU temperature 46.251
+[I 230224 12:38:37 main:109] day - save image
+[I 230224 12:38:51 main:80] Loop number 244 started
+[I 230224 12:38:51 main:84] Current CPU temperature 46.738
+[I 230224 12:38:51 main:109] day - save image
+[I 230224 12:39:05 main:80] Loop number 245 started
+[I 230224 12:39:05 main:84] Current CPU temperature 47.225
+[I 230224 12:39:05 main:109] day - save image
+[I 230224 12:39:19 main:80] Loop number 246 started
+[I 230224 12:39:19 main:84] Current CPU temperature 46.738
+[I 230224 12:39:19 main:109] day - save image
+[I 230224 12:39:33 main:80] Loop number 247 started
+[I 230224 12:39:33 main:84] Current CPU temperature 47.225
+[I 230224 12:39:33 main:109] day - save image
+[I 230224 12:39:47 main:80] Loop number 248 started
+[I 230224 12:39:47 main:84] Current CPU temperature 45.764
+[I 230224 12:39:47 main:109] day - save image
+[I 230224 12:40:02 main:80] Loop number 249 started
+[I 230224 12:40:02 main:84] Current CPU temperature 47.712
+[I 230224 12:40:02 main:109] day - save image
+[I 230224 12:40:16 main:80] Loop number 250 started
+[I 230224 12:40:16 main:84] Current CPU temperature 47.712
+[I 230224 12:40:16 main:109] day - save image
+[I 230224 12:40:30 main:80] Loop number 251 started
+[I 230224 12:40:30 main:84] Current CPU temperature 47.225
+[I 230224 12:40:30 main:109] day - save image
+[I 230224 12:40:44 main:80] Loop number 252 started
+[I 230224 12:40:44 main:84] Current CPU temperature 46.738
+[I 230224 12:40:44 main:109] day - save image
+[I 230224 12:40:57 main:80] Loop number 253 started
+[I 230224 12:40:57 main:84] Current CPU temperature 47.225
+[I 230224 12:40:57 main:109] day - save image
+[I 230224 12:41:12 main:80] Loop number 254 started
+[I 230224 12:41:12 main:84] Current CPU temperature 47.225
+[I 230224 12:41:12 main:109] day - save image
+[I 230224 12:41:26 main:80] Loop number 255 started
+[I 230224 12:41:26 main:84] Current CPU temperature 46.738
+[I 230224 12:41:26 main:109] day - save image
+[I 230224 12:41:40 main:80] Loop number 256 started
+[I 230224 12:41:40 main:84] Current CPU temperature 46.738
+[I 230224 12:41:40 main:109] day - save image
+[I 230224 12:41:54 main:80] Loop number 257 started
+[I 230224 12:41:54 main:84] Current CPU temperature 46.738
+[I 230224 12:41:54 main:109] day - save image
+[I 230224 12:42:08 main:80] Loop number 258 started
+[I 230224 12:42:08 main:84] Current CPU temperature 47.225
+[I 230224 12:42:08 main:109] day - save image
+[I 230224 12:42:21 main:80] Loop number 259 started
+[I 230224 12:42:21 main:84] Current CPU temperature 48.199
+[I 230224 12:42:22 main:109] day - save image
+[I 230224 12:42:35 main:80] Loop number 260 started
+[I 230224 12:42:35 main:84] Current CPU temperature 47.712
+[I 230224 12:42:35 main:109] day - save image
+[I 230224 12:42:50 main:80] Loop number 261 started
+[I 230224 12:42:50 main:84] Current CPU temperature 48.199
+[I 230224 12:42:50 main:109] day - save image
+[I 230224 12:43:04 main:80] Loop number 262 started
+[I 230224 12:43:04 main:84] Current CPU temperature 47.225
+[I 230224 12:43:04 main:109] day - save image
+[I 230224 12:43:18 main:80] Loop number 263 started
+[I 230224 12:43:18 main:84] Current CPU temperature 47.225
+[I 230224 12:43:18 main:109] day - save image
+[I 230224 12:43:32 main:80] Loop number 264 started
+[I 230224 12:43:32 main:84] Current CPU temperature 47.712
+[I 230224 12:43:32 main:109] day - save image
+[I 230224 12:43:46 main:80] Loop number 265 started
+[I 230224 12:43:46 main:84] Current CPU temperature 46.738
+[I 230224 12:43:46 main:109] day - save image
+[I 230224 12:44:00 main:80] Loop number 266 started
+[I 230224 12:44:00 main:84] Current CPU temperature 47.712
+[I 230224 12:44:00 main:109] day - save image
+[I 230224 12:44:14 main:80] Loop number 267 started
+[I 230224 12:44:15 main:84] Current CPU temperature 47.225
+[I 230224 12:44:15 main:109] day - save image
+[I 230224 12:44:29 main:80] Loop number 268 started
+[I 230224 12:44:29 main:84] Current CPU temperature 47.712
+[I 230224 12:44:29 main:109] day - save image
+[I 230224 12:44:42 main:80] Loop number 269 started
+[I 230224 12:44:42 main:84] Current CPU temperature 47.712
+[I 230224 12:44:43 main:109] day - save image
+[I 230224 12:44:56 main:80] Loop number 270 started
+[I 230224 12:44:56 main:84] Current CPU temperature 47.712
+[I 230224 12:44:56 main:109] day - save image
+[I 230224 12:45:10 main:80] Loop number 271 started
+[I 230224 12:45:10 main:84] Current CPU temperature 47.712
+[I 230224 12:45:10 main:109] day - save image
+[I 230224 12:45:24 main:80] Loop number 272 started
+[I 230224 12:45:24 main:84] Current CPU temperature 47.712
+[I 230224 12:45:24 main:109] day - save image
+[I 230224 12:45:39 main:80] Loop number 273 started
+[I 230224 12:45:39 main:84] Current CPU temperature 46.738
+[I 230224 12:45:39 main:109] day - save image
+[I 230224 12:45:52 main:80] Loop number 274 started
+[I 230224 12:45:52 main:84] Current CPU temperature 46.738
+[I 230224 12:45:52 main:109] day - save image
+[I 230224 12:46:06 main:80] Loop number 275 started
+[I 230224 12:46:06 main:84] Current CPU temperature 46.738
+[I 230224 12:46:06 main:109] day - save image
+[I 230224 12:46:20 main:80] Loop number 276 started
+[I 230224 12:46:20 main:84] Current CPU temperature 47.225
+[I 230224 12:46:20 main:109] day - save image
+[I 230224 12:46:34 main:80] Loop number 277 started
+[I 230224 12:46:34 main:84] Current CPU temperature 47.225
+[I 230224 12:46:34 main:109] day - save image
+[I 230224 12:46:48 main:80] Loop number 278 started
+[I 230224 12:46:48 main:84] Current CPU temperature 47.712
+[I 230224 12:46:48 main:109] day - save image
+[I 230224 12:47:02 main:80] Loop number 279 started
+[I 230224 12:47:02 main:84] Current CPU temperature 47.712
+[I 230224 12:47:02 main:109] day - save image
+[I 230224 12:47:16 main:80] Loop number 280 started
+[I 230224 12:47:16 main:84] Current CPU temperature 46.738
+[I 230224 12:47:16 main:109] day - save image
+[I 230224 12:47:30 main:80] Loop number 281 started
+[I 230224 12:47:30 main:84] Current CPU temperature 47.225
+[I 230224 12:47:30 main:109] day - save image
+[I 230224 12:47:44 main:80] Loop number 282 started
+[I 230224 12:47:44 main:84] Current CPU temperature 48.199
+[I 230224 12:47:44 main:109] day - save image
+[I 230224 12:47:58 main:80] Loop number 283 started
+[I 230224 12:47:58 main:84] Current CPU temperature 47.712
+[I 230224 12:47:58 main:109] day - save image
+[I 230224 12:48:12 main:80] Loop number 284 started
+[I 230224 12:48:12 main:84] Current CPU temperature 47.225
+[I 230224 12:48:12 main:109] day - save image
+[I 230224 12:48:26 main:80] Loop number 285 started
+[I 230224 12:48:26 main:84] Current CPU temperature 47.712
+[I 230224 12:48:26 main:109] day - save image
+[I 230224 12:48:40 main:80] Loop number 286 started
+[I 230224 12:48:40 main:84] Current CPU temperature 48.199
+[I 230224 12:48:40 main:109] day - save image
+[I 230224 12:48:54 main:80] Loop number 287 started
+[I 230224 12:48:54 main:84] Current CPU temperature 47.225
+[I 230224 12:48:54 main:109] day - save image
+[I 230224 12:49:08 main:80] Loop number 288 started
+[I 230224 12:49:08 main:84] Current CPU temperature 47.225
+[I 230224 12:49:08 main:109] day - save image
+[I 230224 12:49:22 main:80] Loop number 289 started
+[I 230224 12:49:22 main:84] Current CPU temperature 47.712
+[I 230224 12:49:22 main:109] day - save image
+[I 230224 12:49:36 main:80] Loop number 290 started
+[I 230224 12:49:36 main:84] Current CPU temperature 46.251
+[I 230224 12:49:36 main:109] day - save image
+[I 230224 12:49:50 main:80] Loop number 291 started
+[I 230224 12:49:50 main:84] Current CPU temperature 47.225
+[I 230224 12:49:50 main:109] day - save image
+[I 230224 12:50:04 main:80] Loop number 292 started
+[I 230224 12:50:04 main:84] Current CPU temperature 48.199
+[I 230224 12:50:04 main:109] day - save image
+[I 230224 12:50:18 main:80] Loop number 293 started
+[I 230224 12:50:18 main:84] Current CPU temperature 47.225
+[I 230224 12:50:18 main:109] day - save image
+[I 230224 12:50:32 main:80] Loop number 294 started
+[I 230224 12:50:32 main:84] Current CPU temperature 48.199
+[I 230224 12:50:32 main:109] day - save image
+[I 230224 12:50:46 main:80] Loop number 295 started
+[I 230224 12:50:46 main:84] Current CPU temperature 47.225
+[I 230224 12:50:46 main:109] day - save image
+[I 230224 12:51:00 main:80] Loop number 296 started
+[I 230224 12:51:00 main:84] Current CPU temperature 46.738
+[I 230224 12:51:00 main:109] day - save image
+[I 230224 12:51:14 main:80] Loop number 297 started
+[I 230224 12:51:14 main:84] Current CPU temperature 47.225
+[I 230224 12:51:14 main:109] day - save image
+[I 230224 12:51:28 main:80] Loop number 298 started
+[I 230224 12:51:28 main:84] Current CPU temperature 47.712
+[I 230224 12:51:28 main:109] day - save image
+[I 230224 12:51:42 main:80] Loop number 299 started
+[I 230224 12:51:42 main:84] Current CPU temperature 47.225
+[I 230224 12:51:42 main:109] day - save image
+[I 230224 12:51:56 main:80] Loop number 300 started
+[I 230224 12:51:56 main:84] Current CPU temperature 48.199
+[I 230224 12:51:56 main:109] day - save image
+[I 230224 12:52:10 main:80] Loop number 301 started
+[I 230224 12:52:10 main:84] Current CPU temperature 47.712
+[I 230224 12:52:10 main:109] day - save image
+[I 230224 12:52:24 main:80] Loop number 302 started
+[I 230224 12:52:24 main:84] Current CPU temperature 47.225
+[I 230224 12:52:24 main:109] day - save image
+[I 230224 12:52:38 main:80] Loop number 303 started
+[I 230224 12:52:38 main:84] Current CPU temperature 48.686
+[I 230224 12:52:38 main:109] day - save image
+[I 230224 12:52:52 main:80] Loop number 304 started
+[I 230224 12:52:52 main:84] Current CPU temperature 46.738
+[I 230224 12:52:52 main:109] day - save image
+[I 230224 12:53:05 main:80] Loop number 305 started
+[I 230224 12:53:05 main:84] Current CPU temperature 47.225
+[I 230224 12:53:05 main:109] day - save image
+[I 230224 12:53:19 main:80] Loop number 306 started
+[I 230224 12:53:19 main:84] Current CPU temperature 47.225
+[I 230224 12:53:19 main:109] day - save image
+[I 230224 12:53:33 main:80] Loop number 307 started
+[I 230224 12:53:33 main:84] Current CPU temperature 47.712
+[I 230224 12:53:33 main:109] day - save image
+[I 230224 12:53:47 main:80] Loop number 308 started
+[I 230224 12:53:47 main:84] Current CPU temperature 47.225
+[I 230224 12:53:47 main:109] day - save image
+[I 230224 12:54:01 main:80] Loop number 309 started
+[I 230224 12:54:01 main:84] Current CPU temperature 47.712
+[I 230224 12:54:01 main:109] day - save image
+[I 230224 12:54:16 main:80] Loop number 310 started
+[I 230224 12:54:16 main:84] Current CPU temperature 47.712
+[I 230224 12:54:16 main:109] day - save image
+[I 230224 12:54:30 main:80] Loop number 311 started
+[I 230224 12:54:30 main:84] Current CPU temperature 46.251
+[I 230224 12:54:30 main:109] day - save image
+[I 230224 12:54:43 main:80] Loop number 312 started
+[I 230224 12:54:43 main:84] Current CPU temperature 47.225
+[I 230224 12:54:43 main:109] day - save image
+[I 230224 12:54:57 main:80] Loop number 313 started
+[I 230224 12:54:57 main:84] Current CPU temperature 47.225
+[I 230224 12:54:57 main:109] day - save image
+[I 230224 12:55:11 main:80] Loop number 314 started
+[I 230224 12:55:11 main:84] Current CPU temperature 47.712
+[I 230224 12:55:11 main:109] day - save image
+[I 230224 12:55:25 main:80] Loop number 315 started
+[I 230224 12:55:25 main:84] Current CPU temperature 47.225
+[I 230224 12:55:25 main:97] night - wait 20 seconds
+[I 230224 12:55:45 main:80] Loop number 316 started
+[I 230224 12:55:48 main:84] Current CPU temperature 46.251
+[I 230224 12:55:48 main:97] night - wait 20 seconds
+[I 230224 12:56:08 main:80] Loop number 317 started
+[I 230224 12:56:08 main:84] Current CPU temperature 46.738
+[I 230224 12:56:08 main:97] night - wait 20 seconds
+[I 230224 12:56:28 main:80] Loop number 318 started
+[I 230224 12:56:28 main:84] Current CPU temperature 46.738
+[I 230224 12:56:28 main:97] night - wait 20 seconds
+[I 230224 12:56:48 main:80] Loop number 319 started
+[I 230224 12:56:48 main:84] Current CPU temperature 46.251
+[I 230224 12:56:48 main:97] night - wait 20 seconds
+[I 230224 12:57:08 main:80] Loop number 320 started
+[I 230224 12:57:08 main:84] Current CPU temperature 46.738
+[I 230224 12:57:08 main:97] night - wait 20 seconds
+[I 230224 12:57:28 main:80] Loop number 321 started
+[I 230224 12:57:28 main:84] Current CPU temperature 46.738
+[I 230224 12:57:28 main:97] night - wait 20 seconds
+[I 230224 12:57:48 main:80] Loop number 322 started
+[I 230224 12:57:48 main:84] Current CPU temperature 46.738
+[I 230224 12:57:48 main:97] night - wait 20 seconds
+[I 230224 12:58:08 main:80] Loop number 323 started
+[I 230224 12:58:08 main:84] Current CPU temperature 47.225
+[I 230224 12:58:08 main:97] night - wait 20 seconds
+[I 230224 12:58:28 main:80] Loop number 324 started
+[I 230224 12:58:28 main:84] Current CPU temperature 46.738
+[I 230224 12:58:28 main:97] night - wait 20 seconds
+[I 230224 12:58:48 main:80] Loop number 325 started
+[I 230224 12:58:48 main:84] Current CPU temperature 47.712
+[I 230224 12:58:48 main:97] night - wait 20 seconds
+[I 230224 12:59:08 main:80] Loop number 326 started
+[I 230224 12:59:08 main:84] Current CPU temperature 46.738
+[I 230224 12:59:08 main:97] night - wait 20 seconds
+[I 230224 12:59:28 main:80] Loop number 327 started
+[I 230224 12:59:28 main:84] Current CPU temperature 46.738
+[I 230224 12:59:28 main:97] night - wait 20 seconds
+[I 230224 12:59:48 main:80] Loop number 328 started
+[I 230224 12:59:48 main:84] Current CPU temperature 45.764
+[I 230224 12:59:48 main:97] night - wait 20 seconds
+[I 230224 13:00:08 main:80] Loop number 329 started
+[I 230224 13:00:08 main:84] Current CPU temperature 47.712
+[I 230224 13:00:08 main:97] night - wait 20 seconds
+[I 230224 13:00:28 main:80] Loop number 330 started
+[I 230224 13:00:28 main:84] Current CPU temperature 47.225
+[I 230224 13:00:28 main:97] night - wait 20 seconds
+[I 230224 13:00:49 main:80] Loop number 331 started
+[I 230224 13:00:49 main:84] Current CPU temperature 47.712
+[I 230224 13:00:49 main:97] night - wait 20 seconds
+[I 230224 13:01:09 main:80] Loop number 332 started
+[I 230224 13:01:09 main:84] Current CPU temperature 47.225
+[I 230224 13:01:09 main:97] night - wait 20 seconds
+[I 230224 13:01:29 main:80] Loop number 333 started
+[I 230224 13:01:29 main:84] Current CPU temperature 46.251
+[I 230224 13:01:29 main:97] night - wait 20 seconds
+[I 230224 13:01:49 main:80] Loop number 334 started
+[I 230224 13:01:49 main:84] Current CPU temperature 46.738
+[I 230224 13:01:49 main:97] night - wait 20 seconds
+[I 230224 13:02:09 main:80] Loop number 335 started
+[I 230224 13:02:09 main:84] Current CPU temperature 47.225
+[I 230224 13:02:09 main:97] night - wait 20 seconds
+[I 230224 13:02:29 main:80] Loop number 336 started
+[I 230224 13:02:29 main:84] Current CPU temperature 47.712
+[I 230224 13:02:29 main:97] night - wait 20 seconds
+[I 230224 13:02:49 main:80] Loop number 337 started
+[I 230224 13:02:49 main:84] Current CPU temperature 46.251
+[I 230224 13:02:49 main:97] night - wait 20 seconds
+[I 230224 13:03:09 main:80] Loop number 338 started
+[I 230224 13:03:09 main:84] Current CPU temperature 47.225
+[I 230224 13:03:09 main:97] night - wait 20 seconds
+[I 230224 13:03:29 main:80] Loop number 339 started
+[I 230224 13:03:29 main:84] Current CPU temperature 46.251
+[I 230224 13:03:29 main:97] night - wait 20 seconds
+[I 230224 13:03:49 main:80] Loop number 340 started
+[I 230224 13:03:49 main:84] Current CPU temperature 46.738
+[I 230224 13:03:49 main:97] night - wait 20 seconds
+[I 230224 13:04:09 main:80] Loop number 341 started
+[I 230224 13:04:09 main:84] Current CPU temperature 46.738
+[I 230224 13:04:09 main:97] night - wait 20 seconds
+[I 230224 13:04:29 main:80] Loop number 342 started
+[I 230224 13:04:29 main:84] Current CPU temperature 46.738
+[I 230224 13:04:29 main:97] night - wait 20 seconds
+[I 230224 13:04:49 main:80] Loop number 343 started
+[I 230224 13:04:49 main:84] Current CPU temperature 47.225
+[I 230224 13:04:49 main:97] night - wait 20 seconds
+[I 230224 13:05:09 main:80] Loop number 344 started
+[I 230224 13:05:09 main:84] Current CPU temperature 47.712
+[I 230224 13:05:09 main:97] night - wait 20 seconds
+[I 230224 13:05:29 main:80] Loop number 345 started
+[I 230224 13:05:29 main:84] Current CPU temperature 46.738
+[I 230224 13:05:29 main:97] night - wait 20 seconds
+[I 230224 13:05:49 main:80] Loop number 346 started
+[I 230224 13:05:49 main:84] Current CPU temperature 48.199
+[I 230224 13:05:49 main:97] night - wait 20 seconds
+[I 230224 13:06:09 main:80] Loop number 347 started
+[I 230224 13:06:09 main:84] Current CPU temperature 47.225
+[I 230224 13:06:10 main:97] night - wait 20 seconds
+[I 230224 13:06:30 main:80] Loop number 348 started
+[I 230224 13:06:30 main:84] Current CPU temperature 47.712
+[I 230224 13:06:30 main:97] night - wait 20 seconds
+[I 230224 13:06:50 main:80] Loop number 349 started
+[I 230224 13:06:50 main:84] Current CPU temperature 47.225
+[I 230224 13:06:50 main:97] night - wait 20 seconds
+[I 230224 13:07:10 main:80] Loop number 350 started
+[I 230224 13:07:10 main:84] Current CPU temperature 47.225
+[I 230224 13:07:10 main:97] night - wait 20 seconds
+[I 230224 13:07:30 main:80] Loop number 351 started
+[I 230224 13:07:30 main:84] Current CPU temperature 48.199
+[I 230224 13:07:30 main:97] night - wait 20 seconds
+[I 230224 13:07:50 main:80] Loop number 352 started
+[I 230224 13:07:50 main:84] Current CPU temperature 48.199
+[I 230224 13:07:50 main:97] night - wait 20 seconds
+[I 230224 13:08:10 main:80] Loop number 353 started
+[I 230224 13:08:10 main:84] Current CPU temperature 46.738
+[I 230224 13:08:10 main:97] night - wait 20 seconds
+[I 230224 13:08:30 main:80] Loop number 354 started
+[I 230224 13:08:30 main:84] Current CPU temperature 48.199
+[I 230224 13:08:30 main:97] night - wait 20 seconds
+[I 230224 13:08:50 main:80] Loop number 355 started
+[I 230224 13:08:50 main:84] Current CPU temperature 48.199
+[I 230224 13:08:50 main:97] night - wait 20 seconds
+[I 230224 13:09:10 main:80] Loop number 356 started
+[I 230224 13:09:10 main:84] Current CPU temperature 47.225
+[I 230224 13:09:10 main:97] night - wait 20 seconds
+[I 230224 13:09:30 main:80] Loop number 357 started
+[I 230224 13:09:30 main:84] Current CPU temperature 48.199
+[I 230224 13:09:30 main:97] night - wait 20 seconds
+[I 230224 13:09:50 main:80] Loop number 358 started
+[I 230224 13:09:50 main:84] Current CPU temperature 47.712
+[I 230224 13:09:50 main:97] night - wait 20 seconds
+[I 230224 13:10:10 main:80] Loop number 359 started
+[I 230224 13:10:10 main:84] Current CPU temperature 47.225
+[I 230224 13:10:10 main:97] night - wait 20 seconds
+[I 230224 13:10:30 main:80] Loop number 360 started
+[I 230224 13:10:30 main:84] Current CPU temperature 47.225
+[I 230224 13:10:30 main:97] night - wait 20 seconds
+[I 230224 13:10:50 main:80] Loop number 361 started
+[I 230224 13:10:50 main:84] Current CPU temperature 46.738
+[I 230224 13:10:50 main:97] night - wait 20 seconds
+[I 230224 13:11:10 main:80] Loop number 362 started
+[I 230224 13:11:10 main:84] Current CPU temperature 47.225
+[I 230224 13:11:10 main:97] night - wait 20 seconds
+[I 230224 13:11:30 main:80] Loop number 363 started
+[I 230224 13:11:30 main:84] Current CPU temperature 47.225
+[I 230224 13:11:30 main:97] night - wait 20 seconds
+[I 230224 13:11:50 main:80] Loop number 364 started
+[I 230224 13:11:50 main:84] Current CPU temperature 46.251
+[I 230224 13:11:51 main:97] night - wait 20 seconds
+[I 230224 13:12:11 main:80] Loop number 365 started
+[I 230224 13:12:11 main:84] Current CPU temperature 46.738
+[I 230224 13:12:11 main:97] night - wait 20 seconds
+[I 230224 13:12:31 main:80] Loop number 366 started
+[I 230224 13:12:31 main:84] Current CPU temperature 45.277
+[I 230224 13:12:31 main:97] night - wait 20 seconds
+[I 230224 13:12:51 main:80] Loop number 367 started
+[I 230224 13:12:51 main:84] Current CPU temperature 47.225
+[I 230224 13:12:51 main:97] night - wait 20 seconds
+[I 230224 13:13:11 main:80] Loop number 368 started
+[I 230224 13:13:11 main:84] Current CPU temperature 46.738
+[I 230224 13:13:11 main:97] night - wait 20 seconds
+[I 230224 13:13:31 main:80] Loop number 369 started
+[I 230224 13:13:31 main:84] Current CPU temperature 46.738
+[I 230224 13:13:31 main:97] night - wait 20 seconds
+[I 230224 13:13:51 main:80] Loop number 370 started
+[I 230224 13:13:51 main:84] Current CPU temperature 47.225
+[I 230224 13:13:51 main:97] night - wait 20 seconds
+[I 230224 13:14:11 main:80] Loop number 371 started
+[I 230224 13:14:11 main:84] Current CPU temperature 47.712
+[I 230224 13:14:11 main:97] night - wait 20 seconds
+[I 230224 13:14:31 main:80] Loop number 372 started
+[I 230224 13:14:31 main:84] Current CPU temperature 46.738
+[I 230224 13:14:31 main:97] night - wait 20 seconds
+[I 230224 13:14:51 main:80] Loop number 373 started
+[I 230224 13:14:51 main:84] Current CPU temperature 47.225
+[I 230224 13:14:51 main:97] night - wait 20 seconds
+[I 230224 13:15:11 main:80] Loop number 374 started
+[I 230224 13:15:11 main:84] Current CPU temperature 46.738
+[I 230224 13:15:11 main:97] night - wait 20 seconds
+[I 230224 13:15:31 main:80] Loop number 375 started
+[I 230224 13:15:31 main:84] Current CPU temperature 46.738
+[I 230224 13:15:31 main:97] night - wait 20 seconds
+[I 230224 13:15:51 main:80] Loop number 376 started
+[I 230224 13:15:51 main:84] Current CPU temperature 46.738
+[I 230224 13:15:51 main:97] night - wait 20 seconds
+[I 230224 13:16:11 main:80] Loop number 377 started
+[I 230224 13:16:11 main:84] Current CPU temperature 46.251
+[I 230224 13:16:11 main:97] night - wait 20 seconds
+[I 230224 13:16:31 main:80] Loop number 378 started
+[I 230224 13:16:31 main:84] Current CPU temperature 46.738
+[I 230224 13:16:31 main:97] night - wait 20 seconds
+[I 230224 13:16:51 main:80] Loop number 379 started
+[I 230224 13:16:51 main:84] Current CPU temperature 47.225
+[I 230224 13:16:51 main:97] night - wait 20 seconds
+[I 230224 13:17:11 main:80] Loop number 380 started
+[I 230224 13:17:11 main:84] Current CPU temperature 46.738
+[I 230224 13:17:11 main:97] night - wait 20 seconds
+[I 230224 13:17:31 main:80] Loop number 381 started
+[I 230224 13:17:31 main:84] Current CPU temperature 46.738
+[I 230224 13:17:32 main:97] night - wait 20 seconds
+[I 230224 13:17:52 main:80] Loop number 382 started
+[I 230224 13:17:52 main:84] Current CPU temperature 47.225
+[I 230224 13:17:52 main:97] night - wait 20 seconds
+[I 230224 13:18:12 main:80] Loop number 383 started
+[I 230224 13:18:12 main:84] Current CPU temperature 46.738
+[I 230224 13:18:12 main:97] night - wait 20 seconds
+[I 230224 13:18:32 main:80] Loop number 384 started
+[I 230224 13:18:32 main:84] Current CPU temperature 46.738
+[I 230224 13:18:32 main:97] night - wait 20 seconds
+[I 230224 13:18:52 main:80] Loop number 385 started
+[I 230224 13:18:52 main:84] Current CPU temperature 47.712
+[I 230224 13:18:52 main:97] night - wait 20 seconds
+[I 230224 13:19:12 main:80] Loop number 386 started
+[I 230224 13:19:12 main:84] Current CPU temperature 47.712
+[I 230224 13:19:12 main:97] night - wait 20 seconds
+[I 230224 13:19:32 main:80] Loop number 387 started
+[I 230224 13:19:32 main:84] Current CPU temperature 46.251
+[I 230224 13:19:32 main:97] night - wait 20 seconds
+[I 230224 13:19:52 main:80] Loop number 388 started
+[I 230224 13:19:52 main:84] Current CPU temperature 45.764
+[I 230224 13:19:52 main:97] night - wait 20 seconds
+[I 230224 13:20:12 main:80] Loop number 389 started
+[I 230224 13:20:12 main:84] Current CPU temperature 47.225
+[I 230224 13:20:12 main:97] night - wait 20 seconds
+[I 230224 13:20:32 main:80] Loop number 390 started
+[I 230224 13:20:32 main:84] Current CPU temperature 46.251
+[I 230224 13:20:32 main:97] night - wait 20 seconds
+[I 230224 13:20:52 main:80] Loop number 391 started
+[I 230224 13:20:52 main:84] Current CPU temperature 46.251
+[I 230224 13:20:52 main:97] night - wait 20 seconds
+[I 230224 13:21:12 main:80] Loop number 392 started
+[I 230224 13:21:12 main:84] Current CPU temperature 47.225
+[I 230224 13:21:12 main:97] night - wait 20 seconds
+[I 230224 13:21:32 main:80] Loop number 393 started
+[I 230224 13:21:32 main:84] Current CPU temperature 47.225
+[I 230224 13:21:32 main:97] night - wait 20 seconds
+[I 230224 13:21:52 main:80] Loop number 394 started
+[I 230224 13:21:52 main:84] Current CPU temperature 47.712
+[I 230224 13:21:52 main:97] night - wait 20 seconds
+[I 230224 13:22:12 main:80] Loop number 395 started
+[I 230224 13:22:12 main:84] Current CPU temperature 46.738
+[I 230224 13:22:12 main:97] night - wait 20 seconds
+[I 230224 13:22:32 main:80] Loop number 396 started
+[I 230224 13:22:32 main:84] Current CPU temperature 46.738
+[I 230224 13:22:32 main:97] night - wait 20 seconds
+[I 230224 13:22:52 main:80] Loop number 397 started
+[I 230224 13:22:52 main:84] Current CPU temperature 47.225
+[I 230224 13:22:52 main:97] night - wait 20 seconds
+[I 230224 13:23:12 main:80] Loop number 398 started
+[I 230224 13:23:12 main:84] Current CPU temperature 46.738
+[I 230224 13:23:13 main:97] night - wait 20 seconds
+[I 230224 13:23:33 main:80] Loop number 399 started
+[I 230224 13:23:33 main:84] Current CPU temperature 46.251
+[I 230224 13:23:33 main:97] night - wait 20 seconds
+[I 230224 13:23:53 main:80] Loop number 400 started
+[I 230224 13:23:53 main:84] Current CPU temperature 46.738
+[I 230224 13:23:53 main:97] night - wait 20 seconds
+[I 230224 13:24:13 main:80] Loop number 401 started
+[I 230224 13:24:13 main:84] Current CPU temperature 47.225
+[I 230224 13:24:13 main:97] night - wait 20 seconds
+[I 230224 13:24:33 main:80] Loop number 402 started
+[I 230224 13:24:33 main:84] Current CPU temperature 46.251
+[I 230224 13:24:33 main:97] night - wait 20 seconds
+[I 230224 13:24:53 main:80] Loop number 403 started
+[I 230224 13:24:53 main:84] Current CPU temperature 48.199
+[I 230224 13:24:53 main:97] night - wait 20 seconds
+[I 230224 13:25:13 main:80] Loop number 404 started
+[I 230224 13:25:13 main:84] Current CPU temperature 46.251
+[I 230224 13:25:13 main:97] night - wait 20 seconds
+[I 230224 13:25:33 main:80] Loop number 405 started
+[I 230224 13:25:33 main:84] Current CPU temperature 46.251
+[I 230224 13:25:33 main:97] night - wait 20 seconds
+[I 230224 13:25:53 main:80] Loop number 406 started
+[I 230224 13:25:53 main:84] Current CPU temperature 45.764
+[I 230224 13:25:53 main:97] night - wait 20 seconds
+[I 230224 13:26:13 main:80] Loop number 407 started
+[I 230224 13:26:13 main:84] Current CPU temperature 46.738
+[I 230224 13:26:13 main:97] night - wait 20 seconds
+[I 230224 13:26:33 main:80] Loop number 408 started
+[I 230224 13:26:33 main:84] Current CPU temperature 46.738
+[I 230224 13:26:33 main:97] night - wait 20 seconds
+[I 230224 13:26:53 main:80] Loop number 409 started
+[I 230224 13:26:53 main:84] Current CPU temperature 47.712
+[I 230224 13:26:53 main:97] night - wait 20 seconds
+[I 230224 13:27:13 main:80] Loop number 410 started
+[I 230224 13:27:13 main:84] Current CPU temperature 46.251
+[I 230224 13:27:13 main:97] night - wait 20 seconds
+[I 230224 13:27:33 main:80] Loop number 411 started
+[I 230224 13:27:33 main:84] Current CPU temperature 47.225
+[I 230224 13:27:33 main:97] night - wait 20 seconds
+[I 230224 13:27:53 main:80] Loop number 412 started
+[I 230224 13:27:53 main:84] Current CPU temperature 47.712
+[I 230224 13:27:53 main:97] night - wait 20 seconds
+[I 230224 13:28:13 main:80] Loop number 413 started
+[I 230224 13:28:13 main:84] Current CPU temperature 47.225
+[I 230224 13:28:13 main:97] night - wait 20 seconds
+[I 230224 13:28:33 main:80] Loop number 414 started
+[I 230224 13:28:33 main:84] Current CPU temperature 45.764
+[I 230224 13:28:33 main:97] night - wait 20 seconds
+[I 230224 13:28:53 main:80] Loop number 415 started
+[I 230224 13:28:53 main:84] Current CPU temperature 47.225
+[I 230224 13:28:54 main:97] night - wait 20 seconds
+[I 230224 13:29:14 main:80] Loop number 416 started
+[I 230224 13:29:14 main:84] Current CPU temperature 47.225
+[I 230224 13:29:14 main:97] night - wait 20 seconds
+[I 230224 13:29:34 main:80] Loop number 417 started
+[I 230224 13:29:34 main:84] Current CPU temperature 47.225
+[I 230224 13:29:34 main:97] night - wait 20 seconds
+[I 230224 13:29:54 main:80] Loop number 418 started
+[I 230224 13:29:54 main:84] Current CPU temperature 46.738
+[I 230224 13:29:54 main:97] night - wait 20 seconds
+[I 230224 13:30:14 main:80] Loop number 419 started
+[I 230224 13:30:14 main:84] Current CPU temperature 47.225
+[I 230224 13:30:14 main:97] night - wait 20 seconds
+[I 230224 13:30:34 main:80] Loop number 420 started
+[I 230224 13:30:34 main:84] Current CPU temperature 46.251
+[I 230224 13:30:34 main:97] night - wait 20 seconds
+[I 230224 13:30:54 main:80] Loop number 421 started
+[I 230224 13:30:54 main:84] Current CPU temperature 46.251
+[I 230224 13:30:54 main:97] night - wait 20 seconds
+[I 230224 13:31:14 main:80] Loop number 422 started
+[I 230224 13:31:14 main:84] Current CPU temperature 46.251
+[I 230224 13:31:14 main:97] night - wait 20 seconds
+[I 230224 13:31:34 main:80] Loop number 423 started
+[I 230224 13:31:34 main:84] Current CPU temperature 47.712
+[I 230224 13:31:34 main:109] day - save image
+[I 230224 13:31:48 main:80] Loop number 424 started
+[I 230224 13:31:48 main:84] Current CPU temperature 46.738
+[I 230224 13:31:48 main:109] day - save image
+[I 230224 13:32:02 main:80] Loop number 425 started
+[I 230224 13:32:02 main:84] Current CPU temperature 47.712
+[I 230224 13:32:02 main:109] day - save image
+[I 230224 13:32:16 main:80] Loop number 426 started
+[I 230224 13:32:16 main:84] Current CPU temperature 47.712
+[I 230224 13:32:16 main:109] day - save image
+[I 230224 13:32:30 main:80] Loop number 427 started
+[I 230224 13:32:30 main:84] Current CPU temperature 47.712
+[I 230224 13:32:30 main:109] day - save image
+[I 230224 13:32:44 main:80] Loop number 428 started
+[I 230224 13:32:44 main:84] Current CPU temperature 46.738
+[I 230224 13:32:44 main:109] day - save image
+[I 230224 13:32:58 main:80] Loop number 429 started
+[I 230224 13:32:58 main:84] Current CPU temperature 46.738
+[I 230224 13:32:58 main:109] day - save image
+[I 230224 13:33:12 main:80] Loop number 430 started
+[I 230224 13:33:12 main:84] Current CPU temperature 47.225
+[I 230224 13:33:12 main:109] day - save image
+[I 230224 13:33:26 main:80] Loop number 431 started
+[I 230224 13:33:26 main:84] Current CPU temperature 47.712
+[I 230224 13:33:26 main:109] day - save image
+[I 230224 13:33:40 main:80] Loop number 432 started
+[I 230224 13:33:40 main:84] Current CPU temperature 47.225
+[I 230224 13:33:40 main:109] day - save image
+[I 230224 13:33:54 main:80] Loop number 433 started
+[I 230224 13:33:54 main:84] Current CPU temperature 47.225
+[I 230224 13:33:54 main:109] day - save image
+[I 230224 13:34:08 main:80] Loop number 434 started
+[I 230224 13:34:08 main:84] Current CPU temperature 47.712
+[I 230224 13:34:08 main:109] day - save image
+[I 230224 13:34:22 main:80] Loop number 435 started
+[I 230224 13:34:22 main:84] Current CPU temperature 47.712
+[I 230224 13:34:22 main:109] day - save image
+[I 230224 13:34:36 main:80] Loop number 436 started
+[I 230224 13:34:36 main:84] Current CPU temperature 46.738
+[I 230224 13:34:36 main:109] day - save image
+[I 230224 13:34:50 main:80] Loop number 437 started
+[I 230224 13:34:50 main:84] Current CPU temperature 45.764
+[I 230224 13:34:50 main:109] day - save image
+[I 230224 13:35:04 main:80] Loop number 438 started
+[I 230224 13:35:04 main:84] Current CPU temperature 47.225
+[I 230224 13:35:04 main:109] day - save image
+[I 230224 13:35:18 main:80] Loop number 439 started
+[I 230224 13:35:18 main:84] Current CPU temperature 48.199
+[I 230224 13:35:18 main:109] day - save image
+[I 230224 13:35:32 main:80] Loop number 440 started
+[I 230224 13:35:32 main:84] Current CPU temperature 47.225
+[I 230224 13:35:32 main:109] day - save image
+[I 230224 13:35:46 main:80] Loop number 441 started
+[I 230224 13:35:46 main:84] Current CPU temperature 47.712
+[I 230224 13:35:46 main:109] day - save image
+[I 230224 13:36:00 main:80] Loop number 442 started
+[I 230224 13:36:00 main:84] Current CPU temperature 47.225
+[I 230224 13:36:00 main:109] day - save image
+[I 230224 13:36:14 main:80] Loop number 443 started
+[I 230224 13:36:14 main:84] Current CPU temperature 47.712
+[I 230224 13:36:14 main:109] day - save image
+[I 230224 13:36:27 main:80] Loop number 444 started
+[I 230224 13:36:27 main:84] Current CPU temperature 47.712
+[I 230224 13:36:27 main:109] day - save image
+[I 230224 13:36:41 main:80] Loop number 445 started
+[I 230224 13:36:41 main:84] Current CPU temperature 47.225
+[I 230224 13:36:41 main:109] day - save image
+[I 230224 13:36:56 main:80] Loop number 446 started
+[I 230224 13:36:56 main:84] Current CPU temperature 47.712
+[I 230224 13:36:56 main:109] day - save image
+[I 230224 13:37:10 main:80] Loop number 447 started
+[I 230224 13:37:10 main:84] Current CPU temperature 47.225
+[I 230224 13:37:10 main:109] day - save image
+[I 230224 13:37:24 main:80] Loop number 448 started
+[I 230224 13:37:24 main:84] Current CPU temperature 47.712
+[I 230224 13:37:24 main:109] day - save image
+[I 230224 13:37:38 main:80] Loop number 449 started
+[I 230224 13:37:38 main:84] Current CPU temperature 47.225
+[I 230224 13:37:38 main:109] day - save image
+[I 230224 13:37:52 main:80] Loop number 450 started
+[I 230224 13:37:52 main:84] Current CPU temperature 48.686
+[I 230224 13:37:52 main:109] day - save image
+[I 230224 13:38:06 main:80] Loop number 451 started
+[I 230224 13:38:06 main:84] Current CPU temperature 47.712
+[I 230224 13:38:06 main:109] day - save image
+[I 230224 13:38:20 main:80] Loop number 452 started
+[I 230224 13:38:20 main:84] Current CPU temperature 47.712
+[I 230224 13:38:20 main:109] day - save image
+[I 230224 13:38:34 main:80] Loop number 453 started
+[I 230224 13:38:34 main:84] Current CPU temperature 47.712
+[I 230224 13:38:34 main:109] day - save image
+[I 230224 13:38:48 main:80] Loop number 454 started
+[I 230224 13:38:48 main:84] Current CPU temperature 47.225
+[I 230224 13:38:48 main:109] day - save image
+[I 230224 13:39:02 main:80] Loop number 455 started
+[I 230224 13:39:02 main:84] Current CPU temperature 47.712
+[I 230224 13:39:02 main:109] day - save image
+[I 230224 13:39:16 main:80] Loop number 456 started
+[I 230224 13:39:16 main:84] Current CPU temperature 48.199
+[I 230224 13:39:16 main:109] day - save image
+[I 230224 13:39:30 main:80] Loop number 457 started
+[I 230224 13:39:30 main:84] Current CPU temperature 48.199
+[I 230224 13:39:30 main:109] day - save image
+[I 230224 13:39:44 main:80] Loop number 458 started
+[I 230224 13:39:44 main:84] Current CPU temperature 47.712
+[I 230224 13:39:44 main:109] day - save image
+[I 230224 13:39:58 main:80] Loop number 459 started
+[I 230224 13:39:58 main:84] Current CPU temperature 47.225
+[I 230224 13:39:58 main:109] day - save image
+[I 230224 13:40:12 main:80] Loop number 460 started
+[I 230224 13:40:12 main:84] Current CPU temperature 46.738
+[I 230224 13:40:12 main:109] day - save image
+[I 230224 13:40:26 main:80] Loop number 461 started
+[I 230224 13:40:26 main:84] Current CPU temperature 47.225
+[I 230224 13:40:26 main:109] day - save image
+[I 230224 13:40:40 main:80] Loop number 462 started
+[I 230224 13:40:40 main:84] Current CPU temperature 47.712
+[I 230224 13:40:40 main:109] day - save image
+[I 230224 13:40:54 main:80] Loop number 463 started
+[I 230224 13:40:54 main:84] Current CPU temperature 47.712
+[I 230224 13:40:54 main:109] day - save image
+[I 230224 13:41:08 main:80] Loop number 464 started
+[I 230224 13:41:08 main:84] Current CPU temperature 48.199
+[I 230224 13:41:08 main:109] day - save image
+[I 230224 13:41:22 main:80] Loop number 465 started
+[I 230224 13:41:22 main:84] Current CPU temperature 48.686
+[I 230224 13:41:22 main:109] day - save image
+[I 230224 13:41:37 main:80] Loop number 466 started
+[I 230224 13:41:37 main:84] Current CPU temperature 47.712
+[I 230224 13:41:37 main:109] day - save image
+[I 230224 13:41:51 main:80] Loop number 467 started
+[I 230224 13:41:51 main:84] Current CPU temperature 47.225
+[I 230224 13:41:51 main:109] day - save image
+[I 230224 13:42:05 main:80] Loop number 468 started
+[I 230224 13:42:05 main:84] Current CPU temperature 47.712
+[I 230224 13:42:05 main:109] day - save image
+[I 230224 13:42:19 main:80] Loop number 469 started
+[I 230224 13:42:19 main:84] Current CPU temperature 46.738
+[I 230224 13:42:19 main:109] day - save image
+[I 230224 13:42:33 main:80] Loop number 470 started
+[I 230224 13:42:33 main:84] Current CPU temperature 47.712
+[I 230224 13:42:33 main:109] day - save image
+[I 230224 13:42:46 main:80] Loop number 471 started
+[I 230224 13:42:46 main:84] Current CPU temperature 48.199
+[I 230224 13:42:46 main:109] day - save image
+[I 230224 13:43:00 main:80] Loop number 472 started
+[I 230224 13:43:00 main:84] Current CPU temperature 48.199
+[I 230224 13:43:00 main:109] day - save image
+[I 230224 13:43:14 main:80] Loop number 473 started
+[I 230224 13:43:14 main:84] Current CPU temperature 46.738
+[I 230224 13:43:14 main:109] day - save image
+[I 230224 13:43:28 main:80] Loop number 474 started
+[I 230224 13:43:28 main:84] Current CPU temperature 46.738
+[I 230224 13:43:28 main:109] day - save image
+[I 230224 13:43:42 main:80] Loop number 475 started
+[I 230224 13:43:42 main:84] Current CPU temperature 48.199
+[I 230224 13:43:42 main:109] day - save image
+[I 230224 13:43:56 main:80] Loop number 476 started
+[I 230224 13:43:56 main:84] Current CPU temperature 47.225
+[I 230224 13:43:56 main:109] day - save image
+[I 230224 13:44:10 main:80] Loop number 477 started
+[I 230224 13:44:10 main:84] Current CPU temperature 48.199
+[I 230224 13:44:10 main:109] day - save image
+[I 230224 13:44:24 main:80] Loop number 478 started
+[I 230224 13:44:24 main:84] Current CPU temperature 47.712
+[I 230224 13:44:24 main:109] day - save image
+[I 230224 13:44:38 main:80] Loop number 479 started
+[I 230224 13:44:38 main:84] Current CPU temperature 47.712
+[I 230224 13:44:38 main:109] day - save image
+[I 230224 13:44:52 main:80] Loop number 480 started
+[I 230224 13:44:52 main:84] Current CPU temperature 47.712
+[I 230224 13:44:52 main:109] day - save image
+[I 230224 13:45:06 main:80] Loop number 481 started
+[I 230224 13:45:06 main:84] Current CPU temperature 49.173
+[I 230224 13:45:06 main:109] day - save image
+[I 230224 13:45:20 main:80] Loop number 482 started
+[I 230224 13:45:20 main:84] Current CPU temperature 48.686
+[I 230224 13:45:20 main:109] day - save image
+[I 230224 13:45:34 main:80] Loop number 483 started
+[I 230224 13:45:34 main:84] Current CPU temperature 47.712
+[I 230224 13:45:34 main:109] day - save image
+[I 230224 13:45:47 main:80] Loop number 484 started
+[I 230224 13:45:47 main:84] Current CPU temperature 47.712
+[I 230224 13:45:48 main:109] day - save image
+[I 230224 13:46:01 main:80] Loop number 485 started
+[I 230224 13:46:01 main:84] Current CPU temperature 47.225
+[I 230224 13:46:01 main:109] day - save image
+[I 230224 13:46:15 main:80] Loop number 486 started
+[I 230224 13:46:15 main:84] Current CPU temperature 47.712
+[I 230224 13:46:15 main:109] day - save image
+[I 230224 13:46:30 main:80] Loop number 487 started
+[I 230224 13:46:30 main:84] Current CPU temperature 47.712
+[I 230224 13:46:30 main:109] day - save image
+[I 230224 13:46:44 main:80] Loop number 488 started
+[I 230224 13:46:44 main:84] Current CPU temperature 47.712
+[I 230224 13:46:44 main:109] day - save image
+[I 230224 13:46:58 main:80] Loop number 489 started
+[I 230224 13:46:58 main:84] Current CPU temperature 47.225
+[I 230224 13:46:58 main:109] day - save image
+[I 230224 13:47:12 main:80] Loop number 490 started
+[I 230224 13:47:12 main:84] Current CPU temperature 47.225
+[I 230224 13:47:12 main:109] day - save image
+[I 230224 13:47:26 main:80] Loop number 491 started
+[I 230224 13:47:26 main:84] Current CPU temperature 46.738
+[I 230224 13:47:26 main:109] day - save image
+[I 230224 13:47:40 main:80] Loop number 492 started
+[I 230224 13:47:40 main:84] Current CPU temperature 48.199
+[I 230224 13:47:40 main:109] day - save image
+[I 230224 13:47:53 main:80] Loop number 493 started
+[I 230224 13:47:53 main:84] Current CPU temperature 48.199
+[I 230224 13:47:53 main:109] day - save image
+[I 230224 13:48:07 main:80] Loop number 494 started
+[I 230224 13:48:07 main:84] Current CPU temperature 47.225
+[I 230224 13:48:07 main:109] day - save image
+[I 230224 13:48:21 main:80] Loop number 495 started
+[I 230224 13:48:21 main:84] Current CPU temperature 48.686
+[I 230224 13:48:21 main:109] day - save image
+[I 230224 13:48:35 main:80] Loop number 496 started
+[I 230224 13:48:35 main:84] Current CPU temperature 48.199
+[I 230224 13:48:35 main:109] day - save image
+[I 230224 13:48:49 main:80] Loop number 497 started
+[I 230224 13:48:49 main:84] Current CPU temperature 47.712
+[I 230224 13:48:49 main:109] day - save image
+[I 230224 13:49:03 main:80] Loop number 498 started
+[I 230224 13:49:03 main:84] Current CPU temperature 46.738
+[I 230224 13:49:03 main:109] day - save image
+[I 230224 13:49:17 main:80] Loop number 499 started
+[I 230224 13:49:17 main:84] Current CPU temperature 48.686
+[I 230224 13:49:17 main:109] day - save image
+[I 230224 13:49:31 main:80] Loop number 500 started
+[I 230224 13:49:31 main:84] Current CPU temperature 48.199
+[I 230224 13:49:31 main:109] day - save image
+[I 230224 13:49:45 main:80] Loop number 501 started
+[I 230224 13:49:45 main:84] Current CPU temperature 47.712
+[I 230224 13:49:45 main:109] day - save image
+[I 230224 13:49:59 main:80] Loop number 502 started
+[I 230224 13:49:59 main:84] Current CPU temperature 47.225
+[I 230224 13:49:59 main:109] day - save image
+[I 230224 13:50:13 main:80] Loop number 503 started
+[I 230224 13:50:13 main:84] Current CPU temperature 47.225
+[I 230224 13:50:13 main:109] day - save image
+[I 230224 13:50:27 main:80] Loop number 504 started
+[I 230224 13:50:27 main:84] Current CPU temperature 47.712
+[I 230224 13:50:27 main:109] day - save image
+[I 230224 13:50:41 main:80] Loop number 505 started
+[I 230224 13:50:41 main:84] Current CPU temperature 47.712
+[I 230224 13:50:41 main:109] day - save image
+[I 230224 13:50:55 main:80] Loop number 506 started
+[I 230224 13:50:55 main:84] Current CPU temperature 47.712
+[I 230224 13:50:55 main:109] day - save image
+[I 230224 13:51:09 main:80] Loop number 507 started
+[I 230224 13:51:09 main:84] Current CPU temperature 47.225
+[I 230224 13:51:09 main:109] day - save image
+[I 230224 13:51:23 main:80] Loop number 508 started
+[I 230224 13:51:23 main:84] Current CPU temperature 47.712
+[I 230224 13:51:23 main:109] day - save image
+[I 230224 13:51:37 main:80] Loop number 509 started
+[I 230224 13:51:37 main:84] Current CPU temperature 49.173
+[I 230224 13:51:37 main:109] day - save image
+[I 230224 13:51:51 main:80] Loop number 510 started
+[I 230224 13:51:51 main:84] Current CPU temperature 47.712
+[I 230224 13:51:51 main:109] day - save image
+[I 230224 13:52:05 main:80] Loop number 511 started
+[I 230224 13:52:05 main:84] Current CPU temperature 47.712
+[I 230224 13:52:05 main:109] day - save image
+[I 230224 13:52:19 main:80] Loop number 512 started
+[I 230224 13:52:19 main:84] Current CPU temperature 48.686
+[I 230224 13:52:19 main:109] day - save image
+[I 230224 13:52:33 main:80] Loop number 513 started
+[I 230224 13:52:33 main:84] Current CPU temperature 47.225
+[I 230224 13:52:33 main:109] day - save image
+[I 230224 13:52:47 main:80] Loop number 514 started
+[I 230224 13:52:47 main:84] Current CPU temperature 47.712
+[I 230224 13:52:47 main:109] day - save image
+[I 230224 13:53:01 main:80] Loop number 515 started
+[I 230224 13:53:01 main:84] Current CPU temperature 47.225
+[I 230224 13:53:01 main:109] day - save image
+[I 230224 13:53:15 main:80] Loop number 516 started
+[I 230224 13:53:15 main:84] Current CPU temperature 48.199
+[I 230224 13:53:15 main:109] day - save image
+[I 230224 13:53:29 main:80] Loop number 517 started
+[I 230224 13:53:29 main:84] Current CPU temperature 47.225
+[I 230224 13:53:29 main:109] day - save image
+[I 230224 13:53:43 main:80] Loop number 518 started
+[I 230224 13:53:43 main:84] Current CPU temperature 47.225
+[I 230224 13:53:43 main:109] day - save image
+[I 230224 13:53:57 main:80] Loop number 519 started
+[I 230224 13:53:57 main:84] Current CPU temperature 48.686
+[I 230224 13:53:57 main:109] day - save image
+[I 230224 13:54:11 main:80] Loop number 520 started
+[I 230224 13:54:11 main:84] Current CPU temperature 48.199
+[I 230224 13:54:11 main:109] day - save image
+[I 230224 13:54:25 main:80] Loop number 521 started
+[I 230224 13:54:25 main:84] Current CPU temperature 48.686
+[I 230224 13:54:25 main:109] day - save image
+[I 230224 13:54:38 main:80] Loop number 522 started
+[I 230224 13:54:38 main:84] Current CPU temperature 48.686
+[I 230224 13:54:38 main:109] day - save image
+[I 230224 13:54:52 main:80] Loop number 523 started
+[I 230224 13:54:52 main:84] Current CPU temperature 47.712
+[I 230224 13:54:52 main:109] day - save image
+[I 230224 13:55:06 main:80] Loop number 524 started
+[I 230224 13:55:06 main:84] Current CPU temperature 48.686
+[I 230224 13:55:06 main:109] day - save image
+[I 230224 13:55:20 main:80] Loop number 525 started
+[I 230224 13:55:20 main:84] Current CPU temperature 47.712
+[I 230224 13:55:20 main:109] day - save image
+[I 230224 13:55:35 main:80] Loop number 526 started
+[I 230224 13:55:35 main:84] Current CPU temperature 47.712
+[I 230224 13:55:35 main:109] day - save image
+[I 230224 13:55:48 main:80] Loop number 527 started
+[I 230224 13:55:48 main:84] Current CPU temperature 49.66
+[I 230224 13:55:48 main:109] day - save image
+[I 230224 13:56:02 main:80] Loop number 528 started
+[I 230224 13:56:02 main:84] Current CPU temperature 48.199
+[I 230224 13:56:02 main:109] day - save image
+[I 230224 13:56:16 main:80] Loop number 529 started
+[I 230224 13:56:16 main:84] Current CPU temperature 48.686
+[I 230224 13:56:16 main:109] day - save image
+[I 230224 13:56:31 main:80] Loop number 530 started
+[I 230224 13:56:31 main:84] Current CPU temperature 48.199
+[I 230224 13:56:31 main:109] day - save image
+[I 230224 13:56:45 main:80] Loop number 531 started
+[I 230224 13:56:45 main:84] Current CPU temperature 48.199
+[I 230224 13:56:45 main:109] day - save image
+[I 230224 13:56:58 main:80] Loop number 532 started
+[I 230224 13:56:58 main:84] Current CPU temperature 47.225
+[I 230224 13:56:58 main:109] day - save image
+[I 230224 13:57:12 main:80] Loop number 533 started
+[I 230224 13:57:12 main:84] Current CPU temperature 47.225
+[I 230224 13:57:12 main:109] day - save image
+[I 230224 13:57:26 main:80] Loop number 534 started
+[I 230224 13:57:26 main:84] Current CPU temperature 47.225
+[I 230224 13:57:26 main:109] day - save image
+[I 230224 13:57:40 main:80] Loop number 535 started
+[I 230224 13:57:40 main:84] Current CPU temperature 47.712
+[I 230224 13:57:40 main:109] day - save image
+[I 230224 13:57:54 main:80] Loop number 536 started
+[I 230224 13:57:54 main:84] Current CPU temperature 47.712
+[I 230224 13:57:54 main:109] day - save image
+[I 230224 13:58:08 main:80] Loop number 537 started
+[I 230224 13:58:08 main:84] Current CPU temperature 48.199
+[I 230224 13:58:08 main:109] day - save image
+[I 230224 13:58:22 main:80] Loop number 538 started
+[I 230224 13:58:23 main:84] Current CPU temperature 47.712
+[I 230224 13:58:23 main:109] day - save image
+[I 230224 13:58:37 main:80] Loop number 539 started
+[I 230224 13:58:37 main:84] Current CPU temperature 48.199
+[I 230224 13:58:37 main:109] day - save image
+[I 230224 13:58:51 main:80] Loop number 540 started
+[I 230224 13:58:51 main:84] Current CPU temperature 47.712
+[I 230224 13:58:51 main:109] day - save image
+[I 230224 13:59:05 main:80] Loop number 541 started
+[I 230224 13:59:05 main:84] Current CPU temperature 47.712
+[I 230224 13:59:05 main:109] day - save image
+[I 230224 13:59:19 main:80] Loop number 542 started
+[I 230224 13:59:19 main:84] Current CPU temperature 48.199
+[I 230224 13:59:19 main:109] day - save image
+[I 230224 13:59:33 main:80] Loop number 543 started
+[I 230224 13:59:33 main:84] Current CPU temperature 48.199
+[I 230224 13:59:33 main:109] day - save image
+[I 230224 13:59:47 main:80] Loop number 544 started
+[I 230224 13:59:47 main:84] Current CPU temperature 48.199
+[I 230224 13:59:47 main:109] day - save image
+[I 230224 14:00:01 main:80] Loop number 545 started
+[I 230224 14:00:01 main:84] Current CPU temperature 47.712
+[I 230224 14:00:01 main:109] day - save image
+[I 230224 14:00:15 main:80] Loop number 546 started
+[I 230224 14:00:15 main:84] Current CPU temperature 48.199
+[I 230224 14:00:15 main:109] day - save image
+[I 230224 14:00:29 main:80] Loop number 547 started
+[I 230224 14:00:29 main:84] Current CPU temperature 48.199
+[I 230224 14:00:29 main:109] day - save image
+[I 230224 14:00:43 main:80] Loop number 548 started
+[I 230224 14:00:43 main:84] Current CPU temperature 47.712
+[I 230224 14:00:43 main:109] day - save image
+[I 230224 14:00:57 main:80] Loop number 549 started
+[I 230224 14:00:57 main:84] Current CPU temperature 47.712
+[I 230224 14:00:57 main:109] day - save image
+[I 230224 14:01:11 main:80] Loop number 550 started
+[I 230224 14:01:11 main:84] Current CPU temperature 47.712
+[I 230224 14:01:11 main:109] day - save image
+[I 230224 14:01:26 main:80] Loop number 551 started
+[I 230224 14:01:26 main:84] Current CPU temperature 48.686
+[I 230224 14:01:26 main:109] day - save image
+[I 230224 14:01:40 main:80] Loop number 552 started
+[I 230224 14:01:40 main:84] Current CPU temperature 48.686
+[I 230224 14:01:40 main:109] day - save image
+[I 230224 14:01:54 main:80] Loop number 553 started
+[I 230224 14:01:54 main:84] Current CPU temperature 48.199
+[I 230224 14:01:54 main:109] day - save image
+[I 230224 14:02:08 main:80] Loop number 554 started
+[I 230224 14:02:08 main:84] Current CPU temperature 48.199
+[I 230224 14:02:08 main:109] day - save image
+[I 230224 14:02:22 main:80] Loop number 555 started
+[I 230224 14:02:22 main:84] Current CPU temperature 47.712
+[I 230224 14:02:22 main:109] day - save image
+[I 230224 14:02:36 main:80] Loop number 556 started
+[I 230224 14:02:36 main:84] Current CPU temperature 47.712
+[I 230224 14:02:36 main:109] day - save image
+[I 230224 14:02:50 main:80] Loop number 557 started
+[I 230224 14:02:50 main:84] Current CPU temperature 48.686
+[I 230224 14:02:50 main:109] day - save image
+[I 230224 14:03:04 main:80] Loop number 558 started
+[I 230224 14:03:04 main:84] Current CPU temperature 48.199
+[I 230224 14:03:04 main:109] day - save image
+[I 230224 14:03:18 main:80] Loop number 559 started
+[I 230224 14:03:18 main:84] Current CPU temperature 48.686
+[I 230224 14:03:18 main:109] day - save image
+[I 230224 14:03:32 main:80] Loop number 560 started
+[I 230224 14:03:32 main:84] Current CPU temperature 49.66
+[I 230224 14:03:32 main:109] day - save image
+[I 230224 14:03:45 main:80] Loop number 561 started
+[I 230224 14:03:45 main:84] Current CPU temperature 48.686
+[I 230224 14:03:46 main:109] day - save image
+[I 230224 14:03:59 main:80] Loop number 562 started
+[I 230224 14:03:59 main:84] Current CPU temperature 47.712
+[I 230224 14:03:59 main:109] day - save image
+[I 230224 14:04:13 main:80] Loop number 563 started
+[I 230224 14:04:13 main:84] Current CPU temperature 48.686
+[I 230224 14:04:13 main:109] day - save image
+[I 230224 14:04:27 main:80] Loop number 564 started
+[I 230224 14:04:27 main:84] Current CPU temperature 49.173
+[I 230224 14:04:27 main:109] day - save image
+[I 230224 14:04:41 main:80] Loop number 565 started
+[I 230224 14:04:41 main:84] Current CPU temperature 48.199
+[I 230224 14:04:41 main:109] day - save image
+[I 230224 14:04:55 main:80] Loop number 566 started
+[I 230224 14:04:55 main:84] Current CPU temperature 49.173
+[I 230224 14:04:55 main:109] day - save image
+[I 230224 14:05:09 main:80] Loop number 567 started
+[I 230224 14:05:09 main:84] Current CPU temperature 47.225
+[I 230224 14:05:09 main:109] day - save image
+[I 230224 14:05:23 main:80] Loop number 568 started
+[I 230224 14:05:23 main:84] Current CPU temperature 48.199
+[I 230224 14:05:23 main:109] day - save image
+[I 230224 14:05:37 main:80] Loop number 569 started
+[I 230224 14:05:37 main:84] Current CPU temperature 48.199
+[I 230224 14:05:37 main:109] day - save image
+[I 230224 14:05:51 main:80] Loop number 570 started
+[I 230224 14:05:51 main:84] Current CPU temperature 47.712
+[I 230224 14:05:51 main:109] day - save image
+[I 230224 14:06:05 main:80] Loop number 571 started
+[I 230224 14:06:05 main:84] Current CPU temperature 47.712
+[I 230224 14:06:05 main:109] day - save image
+[I 230224 14:06:19 main:80] Loop number 572 started
+[I 230224 14:06:19 main:84] Current CPU temperature 47.712
+[I 230224 14:06:19 main:109] day - save image
+[I 230224 14:06:33 main:80] Loop number 573 started
+[I 230224 14:06:33 main:84] Current CPU temperature 47.712
+[I 230224 14:06:33 main:109] day - save image
+[I 230224 14:06:47 main:80] Loop number 574 started
+[I 230224 14:06:47 main:84] Current CPU temperature 47.712
+[I 230224 14:06:47 main:109] day - save image
+[I 230224 14:07:01 main:80] Loop number 575 started
+[I 230224 14:07:01 main:84] Current CPU temperature 49.173
+[I 230224 14:07:01 main:109] day - save image
+[I 230224 14:07:15 main:80] Loop number 576 started
+[I 230224 14:07:15 main:84] Current CPU temperature 47.712
+[I 230224 14:07:15 main:109] day - save image
+[I 230224 14:07:29 main:80] Loop number 577 started
+[I 230224 14:07:29 main:84] Current CPU temperature 48.199
+[I 230224 14:07:29 main:109] day - save image
+[I 230224 14:07:43 main:80] Loop number 578 started
+[I 230224 14:07:43 main:84] Current CPU temperature 48.686
+[I 230224 14:07:43 main:109] day - save image
+[I 230224 14:07:57 main:80] Loop number 579 started
+[I 230224 14:07:57 main:84] Current CPU temperature 48.199
+[I 230224 14:07:57 main:109] day - save image
+[I 230224 14:08:11 main:80] Loop number 580 started
+[I 230224 14:08:11 main:84] Current CPU temperature 48.199
+[I 230224 14:08:11 main:109] day - save image
+[I 230224 14:08:25 main:80] Loop number 581 started
+[I 230224 14:08:25 main:84] Current CPU temperature 48.686
+[I 230224 14:08:25 main:109] day - save image
+[I 230224 14:08:39 main:80] Loop number 582 started
+[I 230224 14:08:39 main:84] Current CPU temperature 47.712
+[I 230224 14:08:39 main:109] day - save image
+[I 230224 14:08:52 main:80] Loop number 583 started
+[I 230224 14:08:52 main:84] Current CPU temperature 48.686
+[I 230224 14:08:53 main:109] day - save image
+[I 230224 14:09:06 main:80] Loop number 584 started
+[I 230224 14:09:06 main:84] Current CPU temperature 47.225
+[I 230224 14:09:06 main:109] day - save image
+[I 230224 14:09:20 main:80] Loop number 585 started
+[I 230224 14:09:20 main:84] Current CPU temperature 47.225
+[I 230224 14:09:20 main:109] day - save image
+[I 230224 14:09:34 main:80] Loop number 586 started
+[I 230224 14:09:34 main:84] Current CPU temperature 49.173
+[I 230224 14:09:34 main:109] day - save image
+[I 230224 14:09:48 main:80] Loop number 587 started
+[I 230224 14:09:48 main:84] Current CPU temperature 48.686
+[I 230224 14:09:48 main:109] day - save image
+[I 230224 14:10:03 main:80] Loop number 588 started
+[I 230224 14:10:03 main:84] Current CPU temperature 49.173
+[I 230224 14:10:03 main:109] day - save image
+[I 230224 14:10:17 main:80] Loop number 589 started
+[I 230224 14:10:17 main:84] Current CPU temperature 47.712
+[I 230224 14:10:17 main:109] day - save image
+[I 230224 14:10:31 main:80] Loop number 590 started
+[I 230224 14:10:31 main:84] Current CPU temperature 47.712
+[I 230224 14:10:31 main:109] day - save image
+[I 230224 14:10:45 main:80] Loop number 591 started
+[I 230224 14:10:45 main:84] Current CPU temperature 48.199
+[I 230224 14:10:45 main:109] day - save image
+[I 230224 14:10:59 main:80] Loop number 592 started
+[I 230224 14:10:59 main:84] Current CPU temperature 48.686
+[I 230224 14:10:59 main:109] day - save image
+[I 230224 14:11:12 main:80] Loop number 593 started
+[I 230224 14:11:12 main:84] Current CPU temperature 48.199
+[I 230224 14:11:12 main:109] day - save image
+[I 230224 14:11:26 main:80] Loop number 594 started
+[I 230224 14:11:26 main:84] Current CPU temperature 47.225
+[I 230224 14:11:26 main:109] day - save image
+[I 230224 14:11:40 main:80] Loop number 595 started
+[I 230224 14:11:40 main:84] Current CPU temperature 48.686
+[I 230224 14:11:40 main:109] day - save image
+[I 230224 14:11:54 main:80] Loop number 596 started
+[I 230224 14:11:54 main:84] Current CPU temperature 47.712
+[I 230224 14:11:54 main:109] day - save image
+[I 230224 14:12:08 main:80] Loop number 597 started
+[I 230224 14:12:08 main:84] Current CPU temperature 47.712
+[I 230224 14:12:08 main:109] day - save image
+[I 230224 14:12:22 main:80] Loop number 598 started
+[I 230224 14:12:22 main:84] Current CPU temperature 47.712
+[I 230224 14:12:22 main:109] day - save image
+[I 230224 14:12:36 main:80] Loop number 599 started
+[I 230224 14:12:36 main:84] Current CPU temperature 48.199
+[I 230224 14:12:36 main:109] day - save image
+[I 230224 14:12:50 main:80] Loop number 600 started
+[I 230224 14:12:50 main:84] Current CPU temperature 48.686
+[I 230224 14:12:50 main:109] day - save image
+[I 230224 14:13:04 main:80] Loop number 601 started
+[I 230224 14:13:04 main:84] Current CPU temperature 48.686
+[I 230224 14:13:04 main:109] day - save image
+[I 230224 14:13:19 main:80] Loop number 602 started
+[I 230224 14:13:19 main:84] Current CPU temperature 47.225
+[I 230224 14:13:19 main:109] day - save image
+[I 230224 14:13:33 main:80] Loop number 603 started
+[I 230224 14:13:33 main:84] Current CPU temperature 49.173
+[I 230224 14:13:33 main:109] day - save image
+[I 230224 14:13:47 main:80] Loop number 604 started
+[I 230224 14:13:47 main:84] Current CPU temperature 47.712
+[I 230224 14:13:47 main:109] day - save image
+[I 230224 14:14:00 main:80] Loop number 605 started
+[I 230224 14:14:00 main:84] Current CPU temperature 48.686
+[I 230224 14:14:00 main:109] day - save image
+[I 230224 14:14:14 main:80] Loop number 606 started
+[I 230224 14:14:14 main:84] Current CPU temperature 46.738
+[I 230224 14:14:14 main:109] day - save image
+[I 230224 14:14:29 main:80] Loop number 607 started
+[I 230224 14:14:29 main:84] Current CPU temperature 47.225
+[I 230224 14:14:29 main:109] day - save image
+[I 230224 14:14:43 main:80] Loop number 608 started
+[I 230224 14:14:43 main:84] Current CPU temperature 47.712
+[I 230224 14:14:43 main:109] day - save image
+[I 230224 14:14:57 main:80] Loop number 609 started
+[I 230224 14:14:57 main:84] Current CPU temperature 48.199
+[I 230224 14:14:57 main:109] day - save image
+[I 230224 14:15:10 main:80] Loop number 610 started
+[I 230224 14:15:10 main:84] Current CPU temperature 47.712
+[I 230224 14:15:11 main:109] day - save image
+[I 230224 14:15:24 main:80] Loop number 611 started
+[I 230224 14:15:24 main:84] Current CPU temperature 48.686
+[I 230224 14:15:24 main:109] day - save image
+[I 230224 14:15:39 main:80] Loop number 612 started
+[I 230224 14:15:39 main:84] Current CPU temperature 47.712
+[I 230224 14:15:39 main:109] day - save image
+[I 230224 14:15:53 main:80] Loop number 613 started
+[I 230224 14:15:53 main:84] Current CPU temperature 48.686
+[I 230224 14:15:53 main:109] day - save image
+[I 230224 14:16:07 main:80] Loop number 614 started
+[I 230224 14:16:07 main:84] Current CPU temperature 47.712
+[I 230224 14:16:07 main:109] day - save image
+[I 230224 14:16:20 main:80] Loop number 615 started
+[I 230224 14:16:20 main:84] Current CPU temperature 47.712
+[I 230224 14:16:21 main:109] day - save image
+[I 230224 14:16:35 main:80] Loop number 616 started
+[I 230224 14:16:35 main:84] Current CPU temperature 48.199
+[I 230224 14:16:35 main:109] day - save image
+[I 230224 14:16:49 main:80] Loop number 617 started
+[I 230224 14:16:49 main:84] Current CPU temperature 48.199
+[I 230224 14:16:49 main:109] day - save image
+[I 230224 14:17:03 main:80] Loop number 618 started
+[I 230224 14:17:03 main:84] Current CPU temperature 49.173
+[I 230224 14:17:03 main:109] day - save image
+[I 230224 14:17:18 main:80] Loop number 619 started
+[I 230224 14:17:18 main:84] Current CPU temperature 47.712
+[I 230224 14:17:18 main:109] day - save image
+[I 230224 14:17:32 main:80] Loop number 620 started
+[I 230224 14:17:32 main:84] Current CPU temperature 48.686
+[I 230224 14:17:32 main:109] day - save image
+[I 230224 14:17:46 main:80] Loop number 621 started
+[I 230224 14:17:46 main:84] Current CPU temperature 47.712
+[I 230224 14:17:46 main:109] day - save image
+[I 230224 14:18:00 main:80] Loop number 622 started
+[I 230224 14:18:00 main:84] Current CPU temperature 48.199
+[I 230224 14:18:00 main:109] day - save image
+[I 230224 14:18:14 main:80] Loop number 623 started
+[I 230224 14:18:14 main:84] Current CPU temperature 47.712
+[I 230224 14:18:14 main:109] day - save image
+[I 230224 14:18:28 main:80] Loop number 624 started
+[I 230224 14:18:28 main:84] Current CPU temperature 46.251
+[I 230224 14:18:28 main:109] day - save image
+[I 230224 14:18:43 main:80] Loop number 625 started
+[I 230224 14:18:43 main:84] Current CPU temperature 48.199
+[I 230224 14:18:43 main:109] day - save image
+[I 230224 14:18:56 main:80] Loop number 626 started
+[I 230224 14:18:56 main:84] Current CPU temperature 47.712
+[I 230224 14:18:57 main:109] day - save image
+[I 230224 14:19:10 main:80] Loop number 627 started
+[I 230224 14:19:10 main:84] Current CPU temperature 48.686
+[I 230224 14:19:10 main:109] day - save image
+[I 230224 14:19:25 main:80] Loop number 628 started
+[I 230224 14:19:25 main:84] Current CPU temperature 48.686
+[I 230224 14:19:25 main:109] day - save image
+[I 230224 14:19:39 main:80] Loop number 629 started
+[I 230224 14:19:39 main:84] Current CPU temperature 47.712
+[I 230224 14:19:39 main:109] day - save image
+[I 230224 14:19:53 main:80] Loop number 630 started
+[I 230224 14:19:53 main:84] Current CPU temperature 48.199
+[I 230224 14:19:53 main:109] day - save image
+[I 230224 14:20:07 main:80] Loop number 631 started
+[I 230224 14:20:07 main:84] Current CPU temperature 48.686
+[I 230224 14:20:07 main:109] day - save image
+[I 230224 14:20:21 main:80] Loop number 632 started
+[I 230224 14:20:21 main:84] Current CPU temperature 48.686
+[I 230224 14:20:21 main:109] day - save image
+[I 230224 14:20:35 main:80] Loop number 633 started
+[I 230224 14:20:35 main:84] Current CPU temperature 48.686
+[I 230224 14:20:35 main:109] day - save image
+[I 230224 14:20:49 main:80] Loop number 634 started
+[I 230224 14:20:49 main:84] Current CPU temperature 48.686
+[I 230224 14:20:49 main:109] day - save image
+[I 230224 14:21:03 main:80] Loop number 635 started
+[I 230224 14:21:03 main:84] Current CPU temperature 47.712
+[I 230224 14:21:03 main:109] day - save image
+[I 230224 14:21:17 main:80] Loop number 636 started
+[I 230224 14:21:17 main:84] Current CPU temperature 47.712
+[I 230224 14:21:17 main:109] day - save image
+[I 230224 14:21:31 main:80] Loop number 637 started
+[I 230224 14:21:31 main:84] Current CPU temperature 48.686
+[I 230224 14:21:31 main:109] day - save image
+[I 230224 14:21:45 main:80] Loop number 638 started
+[I 230224 14:21:45 main:84] Current CPU temperature 48.199
+[I 230224 14:21:45 main:109] day - save image
+[I 230224 14:21:59 main:80] Loop number 639 started
+[I 230224 14:21:59 main:84] Current CPU temperature 48.199
+[I 230224 14:21:59 main:109] day - save image
+[I 230224 14:22:13 main:80] Loop number 640 started
+[I 230224 14:22:13 main:84] Current CPU temperature 48.686
+[I 230224 14:22:13 main:109] day - save image
+[I 230224 14:22:27 main:80] Loop number 641 started
+[I 230224 14:22:27 main:84] Current CPU temperature 47.225
+[I 230224 14:22:27 main:109] day - save image
+[I 230224 14:22:41 main:80] Loop number 642 started
+[I 230224 14:22:41 main:84] Current CPU temperature 48.199
+[I 230224 14:22:41 main:109] day - save image
+[I 230224 14:22:55 main:80] Loop number 643 started
+[I 230224 14:22:55 main:84] Current CPU temperature 49.173
+[I 230224 14:22:55 main:109] day - save image
+[I 230224 14:23:09 main:80] Loop number 644 started
+[I 230224 14:23:09 main:84] Current CPU temperature 46.738
+[I 230224 14:23:09 main:109] day - save image
+[I 230224 14:23:23 main:80] Loop number 645 started
+[I 230224 14:23:23 main:84] Current CPU temperature 47.225
+[I 230224 14:23:23 main:109] day - save image
+[I 230224 14:23:37 main:80] Loop number 646 started
+[I 230224 14:23:37 main:84] Current CPU temperature 48.686
+[I 230224 14:23:37 main:109] day - save image
+[I 230224 14:23:51 main:80] Loop number 647 started
+[I 230224 14:23:51 main:84] Current CPU temperature 49.173
+[I 230224 14:23:51 main:109] day - save image
+[I 230224 14:24:05 main:80] Loop number 648 started
+[I 230224 14:24:05 main:84] Current CPU temperature 48.199
+[I 230224 14:24:05 main:109] day - save image
+[I 230224 14:24:19 main:80] Loop number 649 started
+[I 230224 14:24:19 main:84] Current CPU temperature 47.225
+[I 230224 14:24:19 main:109] day - save image
+[I 230224 14:24:33 main:80] Loop number 650 started
+[I 230224 14:24:33 main:84] Current CPU temperature 48.686
+[I 230224 14:24:33 main:109] day - save image
+[I 230224 14:24:47 main:80] Loop number 651 started
+[I 230224 14:24:47 main:84] Current CPU temperature 48.199
+[I 230224 14:24:47 main:109] day - save image
+[I 230224 14:25:01 main:80] Loop number 652 started
+[I 230224 14:25:01 main:84] Current CPU temperature 48.199
+[I 230224 14:25:01 main:109] day - save image
+[I 230224 14:25:15 main:80] Loop number 653 started
+[I 230224 14:25:15 main:84] Current CPU temperature 47.712
+[I 230224 14:25:15 main:109] day - save image
+[I 230224 14:25:29 main:80] Loop number 654 started
+[I 230224 14:25:29 main:84] Current CPU temperature 47.712
+[I 230224 14:25:29 main:109] day - save image
+[I 230224 14:25:42 main:80] Loop number 655 started
+[I 230224 14:25:42 main:84] Current CPU temperature 48.199
+[I 230224 14:25:42 main:109] day - save image
+[I 230224 14:25:56 main:80] Loop number 656 started
+[I 230224 14:25:56 main:84] Current CPU temperature 48.199
+[I 230224 14:25:56 main:109] day - save image
+[I 230224 14:26:10 main:80] Loop number 657 started
+[I 230224 14:26:10 main:84] Current CPU temperature 47.712
+[I 230224 14:26:10 main:109] day - save image
+[I 230224 14:26:24 main:80] Loop number 658 started
+[I 230224 14:26:24 main:84] Current CPU temperature 47.712
+[I 230224 14:26:24 main:109] day - save image
+[I 230224 14:26:38 main:80] Loop number 659 started
+[I 230224 14:26:38 main:84] Current CPU temperature 49.173
+[I 230224 14:26:38 main:109] day - save image
+[I 230224 14:26:52 main:80] Loop number 660 started
+[I 230224 14:26:52 main:84] Current CPU temperature 47.712
+[I 230224 14:26:52 main:109] day - save image
+[I 230224 14:27:06 main:80] Loop number 661 started
+[I 230224 14:27:06 main:84] Current CPU temperature 49.173
+[I 230224 14:27:06 main:109] day - save image
+[I 230224 14:27:20 main:80] Loop number 662 started
+[I 230224 14:27:20 main:84] Current CPU temperature 49.173
+[I 230224 14:27:21 main:109] day - save image
+[I 230224 14:27:34 main:80] Loop number 663 started
+[I 230224 14:27:34 main:84] Current CPU temperature 47.712
+[I 230224 14:27:34 main:109] day - save image
+[I 230224 14:27:48 main:80] Loop number 664 started
+[I 230224 14:27:48 main:84] Current CPU temperature 47.712
+[I 230224 14:27:48 main:109] day - save image
+[I 230224 14:28:02 main:80] Loop number 665 started
+[I 230224 14:28:02 main:84] Current CPU temperature 48.199
+[I 230224 14:28:02 main:109] day - save image
+[I 230224 14:28:16 main:80] Loop number 666 started
+[I 230224 14:28:16 main:84] Current CPU temperature 48.199
+[I 230224 14:28:16 main:97] night - wait 20 seconds
+[I 230224 14:28:36 main:80] Loop number 667 started
+[I 230224 14:28:36 main:84] Current CPU temperature 48.686
+[I 230224 14:28:36 main:97] night - wait 20 seconds
+[I 230224 14:28:56 main:80] Loop number 668 started
+[I 230224 14:28:56 main:84] Current CPU temperature 47.712
+[I 230224 14:28:56 main:97] night - wait 20 seconds
+[I 230224 14:29:16 main:80] Loop number 669 started
+[I 230224 14:29:16 main:84] Current CPU temperature 48.199
+[I 230224 14:29:17 main:97] night - wait 20 seconds
+[I 230224 14:29:37 main:80] Loop number 670 started
+[I 230224 14:29:37 main:84] Current CPU temperature 48.199
+[I 230224 14:29:37 main:97] night - wait 20 seconds
+[I 230224 14:29:57 main:80] Loop number 671 started
+[I 230224 14:29:57 main:84] Current CPU temperature 46.738
+[I 230224 14:29:57 main:97] night - wait 20 seconds
+[I 230224 14:30:17 main:80] Loop number 672 started
+[I 230224 14:30:17 main:84] Current CPU temperature 47.225
+[I 230224 14:30:17 main:97] night - wait 20 seconds
+[I 230224 14:30:37 main:80] Loop number 673 started
+[I 230224 14:30:37 main:84] Current CPU temperature 48.199
+[I 230224 14:30:37 main:97] night - wait 20 seconds
+[I 230224 14:30:57 main:80] Loop number 674 started
+[I 230224 14:30:57 main:84] Current CPU temperature 49.173
+[I 230224 14:30:57 main:97] night - wait 20 seconds
+[I 230224 14:31:17 main:80] Loop number 675 started
+[I 230224 14:31:17 main:84] Current CPU temperature 49.173
+[I 230224 14:31:17 main:97] night - wait 20 seconds
+[I 230224 14:31:37 main:80] Loop number 676 started
+[I 230224 14:31:37 main:84] Current CPU temperature 48.199
+[I 230224 14:31:37 main:97] night - wait 20 seconds
+[I 230224 14:31:57 main:80] Loop number 677 started
+[I 230224 14:31:57 main:84] Current CPU temperature 48.199
+[I 230224 14:31:57 main:97] night - wait 20 seconds
+[I 230224 14:32:17 main:80] Loop number 678 started
+[I 230224 14:32:17 main:84] Current CPU temperature 48.686
+[I 230224 14:32:17 main:97] night - wait 20 seconds
+[I 230224 14:32:37 main:80] Loop number 679 started
+[I 230224 14:32:37 main:84] Current CPU temperature 47.712
+[I 230224 14:32:37 main:97] night - wait 20 seconds
+[I 230224 14:32:57 main:80] Loop number 680 started
+[I 230224 14:32:57 main:84] Current CPU temperature 47.712
+[I 230224 14:32:57 main:97] night - wait 20 seconds
+[I 230224 14:33:17 main:80] Loop number 681 started
+[I 230224 14:33:17 main:84] Current CPU temperature 48.199
+[I 230224 14:33:17 main:97] night - wait 20 seconds
+[I 230224 14:33:37 main:80] Loop number 682 started
+[I 230224 14:33:37 main:84] Current CPU temperature 48.686
+[I 230224 14:33:37 main:97] night - wait 20 seconds
+[I 230224 14:33:57 main:80] Loop number 683 started
+[I 230224 14:33:57 main:84] Current CPU temperature 47.225
+[I 230224 14:33:57 main:97] night - wait 20 seconds
+[I 230224 14:34:17 main:80] Loop number 684 started
+[I 230224 14:34:17 main:84] Current CPU temperature 48.199
+[I 230224 14:34:17 main:97] night - wait 20 seconds
+[I 230224 14:34:37 main:80] Loop number 685 started
+[I 230224 14:34:37 main:84] Current CPU temperature 47.712
+[I 230224 14:34:37 main:97] night - wait 20 seconds
+[I 230224 14:34:57 main:131] Ending the loop
+    
+    
+[I 230224 14:34:57 main:143] 6403s spent in day cycles, 3982s spent in night cycles, 0s spent cooling down
+[I 230224 14:34:57 main:147] The code started at 20230224-113502 and ended at 20230224-143457 - total duration: 10795s
+[I 230224 14:34:57 main:151] Average temperature: 47.28329781021897
+[I 230224 14:34:57 main:153] 486 photos were taken, 2.6779069993644953GB was occupied, 0.21535471938550454GB are still available
