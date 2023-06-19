@@ -12,7 +12,8 @@ class NDVI:
     DISPLAY_CONTRASTED = 1
     DISPLAY_NDVI = 2
     DISPLAY_NDVI_CONTRASTED = 3
-    DISPLAY_COLOR = 4
+    DISPLAY_NDVI_CONTRASTED_REVERSED = 4
+    DISPLAY_COLOR = 5
 
     def __init__(self, image_path, resize_factor=1) -> None:
         self.data = cv2.imread(image_path)
@@ -21,6 +22,7 @@ class NDVI:
         self.contrasted = self.__contrast_stretch(self.data)
         self.ndvi = self.__calc_ndvi()
         self.ndvi_contrasted = self.__contrast_stretch(self.ndvi)
+        self.ndvi_contrasted_reversed = np.vectorize(lambda val: 255 - val)(self.ndvi_contrasted)
 
         color_mapped_prep = self.ndvi_contrasted.astype(np.uint8)
         self.colored = cv2.applyColorMap(color_mapped_prep, fastiecm)
@@ -42,6 +44,9 @@ class NDVI:
                 image = np.array(self.ndvi_contrasted, dtype=float) / float(255)
                 image_name = "NDVI contrasted"
             case 4:
+                image = np.array(self.ndvi_contrasted_reversed, dtype=float) / float(255)
+                image_name = "NDVI contrasted reversed"
+            case 5:
                 image = np.array(self.colored, dtype=float) / float(255)
                 image_name = "NDVI colored"
 
@@ -54,12 +59,12 @@ class NDVI:
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
-    def __contrast_stretch(self, im):
+    def __contrast_stretch(self, im, min_val=0.0, max_val=255.0):
         in_min = np.percentile(im, 5)
         in_max = np.percentile(im, 95)
 
-        out_min = 0.0
-        out_max = 255.0
+        out_min = min_val
+        out_max = max_val
 
         out = im - in_min
         out *= (out_min - out_max) / (in_min - in_max)
@@ -97,6 +102,12 @@ class NDVI:
         cv2.imwrite(
             os.path.join(directory, f"{filename}_ndvi_contrasted.{extension}"),
             self.ndvi_contrasted,
+        )
+
+    def save_ndvi_contrasted_reversed(self, directory, filename, extension):
+        cv2.imwrite(
+            os.path.join(directory, f"{filename}_ndvi_contrasted_reversed.{extension}"),
+            self.ndvi_contrasted_reversed,
         )
 
     def save_colored(self, directory, filename, extension):
