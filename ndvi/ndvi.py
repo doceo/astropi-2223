@@ -22,7 +22,7 @@ class NDVI:
 
     def __init__(self, image_path) -> None:
         """
-        Initializes the NDVI calculator with the provided image path and optional resize factor.
+        Initializes the NDVI calculator with the provided image path.
 
         Args:
             image_path (str): The path to the input image file.
@@ -42,7 +42,7 @@ class NDVI:
 
     def display(self, option=DISPLAY_DEFAULT, image_name="Image", resize_factor=1):
         """
-        Displays the processed image based on the specified display option.
+        Displays the processed image based on the specified display option and with an optional resize factor.
 
         Args:
             option (int, optional): The display option to choose from the class constants.
