@@ -1,0 +1,3257 @@
+[
+    {
+        "name": "112308",
+        "file": "20230423-112308.jpg",
+        "longitude": "-13.766",
+        "latitude": "44.8",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.8,-13.766,20.10,latLng"
+    },
+    {
+        "name": "112323",
+        "file": "20230423-112323.jpg",
+        "longitude": "-13.766",
+        "latitude": "44.32",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.32,-12.65,20.10,latLng"
+    },
+    {
+        "name": "112336",
+        "file": "20230423-112336.jpg",
+        "longitude": "-12.65",
+        "latitude": "43.893",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=43.893,-11.699,20.10,latLng"
+    },
+    {
+        "name": "112351",
+        "file": "20230423-112351.jpg",
+        "longitude": "-11.699",
+        "latitude": "43.39",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=43.39,-10.618,20.10,latLng"
+    },
+    {
+        "name": "112405",
+        "file": "20230423-112405.jpg",
+        "longitude": "-10.618",
+        "latitude": "42.911",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=42.911,-9.627,20.10,latLng"
+    },
+    {
+        "name": "112419",
+        "file": "20230423-112419.jpg",
+        "longitude": "-9.627",
+        "latitude": "42.457",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=42.457,-8.721,20.10,latLng"
+    },
+    {
+        "name": "112432",
+        "file": "20230423-112432.jpg",
+        "longitude": "-8.721",
+        "latitude": "41.96",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=41.96,-7.761,20.10,latLng"
+    },
+    {
+        "name": "112446",
+        "file": "20230423-112446.jpg",
+        "longitude": "-7.761",
+        "latitude": "41.453",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=41.453,-6.817,20.10,latLng"
+    },
+    {
+        "name": "112500",
+        "file": "20230423-112500.jpg",
+        "longitude": "-6.817",
+        "latitude": "40.938",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=40.938,-5.888,20.10,latLng"
+    },
+    {
+        "name": "112514",
+        "file": "20230423-112514.jpg",
+        "longitude": "-5.888",
+        "latitude": "40.415",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=40.415,-4.975,20.10,latLng"
+    },
+    {
+        "name": "112528",
+        "file": "20230423-112528.jpg",
+        "longitude": "-4.975",
+        "latitude": "39.883",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=39.883,-4.077,20.10,latLng"
+    },
+    {
+        "name": "112542",
+        "file": "20230423-112542.jpg",
+        "longitude": "-4.077",
+        "latitude": "39.344",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=39.344,-3.193,20.10,latLng"
+    },
+    {
+        "name": "112556",
+        "file": "20230423-112556.jpg",
+        "longitude": "-3.193",
+        "latitude": "38.797",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=38.797,-2.324,20.10,latLng"
+    },
+    {
+        "name": "112610",
+        "file": "20230423-112610.jpg",
+        "longitude": "-2.324",
+        "latitude": "38.242",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=38.242,-1.469,20.10,latLng"
+    },
+    {
+        "name": "112624",
+        "file": "20230423-112624.jpg",
+        "longitude": "-1.469",
+        "latitude": "37.681",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=37.681,-0.627,20.10,latLng"
+    },
+    {
+        "name": "112638",
+        "file": "20230423-112638.jpg",
+        "longitude": "-0.627",
+        "latitude": "37.113",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=37.113,0.2,20.10,latLng"
+    },
+    {
+        "name": "112652",
+        "file": "20230423-112652.jpg",
+        "longitude": "0.2",
+        "latitude": "36.538",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=36.538,1.015,20.10,latLng"
+    },
+    {
+        "name": "112706",
+        "file": "20230423-112706.jpg",
+        "longitude": "1.015",
+        "latitude": "35.957",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=35.957,1.817,20.10,latLng"
+    },
+    {
+        "name": "112720",
+        "file": "20230423-112720.jpg",
+        "longitude": "1.817",
+        "latitude": "35.37",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=35.37,2.606,20.10,latLng"
+    },
+    {
+        "name": "112734",
+        "file": "20230423-112734.jpg",
+        "longitude": "2.606",
+        "latitude": "34.777",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=34.777,3.383,20.10,latLng"
+    },
+    {
+        "name": "112748",
+        "file": "20230423-112748.jpg",
+        "longitude": "3.383",
+        "latitude": "34.178",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=34.178,4.148,20.10,latLng"
+    },
+    {
+        "name": "112802",
+        "file": "20230423-112802.jpg",
+        "longitude": "4.148",
+        "latitude": "33.574",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=33.574,4.902,20.10,latLng"
+    },
+    {
+        "name": "112816",
+        "file": "20230423-112816.jpg",
+        "longitude": "4.902",
+        "latitude": "32.964",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=32.964,5.644,20.10,latLng"
+    },
+    {
+        "name": "112829",
+        "file": "20230423-112829.jpg",
+        "longitude": "5.644",
+        "latitude": "32.393",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=32.393,6.323,20.10,latLng"
+    },
+    {
+        "name": "112844",
+        "file": "20230423-112844.jpg",
+        "longitude": "6.323",
+        "latitude": "31.729",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=31.729,7.096,20.10,latLng"
+    },
+    {
+        "name": "112858",
+        "file": "20230423-112858.jpg",
+        "longitude": "7.096",
+        "latitude": "31.105",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=31.105,7.806,20.10,latLng"
+    },
+    {
+        "name": "112912",
+        "file": "20230423-112912.jpg",
+        "longitude": "7.806",
+        "latitude": "30.476",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=30.476,8.507,20.10,latLng"
+    },
+    {
+        "name": "112925",
+        "file": "20230423-112925.jpg",
+        "longitude": "8.507",
+        "latitude": "29.888",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=29.888,9.148,20.10,latLng"
+    },
+    {
+        "name": "112940",
+        "file": "20230423-112940.jpg",
+        "longitude": "9.148",
+        "latitude": "29.25",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=29.25,9.83,20.10,latLng"
+    },
+    {
+        "name": "112954",
+        "file": "20230423-112954.jpg",
+        "longitude": "9.83",
+        "latitude": "28.608",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=28.608,10.503,20.10,latLng"
+    },
+    {
+        "name": "113008",
+        "file": "20230423-113008.jpg",
+        "longitude": "10.503",
+        "latitude": "27.917",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=27.917,11.215,20.10,latLng"
+    },
+    {
+        "name": "113022",
+        "file": "20230423-113022.jpg",
+        "longitude": "11.215",
+        "latitude": "27.267",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=27.267,11.869,20.10,latLng"
+    },
+    {
+        "name": "113035",
+        "file": "20230423-113035.jpg",
+        "longitude": "11.869",
+        "latitude": "26.66",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=26.66,12.47,20.10,latLng"
+    },
+    {
+        "name": "113049",
+        "file": "20230423-113049.jpg",
+        "longitude": "12.47",
+        "latitude": "26.004",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=26.004,13.109,20.10,latLng"
+    },
+    {
+        "name": "113103",
+        "file": "20230423-113103.jpg",
+        "longitude": "13.109",
+        "latitude": "25.344",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=25.344,13.741,20.10,latLng"
+    },
+    {
+        "name": "113117",
+        "file": "20230423-113117.jpg",
+        "longitude": "13.741",
+        "latitude": "24.681",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=24.681,14.365,20.10,latLng"
+    },
+    {
+        "name": "113131",
+        "file": "20230423-113131.jpg",
+        "longitude": "14.365",
+        "latitude": "24.014",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=24.014,14.982,20.10,latLng"
+    },
+    {
+        "name": "113145",
+        "file": "20230423-113145.jpg",
+        "longitude": "14.982",
+        "latitude": "23.345",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=23.345,15.592,20.10,latLng"
+    },
+    {
+        "name": "113159",
+        "file": "20230423-113159.jpg",
+        "longitude": "15.592",
+        "latitude": "22.673",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=22.673,16.195,20.10,latLng"
+    },
+    {
+        "name": "113213",
+        "file": "20230423-113213.jpg",
+        "longitude": "16.195",
+        "latitude": "22.046",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=22.046,16.75,20.10,latLng"
+    },
+    {
+        "name": "113226",
+        "file": "20230423-113226.jpg",
+        "longitude": "16.75",
+        "latitude": "21.368",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=21.368,17.341,20.10,latLng"
+    },
+    {
+        "name": "113240",
+        "file": "20230423-113240.jpg",
+        "longitude": "17.341",
+        "latitude": "20.688",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=20.688,17.926,20.10,latLng"
+    },
+    {
+        "name": "113255",
+        "file": "20230423-113255.jpg",
+        "longitude": "17.926",
+        "latitude": "19.957",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=19.957,18.547,20.10,latLng"
+    },
+    {
+        "name": "113309",
+        "file": "20230423-113309.jpg",
+        "longitude": "18.547",
+        "latitude": "19.321",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=19.321,19.08,20.10,latLng"
+    },
+    {
+        "name": "113322",
+        "file": "20230423-113322.jpg",
+        "longitude": "19.08",
+        "latitude": "18.634",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=18.634,19.649,20.10,latLng"
+    },
+    {
+        "name": "113336",
+        "file": "20230423-113336.jpg",
+        "longitude": "19.649",
+        "latitude": "17.945",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=17.945,20.213,20.10,latLng"
+    },
+    {
+        "name": "113351",
+        "file": "20230423-113351.jpg",
+        "longitude": "20.213",
+        "latitude": "17.204",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=17.204,20.812,20.10,latLng"
+    },
+    {
+        "name": "113405",
+        "file": "20230423-113405.jpg",
+        "longitude": "20.812",
+        "latitude": "16.511",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=16.511,21.366,20.10,latLng"
+    },
+    {
+        "name": "113419",
+        "file": "20230423-113419.jpg",
+        "longitude": "21.366",
+        "latitude": "15.816",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=15.816,21.916,20.10,latLng"
+    },
+    {
+        "name": "113433",
+        "file": "20230423-113433.jpg",
+        "longitude": "21.916",
+        "latitude": "15.119",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=15.119,22.461,20.10,latLng"
+    },
+    {
+        "name": "113447",
+        "file": "20230423-113447.jpg",
+        "longitude": "22.461",
+        "latitude": "14.47",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=14.47,22.965,20.10,latLng"
+    },
+    {
+        "name": "113501",
+        "file": "20230423-113501.jpg",
+        "longitude": "22.965",
+        "latitude": "13.72",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=13.72,23.541,20.10,latLng"
+    },
+    {
+        "name": "113515",
+        "file": "20230423-113515.jpg",
+        "longitude": "23.541",
+        "latitude": "13.019",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=13.019,24.076,20.10,latLng"
+    },
+    {
+        "name": "113529",
+        "file": "20230423-113529.jpg",
+        "longitude": "24.076",
+        "latitude": "12.316",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=12.316,24.607,20.10,latLng"
+    },
+    {
+        "name": "113543",
+        "file": "20230423-113543.jpg",
+        "longitude": "24.607",
+        "latitude": "11.611",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=11.611,25.135,20.10,latLng"
+    },
+    {
+        "name": "113557",
+        "file": "20230423-113557.jpg",
+        "longitude": "25.135",
+        "latitude": "10.906",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=10.906,25.66,20.10,latLng"
+    },
+    {
+        "name": "113611",
+        "file": "20230423-113611.jpg",
+        "longitude": "25.66",
+        "latitude": "10.199",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=10.199,26.183,20.10,latLng"
+    },
+    {
+        "name": "113625",
+        "file": "20230423-113625.jpg",
+        "longitude": "26.183",
+        "latitude": "9.492",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=9.492,26.703,20.10,latLng"
+    },
+    {
+        "name": "113639",
+        "file": "20230423-113639.jpg",
+        "longitude": "26.703",
+        "latitude": "8.783",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=8.783,27.22,20.10,latLng"
+    },
+    {
+        "name": "113653",
+        "file": "20230423-113653.jpg",
+        "longitude": "27.22",
+        "latitude": "8.074",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=8.074,27.735,20.10,latLng"
+    },
+    {
+        "name": "113707",
+        "file": "20230423-113707.jpg",
+        "longitude": "27.735",
+        "latitude": "7.363",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=7.363,28.249,20.10,latLng"
+    },
+    {
+        "name": "113721",
+        "file": "20230423-113721.jpg",
+        "longitude": "28.249",
+        "latitude": "6.652",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=6.652,28.76,20.10,latLng"
+    },
+    {
+        "name": "113735",
+        "file": "20230423-113735.jpg",
+        "longitude": "28.76",
+        "latitude": "5.94",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=5.94,29.27,20.10,latLng"
+    },
+    {
+        "name": "113749",
+        "file": "20230423-113749.jpg",
+        "longitude": "29.27",
+        "latitude": "5.228",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=5.228,29.778,20.10,latLng"
+    },
+    {
+        "name": "113803",
+        "file": "20230423-113803.jpg",
+        "longitude": "29.778",
+        "latitude": "4.515",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=4.515,30.286,20.10,latLng"
+    },
+    {
+        "name": "113816",
+        "file": "20230423-113816.jpg",
+        "longitude": "30.286",
+        "latitude": "3.853",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=3.853,30.756,20.10,latLng"
+    },
+    {
+        "name": "113830",
+        "file": "20230423-113830.jpg",
+        "longitude": "30.756",
+        "latitude": "3.139",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=3.139,31.261,20.10,latLng"
+    },
+    {
+        "name": "113844",
+        "file": "20230423-113844.jpg",
+        "longitude": "31.261",
+        "latitude": "2.425",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=2.425,31.765,20.10,latLng"
+    },
+    {
+        "name": "113858",
+        "file": "20230423-113858.jpg",
+        "longitude": "31.765",
+        "latitude": "1.711",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=1.711,32.269,20.10,latLng"
+    },
+    {
+        "name": "113912",
+        "file": "20230423-113912.jpg",
+        "longitude": "32.269",
+        "latitude": "0.996",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=0.996,32.772,20.10,latLng"
+    },
+    {
+        "name": "113925",
+        "file": "20230423-113925.jpg",
+        "longitude": "32.772",
+        "latitude": "0.333",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=0.333,33.239,20.10,latLng"
+    },
+    {
+        "name": "113939",
+        "file": "20230423-113939.jpg",
+        "longitude": "33.239",
+        "latitude": "-0.382",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-0.382,33.743,20.10,latLng"
+    },
+    {
+        "name": "113953",
+        "file": "20230423-113953.jpg",
+        "longitude": "33.743",
+        "latitude": "-1.096",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-1.096,34.246,20.10,latLng"
+    },
+    {
+        "name": "114006",
+        "file": "20230423-114006.jpg",
+        "longitude": "34.246",
+        "latitude": "-1.759",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-1.759,34.713,20.10,latLng"
+    },
+    {
+        "name": "114020",
+        "file": "20230423-114020.jpg",
+        "longitude": "34.713",
+        "latitude": "-2.473",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-2.473,35.217,20.10,latLng"
+    },
+    {
+        "name": "114034",
+        "file": "20230423-114034.jpg",
+        "longitude": "35.217",
+        "latitude": "-3.187",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-3.187,35.721,20.10,latLng"
+    },
+    {
+        "name": "114048",
+        "file": "20230423-114048.jpg",
+        "longitude": "35.721",
+        "latitude": "-3.901",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-3.901,36.226,20.10,latLng"
+    },
+    {
+        "name": "114102",
+        "file": "20230423-114102.jpg",
+        "longitude": "36.226",
+        "latitude": "-4.614",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-4.614,36.733,20.10,latLng"
+    },
+    {
+        "name": "114116",
+        "file": "20230423-114116.jpg",
+        "longitude": "36.733",
+        "latitude": "-5.327",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-5.327,37.24,20.10,latLng"
+    },
+    {
+        "name": "114130",
+        "file": "20230423-114130.jpg",
+        "longitude": "37.24",
+        "latitude": "-6.039",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-6.039,37.748,20.10,latLng"
+    },
+    {
+        "name": "114144",
+        "file": "20230423-114144.jpg",
+        "longitude": "37.748",
+        "latitude": "-6.75",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-6.75,38.258,20.10,latLng"
+    },
+    {
+        "name": "114158",
+        "file": "20230423-114158.jpg",
+        "longitude": "38.258",
+        "latitude": "-7.461",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-7.461,38.77,20.10,latLng"
+    },
+    {
+        "name": "114212",
+        "file": "20230423-114212.jpg",
+        "longitude": "38.77",
+        "latitude": "-8.171",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-8.171,39.283,20.10,latLng"
+    },
+    {
+        "name": "114226",
+        "file": "20230423-114226.jpg",
+        "longitude": "39.283",
+        "latitude": "-8.88",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-8.88,39.799,20.10,latLng"
+    },
+    {
+        "name": "114240",
+        "file": "20230423-114240.jpg",
+        "longitude": "39.799",
+        "latitude": "-9.589",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-9.589,40.316,20.10,latLng"
+    },
+    {
+        "name": "114254",
+        "file": "20230423-114254.jpg",
+        "longitude": "40.316",
+        "latitude": "-10.296",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-10.296,40.836,20.10,latLng"
+    },
+    {
+        "name": "114308",
+        "file": "20230423-114308.jpg",
+        "longitude": "40.836",
+        "latitude": "-11.002",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-11.002,41.359,20.10,latLng"
+    },
+    {
+        "name": "114322",
+        "file": "20230423-114322.jpg",
+        "longitude": "41.359",
+        "latitude": "-11.707",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-11.707,41.884,20.10,latLng"
+    },
+    {
+        "name": "114336",
+        "file": "20230423-114336.jpg",
+        "longitude": "41.884",
+        "latitude": "-12.411",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-12.411,42.412,20.10,latLng"
+    },
+    {
+        "name": "114350",
+        "file": "20230423-114350.jpg",
+        "longitude": "42.412",
+        "latitude": "-13.113",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-13.113,42.944,20.10,latLng"
+    },
+    {
+        "name": "114404",
+        "file": "20230423-114404.jpg",
+        "longitude": "42.944",
+        "latitude": "-13.814",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-13.814,43.478,20.10,latLng"
+    },
+    {
+        "name": "114418",
+        "file": "20230423-114418.jpg",
+        "longitude": "43.478",
+        "latitude": "-14.514",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-14.514,44.017,20.10,latLng"
+    },
+    {
+        "name": "114432",
+        "file": "20230423-114432.jpg",
+        "longitude": "44.017",
+        "latitude": "-15.212",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-15.212,44.559,20.10,latLng"
+    },
+    {
+        "name": "114446",
+        "file": "20230423-114446.jpg",
+        "longitude": "44.559",
+        "latitude": "-15.212",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-15.212,45.105,20.10,latLng"
+    },
+    {
+        "name": "114500",
+        "file": "20230423-114500.jpg",
+        "longitude": "45.105",
+        "latitude": "-16.602",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-16.602,45.655,20.10,latLng"
+    },
+    {
+        "name": "114513",
+        "file": "20230423-114513.jpg",
+        "longitude": "45.655",
+        "latitude": "-17.246",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-17.246,46.169,20.10,latLng"
+    },
+    {
+        "name": "114528",
+        "file": "20230423-114528.jpg",
+        "longitude": "46.169",
+        "latitude": "-17.986",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-17.986,46.768,20.10,latLng"
+    },
+    {
+        "name": "114542",
+        "file": "20230423-114542.jpg",
+        "longitude": "46.768",
+        "latitude": "-18.674",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-18.674,47.332,20.10,latLng"
+    },
+    {
+        "name": "114555",
+        "file": "20230423-114555.jpg",
+        "longitude": "47.332",
+        "latitude": "-19.312",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-19.312,47.86,20.10,latLng"
+    },
+    {
+        "name": "114609",
+        "file": "20230423-114609.jpg",
+        "longitude": "47.86",
+        "latitude": "-19.996",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-19.996,48.433,20.10,latLng"
+    },
+    {
+        "name": "114623",
+        "file": "20230423-114623.jpg",
+        "longitude": "48.433",
+        "latitude": "-20.678",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-20.678,49.012,20.10,latLng"
+    },
+    {
+        "name": "114638",
+        "file": "20230423-114638.jpg",
+        "longitude": "49.012",
+        "latitude": "-21.406",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-21.406,49.639,20.10,latLng"
+    },
+    {
+        "name": "114651",
+        "file": "20230423-114651.jpg",
+        "longitude": "49.639",
+        "latitude": "-22.035",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-22.035,50.187,20.10,latLng"
+    },
+    {
+        "name": "114706",
+        "file": "20230423-114706.jpg",
+        "longitude": "50.187",
+        "latitude": "-22.757",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-22.757,50.827,20.10,latLng"
+    },
+    {
+        "name": "114720",
+        "file": "20230423-114720.jpg",
+        "longitude": "50.827",
+        "latitude": "-23.429",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-23.429,51.431,20.10,latLng"
+    },
+    {
+        "name": "114734",
+        "file": "20230423-114734.jpg",
+        "longitude": "51.431",
+        "latitude": "-24.097",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-24.097,52.041,20.10,latLng"
+    },
+    {
+        "name": "114748",
+        "file": "20230423-114748.jpg",
+        "longitude": "52.041",
+        "latitude": "-24.715",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-24.715,52.614,20.10,latLng"
+    },
+    {
+        "name": "114801",
+        "file": "20230423-114801.jpg",
+        "longitude": "52.614",
+        "latitude": "-25.377",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-25.377,53.238,20.10,latLng"
+    },
+    {
+        "name": "114815",
+        "file": "20230423-114815.jpg",
+        "longitude": "53.238",
+        "latitude": "-26.037",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-26.037,53.869,20.10,latLng"
+    },
+    {
+        "name": "114829",
+        "file": "20230423-114829.jpg",
+        "longitude": "53.869",
+        "latitude": "-26.692",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-26.692,54.508,20.10,latLng"
+    },
+    {
+        "name": "114843",
+        "file": "20230423-114843.jpg",
+        "longitude": "54.508",
+        "latitude": "-27.345",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-27.345,55.155,20.10,latLng"
+    },
+    {
+        "name": "114857",
+        "file": "20230423-114857.jpg",
+        "longitude": "55.155",
+        "latitude": "-27.993",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-27.993,55.81,20.10,latLng"
+    },
+    {
+        "name": "114911",
+        "file": "20230423-114911.jpg",
+        "longitude": "55.81",
+        "latitude": "-28.638",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-28.638,56.474,20.10,latLng"
+    },
+    {
+        "name": "114926",
+        "file": "20230423-114926.jpg",
+        "longitude": "56.474",
+        "latitude": "-29.279",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-29.279,57.146,20.10,latLng"
+    },
+    {
+        "name": "114940",
+        "file": "20230423-114940.jpg",
+        "longitude": "57.146",
+        "latitude": "-29.961",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-29.961,57.877,20.10,latLng"
+    },
+    {
+        "name": "114954",
+        "file": "20230423-114954.jpg",
+        "longitude": "57.877",
+        "latitude": "-30.593",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-30.593,58.569,20.10,latLng"
+    },
+    {
+        "name": "115008",
+        "file": "20230423-115008.jpg",
+        "longitude": "58.569",
+        "latitude": "-31.22",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-31.22,59.27,20.10,latLng"
+    },
+    {
+        "name": "115022",
+        "file": "20230423-115022.jpg",
+        "longitude": "59.27",
+        "latitude": "-31.843",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-31.843,59.982,20.10,latLng"
+    },
+    {
+        "name": "115037",
+        "file": "20230423-115037.jpg",
+        "longitude": "59.982",
+        "latitude": "-32.505",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-32.505,60.755,20.10,latLng"
+    },
+    {
+        "name": "115050",
+        "file": "20230423-115050.jpg",
+        "longitude": "60.755",
+        "latitude": "-33.075",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-33.075,61.436,20.10,latLng"
+    },
+    {
+        "name": "115104",
+        "file": "20230423-115104.jpg",
+        "longitude": "61.436",
+        "latitude": "-33.683",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-33.683,62.179,20.10,latLng"
+    },
+    {
+        "name": "115118",
+        "file": "20230423-115118.jpg",
+        "longitude": "62.179",
+        "latitude": "-34.285",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-34.285,62.934,20.10,latLng"
+    },
+    {
+        "name": "115132",
+        "file": "20230423-115132.jpg",
+        "longitude": "62.934",
+        "latitude": "-34.882",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-34.882,63.7,20.10,latLng"
+    },
+    {
+        "name": "115146",
+        "file": "20230423-115146.jpg",
+        "longitude": "63.7",
+        "latitude": "-35.474",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-35.474,64.478,20.10,latLng"
+    },
+    {
+        "name": "115201",
+        "file": "20230423-115201.jpg",
+        "longitude": "64.478",
+        "latitude": "-36.101",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-36.101,65.325,20.10,latLng"
+    },
+    {
+        "name": "115215",
+        "file": "20230423-115215.jpg",
+        "longitude": "65.325",
+        "latitude": "-36.679",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-36.679,66.129,20.10,latLng"
+    },
+    {
+        "name": "115229",
+        "file": "20230423-115229.jpg",
+        "longitude": "66.129",
+        "latitude": "-37.211",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-37.211,66.887,20.10,latLng"
+    },
+    {
+        "name": "115242",
+        "file": "20230423-115242.jpg",
+        "longitude": "66.887",
+        "latitude": "-37.777",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-37.777,67.716,20.10,latLng"
+    },
+    {
+        "name": "115256",
+        "file": "20230423-115256.jpg",
+        "longitude": "67.716",
+        "latitude": "-38.337",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-38.337,68.558,20.10,latLng"
+    },
+    {
+        "name": "115311",
+        "file": "20230423-115311.jpg",
+        "longitude": "68.558",
+        "latitude": "-38.928",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-38.928,69.476,20.10,latLng"
+    },
+    {
+        "name": "115325",
+        "file": "20230423-115325.jpg",
+        "longitude": "69.476",
+        "latitude": "-39.473",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-39.473,70.348,20.10,latLng"
+    },
+    {
+        "name": "115338",
+        "file": "20230423-115338.jpg",
+        "longitude": "70.348",
+        "latitude": "-39.971",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-39.971,71.17,20.10,latLng"
+    },
+    {
+        "name": "115352",
+        "file": "20230423-115352.jpg",
+        "longitude": "71.17",
+        "latitude": "-40.501",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-40.501,72.069,20.10,latLng"
+    },
+    {
+        "name": "115406",
+        "file": "20230423-115406.jpg",
+        "longitude": "72.069",
+        "latitude": "-41.022",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-41.022,72.984,20.10,latLng"
+    },
+    {
+        "name": "115420",
+        "file": "20230423-115420.jpg",
+        "longitude": "72.984",
+        "latitude": "-41.535",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-41.535,73.913,20.10,latLng"
+    },
+    {
+        "name": "115435",
+        "file": "20230423-115435.jpg",
+        "longitude": "73.913",
+        "latitude": "-42.04",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-42.04,74.859,20.10,latLng"
+    },
+    {
+        "name": "115448",
+        "file": "20230423-115448.jpg",
+        "longitude": "74.859",
+        "latitude": "-42.535",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-42.535,75.82,20.10,latLng"
+    },
+    {
+        "name": "115502",
+        "file": "20230423-115502.jpg",
+        "longitude": "75.82",
+        "latitude": "-43.021",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-43.021,76.797,20.10,latLng"
+    },
+    {
+        "name": "115516",
+        "file": "20230423-115516.jpg",
+        "longitude": "76.797",
+        "latitude": "-43.498",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-43.498,77.79,20.10,latLng"
+    },
+    {
+        "name": "115530",
+        "file": "20230423-115530.jpg",
+        "longitude": "77.79",
+        "latitude": "-43.964",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-43.964,78.8,20.10,latLng"
+    },
+    {
+        "name": "115544",
+        "file": "20230423-115544.jpg",
+        "longitude": "78.8",
+        "latitude": "-44.421",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-44.421,79.827,20.10,latLng"
+    },
+    {
+        "name": "115558",
+        "file": "20230423-115558.jpg",
+        "longitude": "79.827",
+        "latitude": "-44.867",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-44.867,80.87,20.10,latLng"
+    },
+    {
+        "name": "115612",
+        "file": "20230423-115612.jpg",
+        "longitude": "80.87",
+        "latitude": "-45.302",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-45.302,81.93,20.10,latLng"
+    },
+    {
+        "name": "115626",
+        "file": "20230423-115626.jpg",
+        "longitude": "81.93",
+        "latitude": "-45.726",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-45.726,83.007,20.10,latLng"
+    },
+    {
+        "name": "115640",
+        "file": "20230423-115640.jpg",
+        "longitude": "83.007",
+        "latitude": "-46.139",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-46.139,84.101,20.10,latLng"
+    },
+    {
+        "name": "115654",
+        "file": "20230423-115654.jpg",
+        "longitude": "84.101",
+        "latitude": "-46.54",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-46.54,85.212,20.10,latLng"
+    },
+    {
+        "name": "115708",
+        "file": "20230423-115708.jpg",
+        "longitude": "85.212",
+        "latitude": "-46.928",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-46.928,86.34,20.10,latLng"
+    },
+    {
+        "name": "115722",
+        "file": "20230423-115722.jpg",
+        "longitude": "86.34",
+        "latitude": "-47.304",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-47.304,87.485,20.10,latLng"
+    },
+    {
+        "name": "115736",
+        "file": "20230423-115736.jpg",
+        "longitude": "87.485",
+        "latitude": "-47.667",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-47.667,88.647,20.10,latLng"
+    },
+    {
+        "name": "115750",
+        "file": "20230423-115750.jpg",
+        "longitude": "88.647",
+        "latitude": "-48.018",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-48.018,89.826,20.10,latLng"
+    },
+    {
+        "name": "115804",
+        "file": "20230423-115804.jpg",
+        "longitude": "89.826",
+        "latitude": "-48.354",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-48.354,91.021,20.10,latLng"
+    },
+    {
+        "name": "115818",
+        "file": "20230423-115818.jpg",
+        "longitude": "91.021",
+        "latitude": "-48.677",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-48.677,92.232,20.10,latLng"
+    },
+    {
+        "name": "115832",
+        "file": "20230423-115832.jpg",
+        "longitude": "92.232",
+        "latitude": "-48.985",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-48.985,93.459,20.10,latLng"
+    },
+    {
+        "name": "115846",
+        "file": "20230423-115846.jpg",
+        "longitude": "93.459",
+        "latitude": "-49.28",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-49.28,94.702,20.10,latLng"
+    },
+    {
+        "name": "115901",
+        "file": "20230423-115901.jpg",
+        "longitude": "94.702",
+        "latitude": "-49.578",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-49.578,96.05,20.10,latLng"
+    },
+    {
+        "name": "115915",
+        "file": "20230423-115915.jpg",
+        "longitude": "96.05",
+        "latitude": "-49.841",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-49.841,97.323,20.10,latLng"
+    },
+    {
+        "name": "115929",
+        "file": "20230423-115929.jpg",
+        "longitude": "97.323",
+        "latitude": "-50.089",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.089,98.611,20.10,latLng"
+    },
+    {
+        "name": "115943",
+        "file": "20230423-115943.jpg",
+        "longitude": "98.611",
+        "latitude": "-50.32",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.32,99.912,20.10,latLng"
+    },
+    {
+        "name": "115957",
+        "file": "20230423-115957.jpg",
+        "longitude": "99.912",
+        "latitude": "-50.536",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.536,101.226,20.10,latLng"
+    },
+    {
+        "name": "120012",
+        "file": "20230423-120012.jpg",
+        "longitude": "101.226",
+        "latitude": "-50.736",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.736,102.552,20.10,latLng"
+    },
+    {
+        "name": "120026",
+        "file": "20230423-120026.jpg",
+        "longitude": "102.552",
+        "latitude": "-50.931",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.931,103.985,20.10,latLng"
+    },
+    {
+        "name": "120040",
+        "file": "20230423-120040.jpg",
+        "longitude": "103.985",
+        "latitude": "-51.096",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-51.096,105.333,20.10,latLng"
+    },
+    {
+        "name": "123640",
+        "file": "20230423-123640.jpg",
+        "longitude": "105.333",
+        "latitude": "31.44",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=31.44,-132.285,20.10,latLng"
+    },
+    {
+        "name": "123654",
+        "file": "20230423-123654.jpg",
+        "longitude": "-132.285",
+        "latitude": "32.061",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=32.061,-131.57,20.10,latLng"
+    },
+    {
+        "name": "123708",
+        "file": "20230423-123708.jpg",
+        "longitude": "-131.57",
+        "latitude": "32.678",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=32.678,-130.845,20.10,latLng"
+    },
+    {
+        "name": "123722",
+        "file": "20230423-123722.jpg",
+        "longitude": "-130.845",
+        "latitude": "33.289",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=33.289,-130.108,20.10,latLng"
+    },
+    {
+        "name": "123736",
+        "file": "20230423-123736.jpg",
+        "longitude": "-130.108",
+        "latitude": "33.895",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=33.895,-129.361,20.10,latLng"
+    },
+    {
+        "name": "123750",
+        "file": "20230423-123750.jpg",
+        "longitude": "-129.361",
+        "latitude": "34.496",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=34.496,-128.602,20.10,latLng"
+    },
+    {
+        "name": "123804",
+        "file": "20230423-123804.jpg",
+        "longitude": "-128.602",
+        "latitude": "35.091",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=35.091,-127.832,20.10,latLng"
+    },
+    {
+        "name": "123818",
+        "file": "20230423-123818.jpg",
+        "longitude": "-127.832",
+        "latitude": "35.681",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=35.681,-127.05,20.10,latLng"
+    },
+    {
+        "name": "123832",
+        "file": "20230423-123832.jpg",
+        "longitude": "-127.05",
+        "latitude": "36.264",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=36.264,-126.255,20.10,latLng"
+    },
+    {
+        "name": "123846",
+        "file": "20230423-123846.jpg",
+        "longitude": "-126.255",
+        "latitude": "36.841",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=36.841,-125.447,20.10,latLng"
+    },
+    {
+        "name": "123900",
+        "file": "20230423-123900.jpg",
+        "longitude": "-125.447",
+        "latitude": "37.412",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=37.412,-124.627,20.10,latLng"
+    },
+    {
+        "name": "123914",
+        "file": "20230423-123914.jpg",
+        "longitude": "-124.627",
+        "latitude": "37.976",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=37.976,-123.793,20.10,latLng"
+    },
+    {
+        "name": "123928",
+        "file": "20230423-123928.jpg",
+        "longitude": "-123.793",
+        "latitude": "38.493",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=38.493,-123.006,20.10,latLng"
+    },
+    {
+        "name": "123941",
+        "file": "20230423-123941.jpg",
+        "longitude": "-123.006",
+        "latitude": "39.044",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=39.044,-122.146,20.10,latLng"
+    },
+    {
+        "name": "123955",
+        "file": "20230423-123955.jpg",
+        "longitude": "-122.146",
+        "latitude": "39.587",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=39.587,-121.271,20.10,latLng"
+    },
+    {
+        "name": "124009",
+        "file": "20230423-124009.jpg",
+        "longitude": "-121.271",
+        "latitude": "40.122",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=40.122,-120.382,20.10,latLng"
+    },
+    {
+        "name": "124023",
+        "file": "20230423-124023.jpg",
+        "longitude": "-120.382",
+        "latitude": "40.65",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=40.65,-119.478,20.10,latLng"
+    },
+    {
+        "name": "124037",
+        "file": "20230423-124037.jpg",
+        "longitude": "-119.478",
+        "latitude": "41.169",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=41.169,-118.558,20.10,latLng"
+    },
+    {
+        "name": "124051",
+        "file": "20230423-124051.jpg",
+        "longitude": "-118.558",
+        "latitude": "41.68",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=41.68,-117.624,20.10,latLng"
+    },
+    {
+        "name": "124105",
+        "file": "20230423-124105.jpg",
+        "longitude": "-117.624",
+        "latitude": "42.182",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=42.182,-116.673,20.10,latLng"
+    },
+    {
+        "name": "124119",
+        "file": "20230423-124119.jpg",
+        "longitude": "-116.673",
+        "latitude": "42.675",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=42.675,-115.707,20.10,latLng"
+    },
+    {
+        "name": "124133",
+        "file": "20230423-124133.jpg",
+        "longitude": "-115.707",
+        "latitude": "43.159",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=43.159,-114.725,20.10,latLng"
+    },
+    {
+        "name": "124147",
+        "file": "20230423-124147.jpg",
+        "longitude": "-114.725",
+        "latitude": "43.633",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=43.633,-113.726,20.10,latLng"
+    },
+    {
+        "name": "124201",
+        "file": "20230423-124201.jpg",
+        "longitude": "-113.726",
+        "latitude": "44.097",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.097,-112.71,20.10,latLng"
+    },
+    {
+        "name": "124215",
+        "file": "20230423-124215.jpg",
+        "longitude": "-112.71",
+        "latitude": "44.551",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.551,-111.678,20.10,latLng"
+    },
+    {
+        "name": "124229",
+        "file": "20230423-124229.jpg",
+        "longitude": "-111.678",
+        "latitude": "44.994",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.994,-110.63,20.10,latLng"
+    },
+    {
+        "name": "124243",
+        "file": "20230423-124243.jpg",
+        "longitude": "-110.63",
+        "latitude": "45.426",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=45.426,-109.564,20.10,latLng"
+    },
+    {
+        "name": "124257",
+        "file": "20230423-124257.jpg",
+        "longitude": "-109.564",
+        "latitude": "45.847",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=45.847,-108.481,20.10,latLng"
+    },
+    {
+        "name": "124312",
+        "file": "20230423-124312.jpg",
+        "longitude": "-108.481",
+        "latitude": "46.286",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=46.286,-107.301,20.10,latLng"
+    },
+    {
+        "name": "124326",
+        "file": "20230423-124326.jpg",
+        "longitude": "-107.301",
+        "latitude": "46.683",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=46.683,-106.183,20.10,latLng"
+    },
+    {
+        "name": "124340",
+        "file": "20230423-124340.jpg",
+        "longitude": "-106.183",
+        "latitude": "47.067",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.067,-105.048,20.10,latLng"
+    },
+    {
+        "name": "124355",
+        "file": "20230423-124355.jpg",
+        "longitude": "-105.048",
+        "latitude": "47.465",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.465,-103.812,20.10,latLng"
+    },
+    {
+        "name": "124409",
+        "file": "20230423-124409.jpg",
+        "longitude": "-103.812",
+        "latitude": "47.465",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.823,-102.642,20.10,latLng"
+    },
+    {
+        "name": "124423",
+        "file": "20230423-124423.jpg",
+        "longitude": "-102.642",
+        "latitude": "48.167",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.167,-101.455,20.10,latLng"
+    },
+    {
+        "name": "124437",
+        "file": "20230423-124437.jpg",
+        "longitude": "-101.455",
+        "latitude": "48.498",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.498,-100.251,20.10,latLng"
+    },
+    {
+        "name": "124451",
+        "file": "20230423-124451.jpg",
+        "longitude": "-100.251",
+        "latitude": "48.815",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.815,-99.031,20.10,latLng"
+    },
+    {
+        "name": "124505",
+        "file": "20230423-124505.jpg",
+        "longitude": "-99.031",
+        "latitude": "49.118",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.118,-97.796,20.10,latLng"
+    },
+    {
+        "name": "124519",
+        "file": "20230423-124519.jpg",
+        "longitude": "-97.796",
+        "latitude": "49.405",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.405,-96.545,20.10,latLng"
+    },
+    {
+        "name": "124532",
+        "file": "20230423-124532.jpg",
+        "longitude": "-96.545",
+        "latitude": "49.659",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.659,-95.37,20.10,latLng"
+    },
+    {
+        "name": "124546",
+        "file": "20230423-124546.jpg",
+        "longitude": "-95.37",
+        "latitude": "49.918",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.918,-94.09,20.10,latLng"
+    },
+    {
+        "name": "124600",
+        "file": "20230423-124600.jpg",
+        "longitude": "-94.09",
+        "latitude": "50.161",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.161,-92.797,20.10,latLng"
+    },
+    {
+        "name": "124614",
+        "file": "20230423-124614.jpg",
+        "longitude": "-92.797",
+        "latitude": "50.388",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.388,-91.49,20.10,latLng"
+    },
+    {
+        "name": "124628",
+        "file": "20230423-124628.jpg",
+        "longitude": "-91.49",
+        "latitude": "50.599",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.599,-90.171,20.10,latLng"
+    },
+    {
+        "name": "124643",
+        "file": "20230423-124643.jpg",
+        "longitude": "-90.171",
+        "latitude": "50.807",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.807,-88.744,20.10,latLng"
+    },
+    {
+        "name": "124657",
+        "file": "20230423-124657.jpg",
+        "longitude": "-88.744",
+        "latitude": "50.972",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.972,-87.497,20.10,latLng"
+    },
+    {
+        "name": "124710",
+        "file": "20230423-124710.jpg",
+        "longitude": "-87.497",
+        "latitude": "51.133",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.133,-86.144,20.10,latLng"
+    },
+    {
+        "name": "124725",
+        "file": "20230423-124725.jpg",
+        "longitude": "-86.144",
+        "latitude": "51.287",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.287,-84.685,20.10,latLng"
+    },
+    {
+        "name": "124739",
+        "file": "20230423-124739.jpg",
+        "longitude": "-84.685",
+        "latitude": "51.412",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.412,-83.314,20.10,latLng"
+    },
+    {
+        "name": "124752",
+        "file": "20230423-124752.jpg",
+        "longitude": "-83.314",
+        "latitude": "51.513",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.513,-82.035,20.10,latLng"
+    },
+    {
+        "name": "124807",
+        "file": "20230423-124807.jpg",
+        "longitude": "-82.035",
+        "latitude": "51.61",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.61,-80.551,20.10,latLng"
+    },
+    {
+        "name": "124821",
+        "file": "20230423-124821.jpg",
+        "longitude": "-80.551",
+        "latitude": "51.683",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.683,-79.162,20.10,latLng"
+    },
+    {
+        "name": "124835",
+        "file": "20230423-124835.jpg",
+        "longitude": "-79.162",
+        "latitude": "51.737",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.737,-77.768,20.10,latLng"
+    },
+    {
+        "name": "124849",
+        "file": "20230423-124849.jpg",
+        "longitude": "-77.768",
+        "latitude": "51.774",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.774,-76.372,20.10,latLng"
+    },
+    {
+        "name": "124903",
+        "file": "20230423-124903.jpg",
+        "longitude": "-76.372",
+        "latitude": "51.793",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.793,-74.973,20.10,latLng"
+    },
+    {
+        "name": "124916",
+        "file": "20230423-124916.jpg",
+        "longitude": "-74.973",
+        "latitude": "51.794",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.794,-73.674,20.10,latLng"
+    },
+    {
+        "name": "124930",
+        "file": "20230423-124930.jpg",
+        "longitude": "-73.674",
+        "latitude": "51.778",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.778,-72.275,20.10,latLng"
+    },
+    {
+        "name": "124944",
+        "file": "20230423-124944.jpg",
+        "longitude": "-72.275",
+        "latitude": "51.744",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.744,-70.878,20.10,latLng"
+    },
+    {
+        "name": "124958",
+        "file": "20230423-124958.jpg",
+        "longitude": "-70.878",
+        "latitude": "51.692",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.692,-69.484,20.10,latLng"
+    },
+    {
+        "name": "125012",
+        "file": "20230423-125012.jpg",
+        "longitude": "-69.484",
+        "latitude": "51.622",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.622,-68.094,20.10,latLng"
+    },
+    {
+        "name": "125026",
+        "file": "20230423-125026.jpg",
+        "longitude": "-68.094",
+        "latitude": "51.534",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.534,-66.708,20.10,latLng"
+    },
+    {
+        "name": "125040",
+        "file": "20230423-125040.jpg",
+        "longitude": "-66.708",
+        "latitude": "51.428",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.428,-65.329,20.10,latLng"
+    },
+    {
+        "name": "125054",
+        "file": "20230423-125054.jpg",
+        "longitude": "-65.329",
+        "latitude": "51.305",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.305,-63.957,20.10,latLng"
+    },
+    {
+        "name": "125108",
+        "file": "20230423-125108.jpg",
+        "longitude": "-63.957",
+        "latitude": "51.165",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.165,-62.593,20.10,latLng"
+    },
+    {
+        "name": "125122",
+        "file": "20230423-125122.jpg",
+        "longitude": "-62.593",
+        "latitude": "51.007",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.007,-61.238,20.10,latLng"
+    },
+    {
+        "name": "125136",
+        "file": "20230423-125136.jpg",
+        "longitude": "-61.238",
+        "latitude": "50.833",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.833,-59.893,20.10,latLng"
+    },
+    {
+        "name": "125150",
+        "file": "20230423-125150.jpg",
+        "longitude": "-59.893",
+        "latitude": "50.642",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.642,-58.559,20.10,latLng"
+    },
+    {
+        "name": "125204",
+        "file": "20230423-125204.jpg",
+        "longitude": "-58.559",
+        "latitude": "50.434",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.434,-57.237,20.10,latLng"
+    },
+    {
+        "name": "125218",
+        "file": "20230423-125218.jpg",
+        "longitude": "-57.237",
+        "latitude": "50.21",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.21,-55.927,20.10,latLng"
+    },
+    {
+        "name": "125232",
+        "file": "20230423-125232.jpg",
+        "longitude": "-55.927",
+        "latitude": "49.97",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.97,-54.63,20.10,latLng"
+    },
+    {
+        "name": "125245",
+        "file": "20230423-125245.jpg",
+        "longitude": "-54.63",
+        "latitude": "49.733",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.733,-53.438,20.10,latLng"
+    },
+    {
+        "name": "125259",
+        "file": "20230423-125259.jpg",
+        "longitude": "-53.438",
+        "latitude": "49.463",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.463,-52.169,20.10,latLng"
+    },
+    {
+        "name": "125313",
+        "file": "20230423-125313.jpg",
+        "longitude": "-52.169",
+        "latitude": "49.179",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.179,-50.914,20.10,latLng"
+    },
+    {
+        "name": "125327",
+        "file": "20230423-125327.jpg",
+        "longitude": "-50.914",
+        "latitude": "48.879",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.879,-49.674,20.10,latLng"
+    },
+    {
+        "name": "125341",
+        "file": "20230423-125341.jpg",
+        "longitude": "-49.674",
+        "latitude": "48.565",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.565,-48.451,20.10,latLng"
+    },
+    {
+        "name": "125355",
+        "file": "20230423-125355.jpg",
+        "longitude": "-48.451",
+        "latitude": "48.237",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.237,-47.243,20.10,latLng"
+    },
+    {
+        "name": "125409",
+        "file": "20230423-125409.jpg",
+        "longitude": "-47.243",
+        "latitude": "47.895",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.895,-46.052,20.10,latLng"
+    },
+    {
+        "name": "125423",
+        "file": "20230423-125423.jpg",
+        "longitude": "-46.052",
+        "latitude": "47.539",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.539,-44.877,20.10,latLng"
+    },
+    {
+        "name": "125437",
+        "file": "20230423-125437.jpg",
+        "longitude": "-44.877",
+        "latitude": "47.171",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.171,-43.72,20.10,latLng"
+    },
+    {
+        "name": "125451",
+        "file": "20230423-125451.jpg",
+        "longitude": "-43.72",
+        "latitude": "46.79",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=46.79,-42.579,20.10,latLng"
+    },
+    {
+        "name": "125505",
+        "file": "20230423-125505.jpg",
+        "longitude": "-42.579",
+        "latitude": "46.396",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=46.396,-41.455,20.10,latLng"
+    },
+    {
+        "name": "125519",
+        "file": "20230423-125519.jpg",
+        "longitude": "-41.455",
+        "latitude": "45.99",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=45.99,-40.348,20.10,latLng"
+    },
+    {
+        "name": "125533",
+        "file": "20230423-125533.jpg",
+        "longitude": "-40.348",
+        "latitude": "45.573",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=45.573,-39.259,20.10,latLng"
+    },
+    {
+        "name": "125548",
+        "file": "20230423-125548.jpg",
+        "longitude": "-39.259",
+        "latitude": "45.144",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=45.144,-38.186,20.10,latLng"
+    },
+    {
+        "name": "125601",
+        "file": "20230423-125601.jpg",
+        "longitude": "-38.186",
+        "latitude": "44.704",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.704,-37.131,20.10,latLng"
+    },
+    {
+        "name": "125616",
+        "file": "20230423-125616.jpg",
+        "longitude": "-37.131",
+        "latitude": "44.221",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.221,-36.018,20.10,latLng"
+    },
+    {
+        "name": "125630",
+        "file": "20230423-125630.jpg",
+        "longitude": "-36.018",
+        "latitude": "43.793",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=43.793,-35.07,20.10,latLng"
+    },
+    {
+        "name": "125643",
+        "file": "20230423-125643.jpg",
+        "longitude": "-35.07",
+        "latitude": "43.321",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=43.321,-34.065,20.10,latLng"
+    },
+    {
+        "name": "125657",
+        "file": "20230423-125657.jpg",
+        "longitude": "-34.065",
+        "latitude": "42.841",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=42.841,-33.076,20.10,latLng"
+    },
+    {
+        "name": "125711",
+        "file": "20230423-125711.jpg",
+        "longitude": "-33.076",
+        "latitude": "42.35",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=42.35,-32.103,20.10,latLng"
+    },
+    {
+        "name": "125725",
+        "file": "20230423-125725.jpg",
+        "longitude": "-32.103",
+        "latitude": "41.851",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=41.851,-31.147,20.10,latLng"
+    },
+    {
+        "name": "125739",
+        "file": "20230423-125739.jpg",
+        "longitude": "-31.147",
+        "latitude": "41.342",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=41.342,-30.206,20.10,latLng"
+    },
+    {
+        "name": "125753",
+        "file": "20230423-125753.jpg",
+        "longitude": "-30.206",
+        "latitude": "40.825",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=40.825,-29.281,20.10,latLng"
+    },
+    {
+        "name": "125807",
+        "file": "20230423-125807.jpg",
+        "longitude": "-29.281",
+        "latitude": "40.3",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=40.3,-28.37,20.10,latLng"
+    },
+    {
+        "name": "125821",
+        "file": "20230423-125821.jpg",
+        "longitude": "-28.37",
+        "latitude": "39.767",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=39.767,-27.475,20.10,latLng"
+    },
+    {
+        "name": "125836",
+        "file": "20230423-125836.jpg",
+        "longitude": "-27.475",
+        "latitude": "39.187",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=39.187,-26.533,20.10,latLng"
+    },
+    {
+        "name": "125850",
+        "file": "20230423-125850.jpg",
+        "longitude": "-26.533",
+        "latitude": "38.677",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=38.677,-25.729,20.10,latLng"
+    },
+    {
+        "name": "125904",
+        "file": "20230423-125904.jpg",
+        "longitude": "-25.729",
+        "latitude": "38.081",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=38.081,-24.816,20.10,latLng"
+    },
+    {
+        "name": "125918",
+        "file": "20230423-125918.jpg",
+        "longitude": "-24.816",
+        "latitude": "37.518",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=37.518,-23.979,20.10,latLng"
+    },
+    {
+        "name": "125932",
+        "file": "20230423-125932.jpg",
+        "longitude": "-23.979",
+        "latitude": "36.948",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=36.948,-23.155,20.10,latLng"
+    },
+    {
+        "name": "125946",
+        "file": "20230423-125946.jpg",
+        "longitude": "-23.155",
+        "latitude": "36.372",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=36.372,-22.344,20.10,latLng"
+    },
+    {
+        "name": "130000",
+        "file": "20230423-130000.jpg",
+        "longitude": "-22.344",
+        "latitude": "35.789",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=35.789,-21.546,20.10,latLng"
+    },
+    {
+        "name": "130014",
+        "file": "20230423-130014.jpg",
+        "longitude": "-21.546",
+        "latitude": "35.2",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=35.2,-20.76,20.10,latLng"
+    },
+    {
+        "name": "130028",
+        "file": "20230423-130028.jpg",
+        "longitude": "-20.76",
+        "latitude": "34.648",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=34.648,-20.042,20.10,latLng"
+    },
+    {
+        "name": "130042",
+        "file": "20230423-130042.jpg",
+        "longitude": "-20.042",
+        "latitude": "34.005",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=34.005,-19.225,20.10,latLng"
+    },
+    {
+        "name": "130056",
+        "file": "20230423-130056.jpg",
+        "longitude": "-19.225",
+        "latitude": "33.399",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=33.399,-18.475,20.10,latLng"
+    },
+    {
+        "name": "130110",
+        "file": "20230423-130110.jpg",
+        "longitude": "-18.475",
+        "latitude": "32.787",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=32.787,-17.736,20.10,latLng"
+    },
+    {
+        "name": "130124",
+        "file": "20230423-130124.jpg",
+        "longitude": "-17.736",
+        "latitude": "32.171",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=32.171,-17.008,20.10,latLng"
+    },
+    {
+        "name": "130138",
+        "file": "20230423-130138.jpg",
+        "longitude": "-17.008",
+        "latitude": "31.55",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=31.55,-16.29,20.10,latLng"
+    },
+    {
+        "name": "130152",
+        "file": "20230423-130152.jpg",
+        "longitude": "-16.29",
+        "latitude": "30.924",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=30.924,-15.582,20.10,latLng"
+    },
+    {
+        "name": "130206",
+        "file": "20230423-130206.jpg",
+        "longitude": "-15.582",
+        "latitude": "30.294",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=30.294,-14.885,20.10,latLng"
+    },
+    {
+        "name": "130220",
+        "file": "20230423-130220.jpg",
+        "longitude": "-14.885",
+        "latitude": "29.659",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=29.659,-14.197,20.10,latLng"
+    },
+    {
+        "name": "130234",
+        "file": "20230423-130234.jpg",
+        "longitude": "-14.197",
+        "latitude": "29.02",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=29.02,-13.518,20.10,latLng"
+    },
+    {
+        "name": "130248",
+        "file": "20230423-130248.jpg",
+        "longitude": "-13.518",
+        "latitude": "28.377",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=28.377,-12.848,20.10,latLng"
+    },
+    {
+        "name": "130302",
+        "file": "20230423-130302.jpg",
+        "longitude": "-12.848",
+        "latitude": "27.73",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=27.73,-12.187,20.10,latLng"
+    },
+    {
+        "name": "130316",
+        "file": "20230423-130316.jpg",
+        "longitude": "-12.187",
+        "latitude": "27.079",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=27.079,-11.535,20.10,latLng"
+    },
+    {
+        "name": "130330",
+        "file": "20230423-130330.jpg",
+        "longitude": "-11.535",
+        "latitude": "26.425",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=26.425,-10.891,20.10,latLng"
+    },
+    {
+        "name": "130344",
+        "file": "20230423-130344.jpg",
+        "longitude": "-10.891",
+        "latitude": "25.767",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=25.767,-10.254,20.10,latLng"
+    },
+    {
+        "name": "130357",
+        "file": "20230423-130357.jpg",
+        "longitude": "-10.254",
+        "latitude": "25.153",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=25.153,-9.67,20.10,latLng"
+    },
+    {
+        "name": "130412",
+        "file": "20230423-130412.jpg",
+        "longitude": "-9.67",
+        "latitude": "24.442",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=24.442,-9.004,20.10,latLng"
+    },
+    {
+        "name": "130426",
+        "file": "20230423-130426.jpg",
+        "longitude": "-9.004",
+        "latitude": "23.774",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=23.774,-8.389,20.10,latLng"
+    },
+    {
+        "name": "130439",
+        "file": "20230423-130439.jpg",
+        "longitude": "-8.389",
+        "latitude": "23.152",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=23.152,-7.825,20.10,latLng"
+    },
+    {
+        "name": "130453",
+        "file": "20230423-130453.jpg",
+        "longitude": "-7.825",
+        "latitude": "22.479",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=22.479,-7.224,20.10,latLng"
+    },
+    {
+        "name": "130507",
+        "file": "20230423-130507.jpg",
+        "longitude": "-7.224",
+        "latitude": "21.803",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=21.803,-6.628,20.10,latLng"
+    },
+    {
+        "name": "130521",
+        "file": "20230423-130521.jpg",
+        "longitude": "-6.628",
+        "latitude": "21.124",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=21.124,-6.039,20.10,latLng"
+    },
+    {
+        "name": "130535",
+        "file": "20230423-130535.jpg",
+        "longitude": "-6.039",
+        "latitude": "20.443",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=20.443,-5.456,20.10,latLng"
+    },
+    {
+        "name": "130549",
+        "file": "20230423-130549.jpg",
+        "longitude": "-5.456",
+        "latitude": "19.76",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=19.76,-4.879,20.10,latLng"
+    },
+    {
+        "name": "130602",
+        "file": "20230423-130602.jpg",
+        "longitude": "-4.879",
+        "latitude": "19.123",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=19.123,-4.347,20.10,latLng"
+    },
+    {
+        "name": "130616",
+        "file": "20230423-130616.jpg",
+        "longitude": "-4.347",
+        "latitude": "18.436",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=18.436,-3.78,20.10,latLng"
+    },
+    {
+        "name": "130630",
+        "file": "20230423-130630.jpg",
+        "longitude": "-3.78",
+        "latitude": "17.746",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=17.746,-3.217,20.10,latLng"
+    },
+    {
+        "name": "130644",
+        "file": "20230423-130644.jpg",
+        "longitude": "-3.217",
+        "latitude": "17.054",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=17.054,-2.659,20.10,latLng"
+    },
+    {
+        "name": "130657",
+        "file": "20230423-130657.jpg",
+        "longitude": "-2.659",
+        "latitude": "16.41",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=16.41,-2.146,20.10,latLng"
+    },
+    {
+        "name": "130711",
+        "file": "20230423-130711.jpg",
+        "longitude": "-2.146",
+        "latitude": "15.715",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=15.715,-1.596,20.10,latLng"
+    },
+    {
+        "name": "130725",
+        "file": "20230423-130725.jpg",
+        "longitude": "-1.051",
+        "latitude": "15.018",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=15.018,-1.051,20.10,latLng"
+    },
+    {
+        "name": "130739",
+        "file": "20230423-130739.jpg",
+        "longitude": "-1.051",
+        "latitude": "15.018",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=15.018,-1.051,20.10,latLng"
+    },
+    {
+        "name": "130753",
+        "file": "20230423-130753.jpg",
+        "longitude": "-0.51",
+        "latitude": "13.619",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=13.619,0.028,20.10,latLng"
+    },
+    {
+        "name": "130807",
+        "file": "20230423-130807.jpg",
+        "longitude": "0.028",
+        "latitude": "12.917",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=12.917,0.562,20.10,latLng"
+    },
+    {
+        "name": "130821",
+        "file": "20230423-130821.jpg",
+        "longitude": "0.562",
+        "latitude": "12.214",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=12.214,1.092,20.10,latLng"
+    },
+    {
+        "name": "130835",
+        "file": "20230423-130835.jpg",
+        "longitude": "1.092",
+        "latitude": "11.509",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=11.509,1.62,20.10,latLng"
+    },
+    {
+        "name": "130849",
+        "file": "20230423-130849.jpg",
+        "longitude": "1.62",
+        "latitude": "10.804",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=10.804,2.145,20.10,latLng"
+    },
+    {
+        "name": "130903",
+        "file": "20230423-130903.jpg",
+        "longitude": "2.145",
+        "latitude": "10.147",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=10.147,2.63,20.10,latLng"
+    },
+    {
+        "name": "130916",
+        "file": "20230423-130916.jpg",
+        "longitude": "2.63",
+        "latitude": "9.44",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=9.44,3.149,20.10,latLng"
+    },
+    {
+        "name": "130930",
+        "file": "20230423-130930.jpg",
+        "longitude": "3.149",
+        "latitude": "8.731",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=8.731,3.667,20.10,latLng"
+    },
+    {
+        "name": "130944",
+        "file": "20230423-130944.jpg",
+        "longitude": "3.667",
+        "latitude": "8.021",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=8.021,4.182,20.10,latLng"
+    },
+    {
+        "name": "130958",
+        "file": "20230423-130958.jpg",
+        "longitude": "4.182",
+        "latitude": "7.311",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=7.311,4.695,20.10,latLng"
+    },
+    {
+        "name": "131012",
+        "file": "20230423-131012.jpg",
+        "longitude": "4.695",
+        "latitude": "6.6",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=6.6,5.206,20.10,latLng"
+    },
+    {
+        "name": "131025",
+        "file": "20230423-131025.jpg",
+        "longitude": "5.206",
+        "latitude": "5.939",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=5.939,5.68,20.10,latLng"
+    },
+    {
+        "name": "131039",
+        "file": "20230423-131039.jpg",
+        "longitude": "5.68",
+        "latitude": "5.227",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=5.227,6.188,20.10,latLng"
+    },
+    {
+        "name": "131053",
+        "file": "20230423-131053.jpg",
+        "longitude": "6.188",
+        "latitude": "4.514",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=4.514,6.695,20.10,latLng"
+    },
+    {
+        "name": "131107",
+        "file": "20230423-131107.jpg",
+        "longitude": "6.695",
+        "latitude": "3.8",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=3.8,7.201,20.10,latLng"
+    },
+    {
+        "name": "131121",
+        "file": "20230423-131121.jpg",
+        "longitude": "7.201",
+        "latitude": "3.087",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=3.087,7.706,20.10,latLng"
+    },
+    {
+        "name": "131135",
+        "file": "20230423-131135.jpg",
+        "longitude": "7.706",
+        "latitude": "2.373",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=2.373,8.211,20.10,latLng"
+    },
+    {
+        "name": "131149",
+        "file": "20230423-131149.jpg",
+        "longitude": "8.211",
+        "latitude": "1.658",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=1.658,8.715,20.10,latLng"
+    },
+    {
+        "name": "131203",
+        "file": "20230423-131203.jpg",
+        "longitude": "8.715",
+        "latitude": "0.944",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=0.944,9.218,20.10,latLng"
+    },
+    {
+        "name": "131217",
+        "file": "20230423-131217.jpg",
+        "longitude": "9.218",
+        "latitude": "0.229",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=0.229,9.721,20.10,latLng"
+    },
+    {
+        "name": "131231",
+        "file": "20230423-131231.jpg",
+        "longitude": "9.721",
+        "latitude": "-0.485",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-0.485,10.224,20.10,latLng"
+    },
+    {
+        "name": "131245",
+        "file": "20230423-131245.jpg",
+        "longitude": "10.224",
+        "latitude": "-1.199",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-1.199,10.727,20.10,latLng"
+    },
+    {
+        "name": "131258",
+        "file": "20230423-131258.jpg",
+        "longitude": "10.727",
+        "latitude": "-1.863",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-1.863,11.195,20.10,latLng"
+    },
+    {
+        "name": "131312",
+        "file": "20230423-131312.jpg",
+        "longitude": "11.195",
+        "latitude": "-2.577",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-2.577,11.699,20.10,latLng"
+    },
+    {
+        "name": "131326",
+        "file": "20230423-131326.jpg",
+        "longitude": "11.699",
+        "latitude": "-3.291",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-3.291,12.203,20.10,latLng"
+    },
+    {
+        "name": "131341",
+        "file": "20230423-131341.jpg",
+        "longitude": "12.203",
+        "latitude": "-4.055",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-4.055,12.744,20.10,latLng"
+    },
+    {
+        "name": "131355",
+        "file": "20230423-131355.jpg",
+        "longitude": "12.744",
+        "latitude": "-4.768",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-4.768,13.251,20.10,latLng"
+    },
+    {
+        "name": "131409",
+        "file": "20230423-131409.jpg",
+        "longitude": "13.251",
+        "latitude": "-5.481",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-5.481,13.758,20.10,latLng"
+    },
+    {
+        "name": "131423",
+        "file": "20230423-131423.jpg",
+        "longitude": "14.267",
+        "latitude": "-6.193",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-6.193,14.267,20.10,latLng"
+    },
+    {
+        "name": "131437",
+        "file": "20230423-131437.jpg",
+        "longitude": "14.267",
+        "latitude": "-6.853",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-6.853,14.741,20.10,latLng"
+    },
+    {
+        "name": "131451",
+        "file": "20230423-131451.jpg",
+        "longitude": "14.741",
+        "latitude": "-7.564",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-7.564,15.253,20.10,latLng"
+    },
+    {
+        "name": "131504",
+        "file": "20230423-131504.jpg",
+        "longitude": "15.253",
+        "latitude": "-8.274",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-8.274,15.766,20.10,latLng"
+    },
+    {
+        "name": "131518",
+        "file": "20230423-131518.jpg",
+        "longitude": "15.766",
+        "latitude": "-8.983",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-8.983,16.282,20.10,latLng"
+    },
+    {
+        "name": "131532",
+        "file": "20230423-131532.jpg",
+        "longitude": "16.282",
+        "latitude": "-9.691",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-9.691,16.8,20.10,latLng"
+    },
+    {
+        "name": "131546",
+        "file": "20230423-131546.jpg",
+        "longitude": "16.8",
+        "latitude": "-10.398",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-10.398,17.32,20.10,latLng"
+    },
+    {
+        "name": "131600",
+        "file": "20230423-131600.jpg",
+        "longitude": "17.32",
+        "latitude": "-11.104",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-11.104,17.843,20.10,latLng"
+    },
+    {
+        "name": "131614",
+        "file": "20230423-131614.jpg",
+        "longitude": "17.843",
+        "latitude": "-11.809",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-11.809,18.369,20.10,latLng"
+    },
+    {
+        "name": "131628",
+        "file": "20230423-131628.jpg",
+        "longitude": "18.369",
+        "latitude": "-12.513",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-12.513,18.898,20.10,latLng"
+    },
+    {
+        "name": "131642",
+        "file": "20230423-131642.jpg",
+        "longitude": "18.898",
+        "latitude": "-13.215",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-13.215,19.43,20.10,latLng"
+    },
+    {
+        "name": "131656",
+        "file": "20230423-131656.jpg",
+        "longitude": "19.43",
+        "latitude": "-13.916",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-13.916,19.965,20.10,latLng"
+    },
+    {
+        "name": "131710",
+        "file": "20230423-131710.jpg",
+        "longitude": "19.965",
+        "latitude": "-14.615",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-14.615,20.504,20.10,latLng"
+    },
+    {
+        "name": "131724",
+        "file": "20230423-131724.jpg",
+        "longitude": "20.504",
+        "latitude": "-15.313",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-15.313,21.046,20.10,latLng"
+    },
+    {
+        "name": "131738",
+        "file": "20230423-131738.jpg",
+        "longitude": "21.046",
+        "latitude": "-16.009",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-16.009,21.593,20.10,latLng"
+    },
+    {
+        "name": "131752",
+        "file": "20230423-131752.jpg",
+        "longitude": "21.593",
+        "latitude": "-16.703",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-16.703,22.143,20.10,latLng"
+    },
+    {
+        "name": "131807",
+        "file": "20230423-131807.jpg",
+        "longitude": "22.143",
+        "latitude": "-17.444",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-17.444,22.738,20.10,latLng"
+    },
+    {
+        "name": "131821",
+        "file": "20230423-131821.jpg",
+        "longitude": "22.738",
+        "latitude": "-18.135",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-18.135,23.298,20.10,latLng"
+    },
+    {
+        "name": "131835",
+        "file": "20230423-131835.jpg",
+        "longitude": "23.298",
+        "latitude": "-18.823",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-18.823,23.863,20.10,latLng"
+    },
+    {
+        "name": "131849",
+        "file": "20230423-131849.jpg",
+        "longitude": "23.863",
+        "latitude": "-19.509",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-19.509,24.433,20.10,latLng"
+    },
+    {
+        "name": "131903",
+        "file": "20230423-131903.jpg",
+        "longitude": "24.433",
+        "latitude": "-20.193",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-20.193,25.008,20.10,latLng"
+    },
+    {
+        "name": "131917",
+        "file": "20230423-131917.jpg",
+        "longitude": "25.008",
+        "latitude": "-20.874",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-20.874,25.588,20.10,latLng"
+    },
+    {
+        "name": "131930",
+        "file": "20230423-131930.jpg",
+        "longitude": "25.588",
+        "latitude": "-21.504",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-21.504,26.133,20.10,latLng"
+    },
+    {
+        "name": "131944",
+        "file": "20230423-131944.jpg",
+        "longitude": "26.133",
+        "latitude": "-22.181",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-22.181,26.725,20.10,latLng"
+    },
+    {
+        "name": "131958",
+        "file": "20230423-131958.jpg",
+        "longitude": "26.725",
+        "latitude": "-22.855",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-22.855,27.323,20.10,latLng"
+    },
+    {
+        "name": "132012",
+        "file": "20230423-132012.jpg",
+        "longitude": "27.323",
+        "latitude": "-23.525",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-23.525,27.927,20.10,latLng"
+    },
+    {
+        "name": "132027",
+        "file": "20230423-132027.jpg",
+        "longitude": "27.927",
+        "latitude": "-24.194",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-24.194,28.539,20.10,latLng"
+    },
+    {
+        "name": "132040",
+        "file": "20230423-132040.jpg",
+        "longitude": "28.539",
+        "latitude": "-24.858",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-24.858,29.157,20.10,latLng"
+    },
+    {
+        "name": "132054",
+        "file": "20230423-132054.jpg",
+        "longitude": "29.782",
+        "latitude": "-25.52",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-25.52,29.782,20.10,latLng"
+    },
+    {
+        "name": "132108",
+        "file": "20230423-132108.jpg",
+        "longitude": "29.782",
+        "latitude": "-26.179",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-26.179,30.415,20.10,latLng"
+    },
+    {
+        "name": "132122",
+        "file": "20230423-132122.jpg",
+        "longitude": "30.415",
+        "latitude": "-26.834",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-26.834,31.056,20.10,latLng"
+    },
+    {
+        "name": "132136",
+        "file": "20230423-132136.jpg",
+        "longitude": "31.056",
+        "latitude": "-27.485",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-27.485,31.705,20.10,latLng"
+    },
+    {
+        "name": "132150",
+        "file": "20230423-132150.jpg",
+        "longitude": "31.705",
+        "latitude": "-28.133",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-28.133,32.362,20.10,latLng"
+    },
+    {
+        "name": "132205",
+        "file": "20230423-132205.jpg",
+        "longitude": "32.362",
+        "latitude": "-28.823",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-28.823,33.075,20.10,latLng"
+    },
+    {
+        "name": "132219",
+        "file": "20230423-132219.jpg",
+        "longitude": "33.075",
+        "latitude": "-29.462",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-29.462,33.75,20.10,latLng"
+    },
+    {
+        "name": "132233",
+        "file": "20230423-132233.jpg",
+        "longitude": "33.75",
+        "latitude": "-30.098",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-30.098,34.435,20.10,latLng"
+    },
+    {
+        "name": "132247",
+        "file": "20230423-132247.jpg",
+        "longitude": "34.435",
+        "latitude": "-30.729",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-30.729,35.128,20.10,latLng"
+    },
+    {
+        "name": "132301",
+        "file": "20230423-132301.jpg",
+        "longitude": "35.128",
+        "latitude": "-31.355",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-31.355,35.832,20.10,latLng"
+    },
+    {
+        "name": "132316",
+        "file": "20230423-132316.jpg",
+        "longitude": "35.832",
+        "latitude": "-32.022",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-32.022,36.597,20.10,latLng"
+    },
+    {
+        "name": "132330",
+        "file": "20230423-132330.jpg",
+        "longitude": "36.597",
+        "latitude": "-32.638",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-32.638,37.322,20.10,latLng"
+    },
+    {
+        "name": "132344",
+        "file": "20230423-132344.jpg",
+        "longitude": "37.322",
+        "latitude": "-33.25",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-33.25,38.057,20.10,latLng"
+    },
+    {
+        "name": "132358",
+        "file": "20230423-132358.jpg",
+        "longitude": "38.057",
+        "latitude": "-33.856",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-33.856,38.804,20.10,latLng"
+    },
+    {
+        "name": "132412",
+        "file": "20230423-132412.jpg",
+        "longitude": "38.804",
+        "latitude": "-34.458",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-34.458,39.562,20.10,latLng"
+    },
+    {
+        "name": "132426",
+        "file": "20230423-132426.jpg",
+        "longitude": "39.562",
+        "latitude": "-35.053",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-35.053,40.331,20.10,latLng"
+    },
+    {
+        "name": "132440",
+        "file": "20230423-132440.jpg",
+        "longitude": "40.331",
+        "latitude": "-35.643",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-35.643,41.113,20.10,latLng"
+    },
+    {
+        "name": "132454",
+        "file": "20230423-132454.jpg",
+        "longitude": "41.113",
+        "latitude": "-36.226",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-36.226,41.907,20.10,latLng"
+    },
+    {
+        "name": "132509",
+        "file": "20230423-132509.jpg",
+        "longitude": "41.907",
+        "latitude": "-36.845",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-36.845,42.771,20.10,latLng"
+    },
+    {
+        "name": "132523",
+        "file": "20230423-132523.jpg",
+        "longitude": "42.771",
+        "latitude": "-37.375",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-37.375,43.533,20.10,latLng"
+    },
+    {
+        "name": "132536",
+        "file": "20230423-132536.jpg",
+        "longitude": "43.533",
+        "latitude": "-37.939",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-37.939,44.365,20.10,latLng"
+    },
+    {
+        "name": "132550",
+        "file": "20230423-132550.jpg",
+        "longitude": "44.365",
+        "latitude": "-38.496",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-38.496,45.212,20.10,latLng"
+    },
+    {
+        "name": "132604",
+        "file": "20230423-132604.jpg",
+        "longitude": "45.212",
+        "latitude": "-39.047",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-39.047,46.072,20.10,latLng"
+    },
+    {
+        "name": "132618",
+        "file": "20230423-132618.jpg",
+        "longitude": "46.072",
+        "latitude": "-39.59",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-39.59,46.947,20.10,latLng"
+    },
+    {
+        "name": "132632",
+        "file": "20230423-132632.jpg",
+        "longitude": "46.947",
+        "latitude": "-40.125",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-40.125,47.836,20.10,latLng"
+    },
+    {
+        "name": "132646",
+        "file": "20230423-132646.jpg",
+        "longitude": "47.836",
+        "latitude": "-40.652",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-40.652,48.739,20.10,latLng"
+    },
+    {
+        "name": "132700",
+        "file": "20230423-132700.jpg",
+        "longitude": "48.739",
+        "latitude": "-41.171",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-41.171,49.658,20.10,latLng"
+    },
+    {
+        "name": "132714",
+        "file": "20230423-132714.jpg",
+        "longitude": "49.658",
+        "latitude": "-41.681",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-41.681,50.592,20.10,latLng"
+    },
+    {
+        "name": "132728",
+        "file": "20230423-132728.jpg",
+        "longitude": "50.592",
+        "latitude": "-42.183",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-42.183,51.542,20.10,latLng"
+    },
+    {
+        "name": "132742",
+        "file": "20230423-132742.jpg",
+        "longitude": "51.542",
+        "latitude": "-42.676",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-42.676,52.508,20.10,latLng"
+    },
+    {
+        "name": "132756",
+        "file": "20230423-132756.jpg",
+        "longitude": "52.508",
+        "latitude": "-43.159",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-43.159,53.49,20.10,latLng"
+    },
+    {
+        "name": "132810",
+        "file": "20230423-132810.jpg",
+        "longitude": "53.49",
+        "latitude": "-43.633",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-43.633,54.488,20.10,latLng"
+    },
+    {
+        "name": "132824",
+        "file": "20230423-132824.jpg",
+        "longitude": "54.488",
+        "latitude": "-44.097",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-44.097,55.502,20.10,latLng"
+    },
+    {
+        "name": "132838",
+        "file": "20230423-132838.jpg",
+        "longitude": "55.502",
+        "latitude": "-44.55",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-44.55,56.534,20.10,latLng"
+    },
+    {
+        "name": "132852",
+        "file": "20230423-132852.jpg",
+        "longitude": "56.534",
+        "latitude": "-44.993",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-44.993,57.582,20.10,latLng"
+    },
+    {
+        "name": "132906",
+        "file": "20230423-132906.jpg",
+        "longitude": "57.582",
+        "latitude": "-45.425",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-45.425,58.647,20.10,latLng"
+    },
+    {
+        "name": "132920",
+        "file": "20230423-132920.jpg",
+        "longitude": "58.647",
+        "latitude": "-45.846",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-45.846,59.729,20.10,latLng"
+    },
+    {
+        "name": "132934",
+        "file": "20230423-132934.jpg",
+        "longitude": "59.729",
+        "latitude": "-46.255",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-46.255,60.828,20.10,latLng"
+    },
+    {
+        "name": "132948",
+        "file": "20230423-132948.jpg",
+        "longitude": "60.828",
+        "latitude": "-46.625",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-46.625,61.863,20.10,latLng"
+    },
+    {
+        "name": "133001",
+        "file": "20230423-133001.jpg",
+        "longitude": "61.863",
+        "latitude": "-47.011",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-47.011,62.995,20.10,latLng"
+    },
+    {
+        "name": "133015",
+        "file": "20230423-133015.jpg",
+        "longitude": "62.995",
+        "latitude": "-47.384",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-47.384,64.144,20.10,latLng"
+    },
+    {
+        "name": "133029",
+        "file": "20230423-133029.jpg",
+        "longitude": "64.144",
+        "latitude": "-47.744",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-47.744,65.309,20.10,latLng"
+    },
+    {
+        "name": "133043",
+        "file": "20230423-133043.jpg",
+        "longitude": "65.309",
+        "latitude": "-48.092",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-48.092,66.491,20.10,latLng"
+    },
+    {
+        "name": "133057",
+        "file": "20230423-133057.jpg",
+        "longitude": "66.491",
+        "latitude": "-48.425",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-48.425,67.69,20.10,latLng"
+    },
+    {
+        "name": "133111",
+        "file": "20230423-133111.jpg",
+        "longitude": "67.69",
+        "latitude": "-48.425",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-48.425,68.905,20.10,latLng"
+    },
+    {
+        "name": "133125",
+        "file": "20230423-133125.jpg",
+        "longitude": "68.905",
+        "latitude": "-49.05",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-49.05,70.135,20.10,latLng"
+    },
+    {
+        "name": "133139",
+        "file": "20230423-133139.jpg",
+        "longitude": "70.135",
+        "latitude": "-49.341",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-49.341,71.381,20.10,latLng"
+    },
+    {
+        "name": "133153",
+        "file": "20230423-133153.jpg",
+        "longitude": "71.381",
+        "latitude": "-49.617",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-49.617,72.642,20.10,latLng"
+    },
+    {
+        "name": "133207",
+        "file": "20230423-133207.jpg",
+        "longitude": "72.642",
+        "latitude": "-49.878",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-49.878,73.918,20.10,latLng"
+    },
+    {
+        "name": "133221",
+        "file": "20230423-133221.jpg",
+        "longitude": "73.918",
+        "latitude": "-50.123",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.123,75.207,20.10,latLng"
+    },
+    {
+        "name": "133235",
+        "file": "20230423-133235.jpg",
+        "longitude": "75.207",
+        "latitude": "-50.353",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.353,76.51,20.10,latLng"
+    },
+    {
+        "name": "133249",
+        "file": "20230423-133249.jpg",
+        "longitude": "76.51",
+        "latitude": "-50.566",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.566,77.826,20.10,latLng"
+    },
+    {
+        "name": "133303",
+        "file": "20230423-133303.jpg",
+        "longitude": "77.826",
+        "latitude": "-50.75",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.75,79.058,20.10,latLng"
+    },
+    {
+        "name": "133316",
+        "file": "20230423-133316.jpg",
+        "longitude": "79.058",
+        "latitude": "-50.931",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-50.931,80.396,20.10,latLng"
+    },
+    {
+        "name": "133330",
+        "file": "20230423-133330.jpg",
+        "longitude": "80.396",
+        "latitude": "-51.096",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=-51.096,81.744,20.10,latLng"
+    },
+    {
+        "name": "140930",
+        "file": "20230423-140930.jpg",
+        "longitude": "81.744",
+        "latitude": "31.47",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=31.47,-155.836,20.10,latLng"
+    },
+    {
+        "name": "140945",
+        "file": "20230423-140945.jpg",
+        "longitude": "-155.836",
+        "latitude": "32.135",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=32.135,-155.069,20.10,latLng"
+    },
+    {
+        "name": "140959",
+        "file": "20230423-140959.jpg",
+        "longitude": "-155.069",
+        "latitude": "32.751",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=32.751,-154.343,20.10,latLng"
+    },
+    {
+        "name": "141013",
+        "file": "20230423-141013.jpg",
+        "longitude": "-154.343",
+        "latitude": "33.362",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=33.362,-153.605,20.10,latLng"
+    },
+    {
+        "name": "141027",
+        "file": "20230423-141027.jpg",
+        "longitude": "-153.605",
+        "latitude": "33.924",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=33.924,-152.911,20.10,latLng"
+    },
+    {
+        "name": "141040",
+        "file": "20230423-141040.jpg",
+        "longitude": "-152.911",
+        "latitude": "34.525",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=34.525,-152.151,20.10,latLng"
+    },
+    {
+        "name": "141054",
+        "file": "20230423-141054.jpg",
+        "longitude": "-152.151",
+        "latitude": "35.12",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=35.12,-151.38,20.10,latLng"
+    },
+    {
+        "name": "141108",
+        "file": "20230423-141108.jpg",
+        "longitude": "-151.38",
+        "latitude": "35.709",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=35.709,-150.597,20.10,latLng"
+    },
+    {
+        "name": "141122",
+        "file": "20230423-141122.jpg",
+        "longitude": "-150.597",
+        "latitude": "36.292",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=36.292,-149.802,20.10,latLng"
+    },
+    {
+        "name": "141136",
+        "file": "20230423-141136.jpg",
+        "longitude": "-149.802",
+        "latitude": "36.869",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=36.869,-148.994,20.10,latLng"
+    },
+    {
+        "name": "141150",
+        "file": "20230423-141150.jpg",
+        "longitude": "-148.994",
+        "latitude": "37.439",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=37.439,-148.173,20.10,latLng"
+    },
+    {
+        "name": "141204",
+        "file": "20230423-141204.jpg",
+        "longitude": "-148.173",
+        "latitude": "38.003",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=38.003,-147.338,20.10,latLng"
+    },
+    {
+        "name": "141218",
+        "file": "20230423-141218.jpg",
+        "longitude": "-147.338",
+        "latitude": "38.56",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=38.56,-146.49,20.10,latLng"
+    },
+    {
+        "name": "141232",
+        "file": "20230423-141232.jpg",
+        "longitude": "-146.49",
+        "latitude": "39.109",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=39.109,-145.628,20.10,latLng"
+    },
+    {
+        "name": "141247",
+        "file": "20230423-141247.jpg",
+        "longitude": "-145.628",
+        "latitude": "39.69",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=39.69,-144.688,20.10,latLng"
+    },
+    {
+        "name": "141301",
+        "file": "20230423-141301.jpg",
+        "longitude": "-144.688",
+        "latitude": "40.224",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=40.224,-143.796,20.10,latLng"
+    },
+    {
+        "name": "141315",
+        "file": "20230423-141315.jpg",
+        "longitude": "-143.796",
+        "latitude": "40.75",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=40.75,-142.889,20.10,latLng"
+    },
+    {
+        "name": "141329",
+        "file": "20230423-141329.jpg",
+        "longitude": "-142.889",
+        "latitude": "41.268",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=41.268,-141.967,20.10,latLng"
+    },
+    {
+        "name": "141343",
+        "file": "20230423-141343.jpg",
+        "longitude": "-141.967",
+        "latitude": "41.741",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=41.741,-141.097,20.10,latLng"
+    },
+    {
+        "name": "141356",
+        "file": "20230423-141356.jpg",
+        "longitude": "-141.097",
+        "latitude": "42.242",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=42.242,-140.144,20.10,latLng"
+    },
+    {
+        "name": "141411",
+        "file": "20230423-141411.jpg",
+        "longitude": "-140.144",
+        "latitude": "42.769",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=42.769,-139.106,20.10,latLng"
+    },
+    {
+        "name": "141425",
+        "file": "20230423-141425.jpg",
+        "longitude": "-139.106",
+        "latitude": "43.25",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=43.25,-138.121,20.10,latLng"
+    },
+    {
+        "name": "141439",
+        "file": "20230423-141439.jpg",
+        "longitude": "-138.121",
+        "latitude": "43.689",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=43.689,-137.191,20.10,latLng"
+    },
+    {
+        "name": "141452",
+        "file": "20230423-141452.jpg",
+        "longitude": "-137.191",
+        "latitude": "44.152",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.152,-136.174,20.10,latLng"
+    },
+    {
+        "name": "141506",
+        "file": "20230423-141506.jpg",
+        "longitude": "-136.174",
+        "latitude": "44.605",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=44.605,-135.14,20.10,latLng"
+    },
+    {
+        "name": "141520",
+        "file": "20230423-141520.jpg",
+        "longitude": "-135.14",
+        "latitude": "45.047",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=45.047,-134.089,20.10,latLng"
+    },
+    {
+        "name": "141535",
+        "file": "20230423-141535.jpg",
+        "longitude": "-134.089",
+        "latitude": "45.508",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=45.508,-132.944,20.10,latLng"
+    },
+    {
+        "name": "141549",
+        "file": "20230423-141549.jpg",
+        "longitude": "-132.944",
+        "latitude": "45.927",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=45.927,-131.858,20.10,latLng"
+    },
+    {
+        "name": "141603",
+        "file": "20230423-141603.jpg",
+        "longitude": "-131.858",
+        "latitude": "46.334",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=46.334,-130.754,20.10,latLng"
+    },
+    {
+        "name": "141617",
+        "file": "20230423-141617.jpg",
+        "longitude": "-130.754",
+        "latitude": "46.73",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=46.73,-129.634,20.10,latLng"
+    },
+    {
+        "name": "141631",
+        "file": "20230423-141631.jpg",
+        "longitude": "-129.634",
+        "latitude": "47.113",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.113,-128.497,20.10,latLng"
+    },
+    {
+        "name": "141645",
+        "file": "20230423-141645.jpg",
+        "longitude": "-128.497",
+        "latitude": "47.483",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.483,-127.342,20.10,latLng"
+    },
+    {
+        "name": "141659",
+        "file": "20230423-141659.jpg",
+        "longitude": "-127.342",
+        "latitude": "47.84",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=47.84,-126.171,20.10,latLng"
+    },
+    {
+        "name": "141713",
+        "file": "20230423-141713.jpg",
+        "longitude": "-126.171",
+        "latitude": "48.184",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.184,-124.983,20.10,latLng"
+    },
+    {
+        "name": "141726",
+        "file": "20230423-141726.jpg",
+        "longitude": "-124.983",
+        "latitude": "48.491",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.491,-123.865,20.10,latLng"
+    },
+    {
+        "name": "141740",
+        "file": "20230423-141740.jpg",
+        "longitude": "-123.865",
+        "latitude": "48.809",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=48.809,-122.646,20.10,latLng"
+    },
+    {
+        "name": "141754",
+        "file": "20230423-141754.jpg",
+        "longitude": "-122.646",
+        "latitude": "49.112",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.112,-121.411,20.10,latLng"
+    },
+    {
+        "name": "141809",
+        "file": "20230423-141809.jpg",
+        "longitude": "-121.411",
+        "latitude": "49.42",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.42,-120.07,20.10,latLng"
+    },
+    {
+        "name": "141823",
+        "file": "20230423-141823.jpg",
+        "longitude": "-120.07",
+        "latitude": "49.673",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.673,-118.894,20.10,latLng"
+    },
+    {
+        "name": "141836",
+        "file": "20230423-141836.jpg",
+        "longitude": "-118.894",
+        "latitude": "49.931",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=49.931,-117.614,20.10,latLng"
+    },
+    {
+        "name": "141850",
+        "file": "20230423-141850.jpg",
+        "longitude": "-117.614",
+        "latitude": "50.173",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.173,-116.32,20.10,latLng"
+    },
+    {
+        "name": "141905",
+        "file": "20230423-141905.jpg",
+        "longitude": "-116.32",
+        "latitude": "50.4",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.4,-115.013,20.10,latLng"
+    },
+    {
+        "name": "141918",
+        "file": "20230423-141918.jpg",
+        "longitude": "-115.013",
+        "latitude": "50.61",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.61,-113.693,20.10,latLng"
+    },
+    {
+        "name": "141932",
+        "file": "20230423-141932.jpg",
+        "longitude": "-113.693",
+        "latitude": "50.804",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.804,-112.361,20.10,latLng"
+    },
+    {
+        "name": "141946",
+        "file": "20230423-141946.jpg",
+        "longitude": "-112.361",
+        "latitude": "50.981",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=50.981,-111.018,20.10,latLng"
+    },
+    {
+        "name": "142000",
+        "file": "20230423-142000.jpg",
+        "longitude": "-111.018",
+        "latitude": "51.141",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.141,-109.665,20.10,latLng"
+    },
+    {
+        "name": "142014",
+        "file": "20230423-142014.jpg",
+        "longitude": "-109.665",
+        "latitude": "51.285",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.285,-108.303,20.10,latLng"
+    },
+    {
+        "name": "142028",
+        "file": "20230423-142028.jpg",
+        "longitude": "-108.303",
+        "latitude": "51.41",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.41,-106.932,20.10,latLng"
+    },
+    {
+        "name": "142042",
+        "file": "20230423-142042.jpg",
+        "longitude": "-106.932",
+        "latitude": "51.519",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.519,-105.554,20.10,latLng"
+    },
+    {
+        "name": "142056",
+        "file": "20230423-142056.jpg",
+        "longitude": "-105.554",
+        "latitude": "51.609",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.609,-104.17,20.10,latLng"
+    },
+    {
+        "name": "142110",
+        "file": "20230423-142110.jpg",
+        "longitude": "-104.17",
+        "latitude": "51.682",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.682,-102.78,20.10,latLng"
+    },
+    {
+        "name": "142124",
+        "file": "20230423-142124.jpg",
+        "longitude": "-102.78",
+        "latitude": "51.737",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.737,-101.387,20.10,latLng"
+    },
+    {
+        "name": "142138",
+        "file": "20230423-142138.jpg",
+        "longitude": "-101.387",
+        "latitude": "51.775",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.775,-99.99,20.10,latLng"
+    },
+    {
+        "name": "142152",
+        "file": "20230423-142152.jpg",
+        "longitude": "-99.99",
+        "latitude": "51.794",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.794,-98.592,20.10,latLng"
+    },
+    {
+        "name": "142206",
+        "file": "20230423-142206.jpg",
+        "longitude": "-98.592",
+        "latitude": "51.795",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.795,-97.193,20.10,latLng"
+    },
+    {
+        "name": "142220",
+        "file": "20230423-142220.jpg",
+        "longitude": "-97.193",
+        "latitude": "51.778",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.778,-95.794,20.10,latLng"
+    },
+    {
+        "name": "142234",
+        "file": "20230423-142234.jpg",
+        "longitude": "-95.794",
+        "latitude": "51.743",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.743,-94.397,20.10,latLng"
+    },
+    {
+        "name": "142248",
+        "file": "20230423-142248.jpg",
+        "longitude": "-94.397",
+        "latitude": "51.69",
+        "url": "https://earthengine.google.com/timelapse/?authuser=1#v=51.69,-93.003,20.10,latLng"
+    }
+]
