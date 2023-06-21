@@ -2,9 +2,12 @@
 # https://projects.raspberrypi.org/en/projects/astropi-ndvi/
 
 import os
+import csv
 import cv2
 import numpy as np
+import rasterio as rio
 from fastiecm import fastiecm
+from wand.image import Image
 
 
 class NDVI:
@@ -120,7 +123,7 @@ class NDVI:
         b, g, r = cv2.split(self.data)
         bottom = r.astype(float) + b.astype(float)
         bottom[bottom == 0] = 0.01
-        ndvi = (b.astype(float) - r) / bottom
+        ndvi = (b.astype(float) - r.astype(float)) / bottom
         return ndvi
 
     def save_contrasted(self, directory, filename, extension):
@@ -197,3 +200,19 @@ class NDVI:
             os.path.join(directory, f"{filename}_colored.{extension}"),
             self.colored,
         )
+
+
+def two_image_ndvi_from_tiff(red_channel_path, blue_channel_path):
+    _, _, red = cv2.split(cv2.imread(red_channel_path, cv2.IMREAD_COLOR))
+    nir, _, _ = cv2.split(cv2.imread(blue_channel_path, cv2.IMREAD_COLOR))
+
+    red[red == 0] = 1
+    nir[nir == 0] = 1
+
+    bottom = red.astype(float) + nir.astype(float)
+    bottom[bottom == 0] == 0.01
+    ndvi = (nir.astype(float) - red.astype(float)) / bottom.astype(float)
+
+    return ndvi
+
+
