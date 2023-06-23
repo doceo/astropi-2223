@@ -34,7 +34,7 @@ class Scraper:
                 ).strftime("%Y-%m-%d %H:%M:%S+0000"),
                 "file": i.replace("\\", "/"),
             }
-            for i in glob(f"{getcwd()}/images/*")
+            for i in glob(f"{path.split(getcwd())}/images/*")
         ]
 
         # Running the browser in headless mode (without GUI)
