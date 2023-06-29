@@ -1,19 +1,22 @@
-# Astropi 
+# Astropi
+
 2022/2023
 
 **MENTOR**: Prof. Diomede Mazzone
 
 **GROUP** : AstroNat
 
-**MEMBERS** :  Biasi Luca, Bocchetti Francesco, Ferrante Gabriele, Mariano Raffaele, Patruno Luca 
+**MEMBERS** : Biasi Luca, Bocchetti Francesco, Ferrante Gabriele, Mariano Raffaele, Patruno Luca
 
-**SCHOOL** :  Liceo Ginnasio "G. B. Vico", Naples - Italy
-***
+**SCHOOL** : Liceo Ginnasio "G. B. Vico", Naples - Italy
+
 ## Comparison of images
+
 Once the photos from space were obtained, the most significant ones were selected, those with fewer clouds and that depicted areas of the planet subject to major changes in recent years, the comparison with the past was made using Google Earth Engine, which offers images of planet earth from 1999 to the present.
 Photos were selected when available, in order to have a good ratio between the number of photos and the number of changes
 
 ## Criticalities
+
 An unknown error during the experiment in space (which never occurred during the test phase carried out on Earth) deleted the coordinates where each photo was taken from the CSV file, which were fundamental for the processing of the images. To make up for this error, a reverse engineering approach was chosen and applied using a python script.
 The "[isstracker](http://www.isstracker.com/historical)" website has been automated, which allows one to find the geographical coordinates of the ISS at a given time, thanks to the "Selenium" library. The script then extrapolated the date and time of the shooting of each photo from the EXIF metadata and inserted them into the website, thus obtaining the coordinates of the ISS at the time of capture.
 The program outputs a json file with:
@@ -26,13 +29,12 @@ The program outputs a json file with:
 
 | | |
 
-
 The photographed area is located on the border between South Africa, Botswana and Zimbabwe, we found it particularly interesting because a single photo shows the following nature reserves:
-* Lesheba Wilderness Reserve
-* Blouberg Nature Reserve
-One of the main causes of deforestation in South Africa is the expansion of agricultural land, especially for crops such as sugar cane, corn and palm oil. 
-This agricultural expansion can lead to the conversion of forests into agricultural land, resulting in the loss of wildlife habitat and a decrease in forest cover.
 
+- Lesheba Wilderness Reserve
+- Blouberg Nature Reserve
+  One of the main causes of deforestation in South Africa is the expansion of agricultural land, especially for crops such as sugar cane, corn and palm oil.
+  This agricultural expansion can lead to the conversion of forests into agricultural land, resulting in the loss of wildlife habitat and a decrease in forest cover.
 
 ## NDVI Calculation
 
@@ -40,33 +42,35 @@ When we received the data, on Earth we applied the NDVI to the pictures taken an
 In order to obtain a coherent NDVI value, we chose the most interesting photo and divided it in two zones, both characterised by a large amount of vegetation, the Blouberg Nature Reserve and the Lesheba Wilderness Reserve.
 
 To obtain the NDVI data we use two different techniques:
-* For the images taken from Google Earth Engine, red and infrared colour bands were taken and used to calculate the NDVI value per pixel, by dividing the difference with the sum of the bands.
-* For the images taken from the ISS, we used the Python script given by the Astro Pi team, which divides the difference and the sum of the red and blue values of the photos.
+
+- For the images taken from Google Earth Engine, red and infrared colour bands were taken and used to calculate the NDVI value per pixel, by dividing the difference with the sum of the bands.
+- For the images taken from the ISS, we used the Python script given by the Astro Pi team, which divides the difference and the sum of the red and blue values of the photos.
 
 The NDVI values of the pixels were then averaged and used to create a temporal series to understand the trend and then it was expanded through a predictive model. The predictive model used was SARIMAX, a model specific for time series forecasting.
 
 ## NDVI value interpretation
 
-| NDVI value | Interpretation |
-| ------ | --------------------|
-| <0.1| Bare ground or clouds|
-| 0.1-0.2 | Almost absent plant cover|
-| 0.2-0.3 |Very low plant cover |
-| 0.3-0.4 | Low plant cover with low vigour or very low plant cover with high vigour|
-| 0.4-0.5 | Medium-low plant cover with low vigour or very low plant cover with high vigour|
-| 0.5-0.6 |Medium plant cover with low vigour or medium-low plant cover with high vigour |
-| 0.6-0.7 | Medium plant cover with low vigour or medium-low plant cover with high vigour|
-| 0.7-0.8 |High vegetable cover with high vigour |
-| 0.8-0.9 | Very high plant cover with very high vigour|
-| 0.9-1.0 | Total plant cover with very high vigour|
-
-
+| NDVI value | Interpretation                                                                  |
+| ---------- | ------------------------------------------------------------------------------- |
+| <0.1       | Bare ground or clouds                                                           |
+| 0.1-0.2    | Almost absent plant cover                                                       |
+| 0.2-0.3    | Very low plant cover                                                            |
+| 0.3-0.4    | Low plant cover with low vigour or very low plant cover with high vigour        |
+| 0.4-0.5    | Medium-low plant cover with low vigour or very low plant cover with high vigour |
+| 0.5-0.6    | Medium plant cover with low vigour or medium-low plant cover with high vigour   |
+| 0.6-0.7    | Medium plant cover with low vigour or medium-low plant cover with high vigour   |
+| 0.7-0.8    | High vegetable cover with high vigour                                           |
+| 0.8-0.9    | Very high plant cover with very high vigour                                     |
+| 0.9-1.0    | Total plant cover with very high vigour                                         |
 
 ## Comparison with the past
+
 The average NDVI value of the individual photos was used as a comparator.
+
 ### Blouberg Nature Reserve
-| Year | Average NDVI |
-| ------ | --------------------|
+
+| Year | Average NDVI      |
+| ---- | ----------------- |
 | 1999 | 0.180974654100000 |
 | 2000 | 0.297206569843044 |
 | 2001 | 0.252122867858757 |
@@ -99,18 +103,15 @@ The average NDVI value of the individual photos was used as a comparator.
 | 2032 | 0.209741635970805 |
 | 2033 | 0.206492677109697 |
 
-
-
+![BloubergGraph](./predictions/blouberg-graph.svg)
 
 Average NDVI value from 1999 to 2023 of Blouberg Nature Reserve
 Vegetation in this area went through drastic changes throughout the years.
 
-
-
-
 ### Lesheba Wilderness Reserve
-| Year | Average NDVI |
-| ------ | --------------------|
+
+| Year | Average NDVI      |
+| ---- | ----------------- |
 | 1999 | 0.204469556415898 |
 | 2000 | 0.224939244000000 |
 | 2001 | 0.216773297900000 |
@@ -143,7 +144,7 @@ Vegetation in this area went through drastic changes throughout the years.
 | 2032 | 0.209741635970805 |
 | 2033 | 0.206492677109697 |
 
-
+![LeshibaGraph](./predictions/leshiba-graph.svg)
 
 Average NDVI value from 1999 to 2023 of Leshiba Wilderness Reserve
 Vegetation trend in this area is more consistent throughout the years.
@@ -151,16 +152,17 @@ Vegetation trend in this area is more consistent throughout the years.
 In both graphs, the fact that the NDVI values range from 0.18 and 0.43 indicates that the vegetation coverage is low with high vigour.
 Furthermore, we could not find in which seasons the Google Earth Engine photos were captured, such information would have been crucial for a better understanding of the data.
 
-In both graphs the peak corresponds with 2010, we hypothesise that such value can be a result of the measures that the South African government has implemented several measures to address deforestation in recent years, including the promotion of sustainable farming practices, the regulation of timber extraction and the conservation of protected forest areas. 
+In both graphs the peak corresponds with 2010, we hypothesise that such value can be a result of the measures that the South African government has implemented several measures to address deforestation in recent years, including the promotion of sustainable farming practices, the regulation of timber extraction and the conservation of protected forest areas.
 In addition, the commitment to sustainable forest management has been strengthened through participation in international initiatives such as the Forest Stewardship Council (FSC). South Africa also collaborates with international organizations, such as the United Nations Development Programme (UNDP) and the Food and Agriculture Organization (FAO), to address deforestation and promote sustainable forest management.
 
-Moreover, the government promotes afforestation (planting trees in areas without forest cover) and reforestation (replanting trees in deforested areas) initiatives. 
+Moreover, the government promotes afforestation (planting trees in areas without forest cover) and reforestation (replanting trees in deforested areas) initiatives.
 These programs aim to increase forest cover, restore degraded ecosystems, and enhance carbon sequestration.
 
-|  |  |
-     Example of Google Earth Engine photo        Example of NDVI processed photo
+| | |
+Example of Google Earth Engine photo Example of NDVI processed photo
 
 ## Conclusion
+
 Our project aimed to investigate the variation of biomass on planet Earth,
 comparing the photographs taken on the ISS with satellite images from the past
 and also created a collection containing the images we took and their geographical
@@ -177,4 +179,3 @@ going to continue for the next decade.
 Looking back at our project there are a few things that could have been done
 differently. For example, it would have been better to avoid the use of the NIR filter on
 the camera, which made the comparison with the satellite images way more difficult.
-
