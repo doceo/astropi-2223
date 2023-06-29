@@ -18,12 +18,13 @@ Photos were selected when available, in order to have a good ratio between the n
 ## Criticalities
 
 An unknown error during the experiment in space (which never occurred during the test phase carried out on Earth) deleted the coordinates where each photo was taken from the CSV file, which were fundamental for the processing of the images. To make up for this error, a reverse engineering approach was chosen and applied using a python script.
-The "[isstracker](http://www.isstracker.com/historical)" website has been automated, which allows one to find the geographical coordinates of the ISS at a given time, thanks to the "Selenium" library. The script then extrapolated the date and time of the shooting of each photo from the EXIF metadata and inserted them into the website, thus obtaining the coordinates of the ISS at the time of capture.
+The reverse.py program was used to retrieve the coordinates of where each photo was taken as this data was lost to space due to an unknown error. The program takes all the photos taken and reads the time and day of the shooting from its metadata. All these dates are converted into a format suitable for uploading to the website [isstracker.com](http://www.isstracker.com/historical) which returns the position of the ISS at that given moment. This process is not done by hand but has been automated with the Selenium library.
 The program outputs a json file with:
-*the time of capture
-*the name of the photo file
-*geographical coordinates
-*the link to the coordinates on Google Earth Engine
+
+- the time of capture
+- the name of the photo file
+- geographical coordinates
+- the link to the coordinates on Google Earth Engine
 
 ## Photographed area
 
@@ -35,8 +36,9 @@ The photographed area is located on the border between South Africa, Botswana an
 
 - Lesheba Wilderness Reserve
 - Blouberg Nature Reserve
-  One of the main causes of deforestation in South Africa is the expansion of agricultural land, especially for crops such as sugar cane, corn and palm oil.
-  This agricultural expansion can lead to the conversion of forests into agricultural land, resulting in the loss of wildlife habitat and a decrease in forest cover.
+
+One of the main causes of deforestation in South Africa is the expansion of agricultural land, especially for crops such as sugar cane, corn and palm oil.
+This agricultural expansion can lead to the conversion of forests into agricultural land, resulting in the loss of wildlife habitat and a decrease in forest cover.
 
 ## NDVI and predictions Calculation
 
