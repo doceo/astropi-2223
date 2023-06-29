@@ -26,9 +26,10 @@ The program outputs a json file with:
 *the link to the coordinates on Google Earth Engine
 
 ## Photographed area
-|  |    |
-| ---- | ----------------- |
-|![foto3](https://github.com/doceo/astropi-2223/assets/74982114/aab65747-99e2-40c4-9e2b-a57be225d386)|![foto4](https://github.com/doceo/astropi-2223/assets/74982114/664626a6-ef04-4776-8e98-f62f83ed4a63)|
+
+|                                                                                                      |                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![foto3](https://github.com/doceo/astropi-2223/assets/74982114/aab65747-99e2-40c4-9e2b-a57be225d386) | ![foto4](https://github.com/doceo/astropi-2223/assets/74982114/664626a6-ef04-4776-8e98-f62f83ed4a63) |
 
 The photographed area is located on the border between South Africa, Botswana and Zimbabwe, we found it particularly interesting because a single photo shows the following nature reserves:
 
@@ -47,7 +48,7 @@ To obtain the NDVI data we use two different techniques:
 - For the images taken from Google Earth Engine, red and infrared colour bands were taken and used to calculate the NDVI value per pixel, by dividing the difference with the sum of the bands.
 - For the images taken from the ISS, we used the Python script given by the Astro Pi team, which divides the difference and the sum of the red and blue values of the photos.
 
-The NDVI values of the pixels were then averaged and used to create a temporal series to understand the trend and then it was expanded through a predictive model. The predictive model used was SARIMAX, a model specific for time series forecasting.
+The pred.py program implements a SARIMAX predictive model for time series analysis of NDVI data. The program extracts from the csv files the average of the NDVI values of the pixels of an image taken in a given area for each available year. Then the program thanks to the SARIMAX model, a statistical model used for the analysis and forecasting of historical series, tries to predict what the average value of NDVI could be in the following 10 years.
 
 ## NDVI value interpretation
 
@@ -159,9 +160,9 @@ In addition, the commitment to sustainable forest management has been strengthen
 Moreover, the government promotes afforestation (planting trees in areas without forest cover) and reforestation (replanting trees in deforested areas) initiatives.
 These programs aim to increase forest cover, restore degraded ecosystems, and enhance carbon sequestration.
 
-| Google Earth Engine photo | ANDVI processed photo      |
-| ---- | ---- |
-| ![foto1](https://github.com/doceo/astropi-2223/assets/74982114/38783b53-7045-4439-8f36-611cb4942833)|![foto5](https://github.com/doceo/astropi-2223/assets/74982114/888e9555-4cce-4e10-8fa8-51148076b8f4)|
+| Google Earth Engine photo                                                                            | ANDVI processed photo                                                                                |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![foto1](https://github.com/doceo/astropi-2223/assets/74982114/38783b53-7045-4439-8f36-611cb4942833) | ![foto5](https://github.com/doceo/astropi-2223/assets/74982114/888e9555-4cce-4e10-8fa8-51148076b8f4) |
 
 ## Conclusion
 
