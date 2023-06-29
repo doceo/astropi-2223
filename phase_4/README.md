@@ -37,7 +37,7 @@ The photographed area is located on the border between South Africa, Botswana an
   One of the main causes of deforestation in South Africa is the expansion of agricultural land, especially for crops such as sugar cane, corn and palm oil.
   This agricultural expansion can lead to the conversion of forests into agricultural land, resulting in the loss of wildlife habitat and a decrease in forest cover.
 
-## NDVI Calculation
+## NDVI and predictions Calculation
 
 When we received the data, on Earth we applied the NDVI to the pictures taken and compared them with past satellite images taken from Google Earth Engine.
 In order to obtain a coherent NDVI value, we chose the most interesting photo and divided it in two zones, both characterised by a large amount of vegetation, the Blouberg Nature Reserve and the Lesheba Wilderness Reserve.
