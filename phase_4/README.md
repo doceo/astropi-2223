@@ -26,10 +26,9 @@ The program outputs a json file with:
 *the link to the coordinates on Google Earth Engine
 
 ## Photographed area
-
-|![foto3](https://github.com/doceo/astropi-2223/assets/74982114/aab65747-99e2-40c4-9e2b-a57be225d386)
- |![foto4](https://github.com/doceo/astropi-2223/assets/74982114/664626a6-ef04-4776-8e98-f62f83ed4a63)
- |
+|  |    |
+| ---- | ----------------- |
+|![foto3](https://github.com/doceo/astropi-2223/assets/74982114/aab65747-99e2-40c4-9e2b-a57be225d386)|![foto4](https://github.com/doceo/astropi-2223/assets/74982114/664626a6-ef04-4776-8e98-f62f83ed4a63)|
 
 The photographed area is located on the border between South Africa, Botswana and Zimbabwe, we found it particularly interesting because a single photo shows the following nature reserves:
 
@@ -160,10 +159,9 @@ In addition, the commitment to sustainable forest management has been strengthen
 Moreover, the government promotes afforestation (planting trees in areas without forest cover) and reforestation (replanting trees in deforested areas) initiatives.
 These programs aim to increase forest cover, restore degraded ecosystems, and enhance carbon sequestration.
 
-| ![foto1](https://github.com/doceo/astropi-2223/assets/74982114/38783b53-7045-4439-8f36-611cb4942833)
-| ![foto2](https://github.com/doceo/astropi-2223/assets/74982114/b8471e51-3eca-4f5b-9553-6db3431c3074)
-|
-Example of Google Earth Engine photo Example of NDVI processed photo
+| Google Earth Engine photo | ANDVI processed photo      |
+| ---- | ---- |
+| ![foto1](https://github.com/doceo/astropi-2223/assets/74982114/38783b53-7045-4439-8f36-611cb4942833)|![foto5](https://github.com/doceo/astropi-2223/assets/74982114/888e9555-4cce-4e10-8fa8-51148076b8f4)|
 
 ## Conclusion
 
