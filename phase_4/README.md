@@ -160,7 +160,7 @@ In both graphs the peak corresponds with 2010, we hypothesise that such value ca
 In addition, the commitment to sustainable forest management has been strengthened through participation in international initiatives such as the Forest Stewardship Council (FSC). South Africa also collaborates with international organizations, such as the United Nations Development Programme (UNDP) and the Food and Agriculture Organization (FAO), to address deforestation and promote sustainable forest management.
 
 Moreover, the government promotes afforestation (planting trees in areas without forest cover) and reforestation (replanting trees in deforested areas) initiatives.
-These programs aim to increase forest cover, restore degraded ecosystems, and enhance carbon sequestration.
+These programs aim to increase forest cover and restore degraded ecosystems.
 
 | Google Earth Engine photo                                                                            | ANDVI processed photo                                                                                |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
